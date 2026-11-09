@@ -12,10 +12,6 @@ custom_fields:
 taxonomy:
     category:
         - bacaan
-
-    tags:
-        - bacaan
-        - teknologi
 ---
 
 ## Bijak Klik, Jaga Hati: Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya

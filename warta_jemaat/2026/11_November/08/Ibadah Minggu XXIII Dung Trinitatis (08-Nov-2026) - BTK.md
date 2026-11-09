@@ -10,10 +10,6 @@ custom_fields:
     site_seo_desc: "Warta Jemaat dan Tata Acara Ibadah Minggu XXII Dung Trinitatis Minggu 08 November 2026. Bahasa Batak."
 taxonomy:
     category:
-        - warta-acara
-        - ibadah-minggu
-        
-    tags:
         - b-batak
         - warta-acara
         - ibadah-minggu
