@@ -5,10 +5,10 @@ on:
     branches:
       - main
     paths:
-      - "warta_jemaat/**/*.md"
-      - "artikel/**/*.md"
-      - "pages/**/*.md"
-      - "pages/**/*.json"
+      - "warta-acara/**"
+      - "warta_jemaat/**"
+      - "artikel/**"
+      - "pages/**"
       - "scripts/build-index.mjs"
   workflow_dispatch:
 

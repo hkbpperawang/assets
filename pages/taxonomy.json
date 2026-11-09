@@ -1,0 +1,68 @@
+{
+  "postingan": {
+    "categories": [
+      { "slug": "renungan", "name": "Renungan", "parentSlug": null, "createsFolder": true, "wpId": 14 },
+      { "slug": "bacaan", "name": "Bacaan", "parentSlug": null, "createsFolder": true, "wpId": 86 },
+      { "slug": "karya-tulis", "name": "Karya Tulis", "parentSlug": null, "createsFolder": true, "wpId": 68 },
+      { "slug": "kegiatan", "name": "Kegiatan", "parentSlug": null, "createsFolder": true, "wpId": 75 },
+      { "slug": "berita", "name": "Berita", "parentSlug": null, "createsFolder": true, "wpId": 31 },
+      { "slug": "ayat-harian", "name": "Ayat Harian", "parentSlug": "renungan", "createsFolder": false, "wpId": 83 },
+      { "slug": "ayat-mingguan", "name": "Ayat Mingguan", "parentSlug": "renungan", "createsFolder": false, "wpId": 84 },
+      { "slug": "ayat-bulanan", "name": "Ayat Bulanan", "parentSlug": "renungan", "createsFolder": false, "wpId": 85 },
+      { "slug": "cerita-pendek", "name": "Cerita Pendek", "parentSlug": "karya-tulis", "createsFolder": false, "wpId": 77 },
+      { "slug": "puisi", "name": "Puisi", "parentSlug": "karya-tulis", "createsFolder": false, "wpId": 78 },
+      { "slug": "internet", "name": "Internet", "parentSlug": "bacaan", "createsFolder": false, "wpId": 79 },
+      { "slug": "kesehatan", "name": "Kesehatan", "parentSlug": "bacaan", "createsFolder": false, "wpId": 80 },
+      { "slug": "tips", "name": "Tips", "parentSlug": "bacaan", "createsFolder": false, "wpId": 81 },
+      { "slug": "tutorial", "name": "Tutorial", "parentSlug": "bacaan", "createsFolder": false, "wpId": 82 },
+      { "slug": "pelayanan", "name": "Pelayanan", "parentSlug": "kegiatan", "createsFolder": false, "wpId": 76 },
+      { "slug": "hkbp", "name": "HKBP", "parentSlug": "kegiatan", "createsFolder": false, "wpId": 74 },
+      { "slug": "koor", "name": "Koor", "parentSlug": "kegiatan", "createsFolder": false, "wpId": 29 },
+      { "slug": "youtube", "name": "YouTube", "parentSlug": "kegiatan", "createsFolder": false, "wpId": 30 }
+    ],
+    "tags": [
+      { "slug": "renungan-minggu", "name": "Renungan Minggu" },
+      { "slug": "pemuda-gereja", "name": "Pemuda Gereja" },
+      { "slug": "etika-digital", "name": "Etika Digital" },
+      { "slug": "diakonia", "name": "Diakonia" }
+    ]
+  },
+  "warta": {
+    "categories": [
+      { "slug": "warta-acara", "name": "Warta Acara", "parentSlug": null, "createsFolder": false, "wpId": 15 },
+      { "slug": "ibadah-minggu", "name": "Ibadah Minggu", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 17 },
+      { "slug": "b-indonesia", "name": "B. Indonesia", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 18 },
+      { "slug": "b-batak", "name": "B. Batak", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 19 },
+      { "slug": "partangiangan-weyk", "name": "Partangiangan Weyk", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 73 },
+      { "slug": "tata-acara", "name": "Tata Acara", "parentSlug": null, "createsFolder": false, "wpId": 33 },
+      { "slug": "b-indonesia-tata-acara", "name": "B. Indonesia Tata Acara", "parentSlug": "tata-acara", "createsFolder": false, "wpId": 69 },
+      { "slug": "b-batak-tata-acara", "name": "B. Batak Tata Acara", "parentSlug": "tata-acara", "createsFolder": false, "wpId": 70 },
+      { "slug": "natal", "name": "Natal", "parentSlug": null, "createsFolder": false, "wpId": 32 },
+      { "slug": "b-indonesia-natal", "name": "B. Indonesia Natal", "parentSlug": "natal", "createsFolder": false, "wpId": 72 },
+      { "slug": "b-batak-natal", "name": "B. Batak Natal", "parentSlug": "natal", "createsFolder": false, "wpId": 71 },
+      { "slug": "tahun-baru", "name": "Tahun Baru", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 23 },
+      { "slug": "passion", "name": "Passion", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 24 },
+      { "slug": "jumat-agung", "name": "Jumat Agung", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 28 },
+      { "slug": "buhabuha-ijuk", "name": "Buhabuha Ijuk", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 27 },
+      { "slug": "paskah", "name": "Paskah", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 25 },
+      { "slug": "hari-kenaikan", "name": "Hari Kenaikan", "parentSlug": "warta-acara", "createsFolder": false, "wpId": 26 }
+    ],
+    "tags": [
+      { "slug": "bahasa-batak", "name": "Bahasa Batak" },
+      { "slug": "bahasa-indonesia", "name": "Bahasa Indonesia" },
+      { "slug": "minggu-trinitatis", "name": "Minggu Trinitatis" }
+    ]
+  },
+  "dokumen": {
+    "categories": [
+      { "slug": "dokumen", "name": "Dokumen", "parentSlug": null, "createsFolder": false, "wpId": 22 },
+      { "slug": "aturan-gereja", "name": "Aturan & Peraturan", "parentSlug": "dokumen", "createsFolder": false },
+      { "slug": "konfessi", "name": "Konfessi & Ajaran", "parentSlug": "dokumen", "createsFolder": false },
+      { "slug": "penatalayanan", "name": "Penatalayanan & RPP", "parentSlug": "dokumen", "createsFolder": false }
+    ],
+    "tags": [
+      { "slug": "dokumen-resmi-hkbp", "name": "Dokumen Resmi HKBP" },
+      { "slug": "pdf", "name": "PDF" }
+    ]
+  }
+}

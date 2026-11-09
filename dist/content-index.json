@@ -1,14 +1,396 @@
 {
-  "generatedAt": "2026-11-09T13:19:13.581Z",
+  "generatedAt": "2026-11-09T15:05:16.834Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 99,
+  "totalPosts": 98,
+  "artikelFolders": [
+    "bacaan",
+    "berita",
+    "karya-tulis",
+    "kegiatan",
+    "renungan"
+  ],
+  "wartaFolders": [
+    "2026",
+    "2026/01_Januari",
+    "2026/02_Februari",
+    "2026/03_Maret",
+    "2026/04_April",
+    "2026/04_April/19",
+    "2026/04_April/26",
+    "2026/05_Mei",
+    "2026/05_Mei/03",
+    "2026/05_Mei/10",
+    "2026/05_Mei/17",
+    "2026/05_Mei/23",
+    "2026/05_Mei/31",
+    "2026/06_Juni",
+    "2026/06_Juni/06",
+    "2026/06_Juni/13",
+    "2026/06_Juni/20",
+    "2026/06_Juni/27",
+    "2026/07_Juli",
+    "2026/07_Juli/04",
+    "2026/07_Juli/11",
+    "2026/07_Juli/18",
+    "2026/07_Juli/25",
+    "2026/08_Agustus",
+    "2026/08_Agustus/01",
+    "2026/08_Agustus/09",
+    "2026/08_Agustus/15",
+    "2026/08_Agustus/22",
+    "2026/08_Agustus/29",
+    "2026/09_September",
+    "2026/09_September/06",
+    "2026/09_September/13",
+    "2026/09_September/19",
+    "2026/09_September/27",
+    "2026/10_Oktober",
+    "2026/10_Oktober/03",
+    "2026/10_Oktober/10",
+    "2026/10_Oktober/18",
+    "2026/10_Oktober/25",
+    "2026/10_Oktober/31",
+    "2026/11_November",
+    "2026/11_November/08",
+    "2026/12_Desember"
+  ],
+  "taxonomy": {
+    "postingan": {
+      "categories": [
+        {
+          "slug": "renungan",
+          "name": "Renungan",
+          "parentSlug": null,
+          "createsFolder": true,
+          "wpId": 14
+        },
+        {
+          "slug": "bacaan",
+          "name": "Bacaan",
+          "parentSlug": null,
+          "createsFolder": true,
+          "wpId": 86
+        },
+        {
+          "slug": "karya-tulis",
+          "name": "Karya Tulis",
+          "parentSlug": null,
+          "createsFolder": true,
+          "wpId": 68
+        },
+        {
+          "slug": "kegiatan",
+          "name": "Kegiatan",
+          "parentSlug": null,
+          "createsFolder": true,
+          "wpId": 75
+        },
+        {
+          "slug": "berita",
+          "name": "Berita",
+          "parentSlug": null,
+          "createsFolder": true,
+          "wpId": 31
+        },
+        {
+          "slug": "ayat-harian",
+          "name": "Ayat Harian",
+          "parentSlug": "renungan",
+          "createsFolder": false,
+          "wpId": 83
+        },
+        {
+          "slug": "ayat-mingguan",
+          "name": "Ayat Mingguan",
+          "parentSlug": "renungan",
+          "createsFolder": false,
+          "wpId": 84
+        },
+        {
+          "slug": "ayat-bulanan",
+          "name": "Ayat Bulanan",
+          "parentSlug": "renungan",
+          "createsFolder": false,
+          "wpId": 85
+        },
+        {
+          "slug": "cerita-pendek",
+          "name": "Cerita Pendek",
+          "parentSlug": "karya-tulis",
+          "createsFolder": false,
+          "wpId": 77
+        },
+        {
+          "slug": "puisi",
+          "name": "Puisi",
+          "parentSlug": "karya-tulis",
+          "createsFolder": false,
+          "wpId": 78
+        },
+        {
+          "slug": "internet",
+          "name": "Internet",
+          "parentSlug": "bacaan",
+          "createsFolder": false,
+          "wpId": 79
+        },
+        {
+          "slug": "kesehatan",
+          "name": "Kesehatan",
+          "parentSlug": "bacaan",
+          "createsFolder": false,
+          "wpId": 80
+        },
+        {
+          "slug": "tips",
+          "name": "Tips",
+          "parentSlug": "bacaan",
+          "createsFolder": false,
+          "wpId": 81
+        },
+        {
+          "slug": "tutorial",
+          "name": "Tutorial",
+          "parentSlug": "bacaan",
+          "createsFolder": false,
+          "wpId": 82
+        },
+        {
+          "slug": "pelayanan",
+          "name": "Pelayanan",
+          "parentSlug": "kegiatan",
+          "createsFolder": false,
+          "wpId": 76
+        },
+        {
+          "slug": "hkbp",
+          "name": "HKBP",
+          "parentSlug": "kegiatan",
+          "createsFolder": false,
+          "wpId": 74
+        },
+        {
+          "slug": "koor",
+          "name": "Koor",
+          "parentSlug": "kegiatan",
+          "createsFolder": false,
+          "wpId": 29
+        },
+        {
+          "slug": "youtube",
+          "name": "YouTube",
+          "parentSlug": "kegiatan",
+          "createsFolder": false,
+          "wpId": 30
+        }
+      ],
+      "tags": [
+        {
+          "slug": "renungan-minggu",
+          "name": "Renungan Minggu"
+        },
+        {
+          "slug": "pemuda-gereja",
+          "name": "Pemuda Gereja"
+        },
+        {
+          "slug": "etika-digital",
+          "name": "Etika Digital"
+        },
+        {
+          "slug": "diakonia",
+          "name": "Diakonia"
+        }
+      ]
+    },
+    "warta": {
+      "categories": [
+        {
+          "slug": "warta-acara",
+          "name": "Warta Acara",
+          "parentSlug": null,
+          "createsFolder": false,
+          "wpId": 15
+        },
+        {
+          "slug": "ibadah-minggu",
+          "name": "Ibadah Minggu",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 17
+        },
+        {
+          "slug": "b-indonesia",
+          "name": "B. Indonesia",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 18
+        },
+        {
+          "slug": "b-batak",
+          "name": "B. Batak",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 19
+        },
+        {
+          "slug": "partangiangan-weyk",
+          "name": "Partangiangan Weyk",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 73
+        },
+        {
+          "slug": "tata-acara",
+          "name": "Tata Acara",
+          "parentSlug": null,
+          "createsFolder": false,
+          "wpId": 33
+        },
+        {
+          "slug": "b-indonesia-tata-acara",
+          "name": "B. Indonesia Tata Acara",
+          "parentSlug": "tata-acara",
+          "createsFolder": false,
+          "wpId": 69
+        },
+        {
+          "slug": "b-batak-tata-acara",
+          "name": "B. Batak Tata Acara",
+          "parentSlug": "tata-acara",
+          "createsFolder": false,
+          "wpId": 70
+        },
+        {
+          "slug": "natal",
+          "name": "Natal",
+          "parentSlug": null,
+          "createsFolder": false,
+          "wpId": 32
+        },
+        {
+          "slug": "b-indonesia-natal",
+          "name": "B. Indonesia Natal",
+          "parentSlug": "natal",
+          "createsFolder": false,
+          "wpId": 72
+        },
+        {
+          "slug": "b-batak-natal",
+          "name": "B. Batak Natal",
+          "parentSlug": "natal",
+          "createsFolder": false,
+          "wpId": 71
+        },
+        {
+          "slug": "tahun-baru",
+          "name": "Tahun Baru",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 23
+        },
+        {
+          "slug": "passion",
+          "name": "Passion",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 24
+        },
+        {
+          "slug": "jumat-agung",
+          "name": "Jumat Agung",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 28
+        },
+        {
+          "slug": "buhabuha-ijuk",
+          "name": "Buhabuha Ijuk",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 27
+        },
+        {
+          "slug": "paskah",
+          "name": "Paskah",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 25
+        },
+        {
+          "slug": "hari-kenaikan",
+          "name": "Hari Kenaikan",
+          "parentSlug": "warta-acara",
+          "createsFolder": false,
+          "wpId": 26
+        }
+      ],
+      "tags": [
+        {
+          "slug": "bahasa-batak",
+          "name": "Bahasa Batak"
+        },
+        {
+          "slug": "bahasa-indonesia",
+          "name": "Bahasa Indonesia"
+        },
+        {
+          "slug": "minggu-trinitatis",
+          "name": "Minggu Trinitatis"
+        }
+      ]
+    },
+    "dokumen": {
+      "categories": [
+        {
+          "slug": "dokumen",
+          "name": "Dokumen",
+          "parentSlug": null,
+          "createsFolder": false,
+          "wpId": 22
+        },
+        {
+          "slug": "aturan-gereja",
+          "name": "Aturan & Peraturan",
+          "parentSlug": "dokumen",
+          "createsFolder": false
+        },
+        {
+          "slug": "konfessi",
+          "name": "Konfessi & Ajaran",
+          "parentSlug": "dokumen",
+          "createsFolder": false
+        },
+        {
+          "slug": "penatalayanan",
+          "name": "Penatalayanan & RPP",
+          "parentSlug": "dokumen",
+          "createsFolder": false
+        }
+      ],
+      "tags": [
+        {
+          "slug": "dokumen-resmi-hkbp",
+          "name": "Dokumen Resmi HKBP"
+        },
+        {
+          "slug": "pdf",
+          "name": "PDF"
+        }
+      ]
+    }
+  },
   "posts": [
     {
       "id": 2067,
       "slug": "melakukan-keadilan-dan-kebenaran",
       "title": "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29)",
       "date": "2026-11-08T00:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.227Z",
       "modified": "2026-11-08T00:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/melakukan-keadilan-dan-kebenaran",
       "categorySlug": "renungan",
       "categories": [
@@ -23,6 +405,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29) Saudara-saudara yang dikasihi Tuhan, ada satu kecenderungan manusia yang sangat berbahaya: kita …",
       "seoTitle": "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29)",
       "seoDesc": "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29) Saudara-saudara yang dikasihi Tuhan, ada satu kecenderungan manusia yang sangat berbahaya: kita …",
@@ -34,49 +417,15 @@
       "rawMarkdown": "Melakukan Keadilan Dan Kebenaran\n(Yehezkiel 18 : 21-29)\n\nSaudara-saudara yang dikasihi Tuhan, ada satu kecenderungan manusia yang sangat berbahaya: kita selalu mempunyai alasan untuk membenarkan diri sendiri, tetapi begitu mudah menemukan kesalahan orang lain. Ketika gagal, kita menyalahkan masa lalu; ketika berbuat curang, kita menyalahkan keadaan; ketika menyalahgunakan kepercayaan, kita mencari pembenaran. Melalui Yehezkiel 18:21–29, Tuhan membongkar cara berpikir seperti ini. Tuhan menegaskan bahwa masa lalu tidak boleh menjadi penjara bagi orang yang mau bertobat, tetapi juga tidak boleh menjadi tempat berlindung bagi orang yang sekarang hidup dalam kejahatan. Orang fasik yang berbalik dari kejahatannya dan melakukan keadilan serta kebenaran memperoleh kesempatan untuk hidup. Sebaliknya, orang benar yang meninggalkan kebenaran tidak dapat berlindung di balik kesalehan masa lalunya. Artinya, Tuhan tidak terpesona oleh sejarah kebaikan kita, tetapi juga tidak menutup masa depan orang yang sungguh-sungguh bertobat. Masa lalu bukan jaminan bahwa kita pasti benar hari ini, dan masa lalu bukan vonis bahwa kita tidak mungkin menjadi benar hari esok. Inilah keadilan Allah: setiap orang dipanggil untuk bertanggung jawab atas jalan hidup yang sedang ditempuhnya.\n\nFirman ini menampar realitas kehidupan bangsa Indonesia. Kita menyaksikan korupsi, penyalahgunaan jabatan, manipulasi kekuasaan, ketidakadilan hukum, dan pengkhianatan terhadap kepercayaan rakyat. Ironisnya, orang yang seharusnya menjadi penjaga amanah terkadang justru menjadi pelaku penyalahgunaan amanah. Namun, jangan berhenti menunjuk kesalahan para pemimpin, sebab ketidakjujuran tidak selalu dimulai dari gedung pemerintahan; ia bisa dimulai dari rumah, kantor, tempat usaha, bahkan gereja. Kita mengecam korupsi, tetapi apakah kita jujur dalam pekerjaan? Kita menuntut keadilan, tetapi apakah kita adil terhadap bawahan dan orang yang lebih lemah? Kita mengkritik pemimpin yang menyalahgunakan kekuasaan, tetapi apakah kita tidak pernah menggunakan kedudukan untuk memaksakan kehendak? Kita berbicara tentang kasih, tetapi apakah kita tidak pernah merampas hak, merusak nama baik, atau memperlakukan orang lain secara tidak manusiawi? Jangan sampai kita begitu sibuk membersihkan kesalahan bangsa ini, tetapi membiarkan ketidakbenaran bersarang dalam diri sendiri. Sebab persoalan terbesar bukan hanya ketika kejahatan dilakukan oleh orang yang tidak mengenal kebenaran, melainkan ketika orang yang mengetahui kebenaran memilih mengabaikannya demi keuntungan pribadi. Tuhan tidak hanya menghendaki kita menjadi pengkritik ketidakadilan, tetapi menjadi pelaku keadilan.\n\nKarena itu, pertanyaan yang harus kita bawa pulang bukanlah, “Siapa yang salah di negeri ini?” melainkan, “Apakah saya sendiri sudah hidup benar di hadapan Tuhan?” Ingat, integritas tidak diuji ketika semua orang mengawasi kita, tetapi ketika kita mempunyai kesempatan untuk berbuat curang tanpa diketahui siapa pun. Kejujuran tidak diuji ketika berkata benar mendatangkan keuntungan, tetapi ketika kebenaran justru membuat kita kehilangan keuntungan. Keadilan tidak diuji ketika kita memperlakukan orang yang sederajat dengan kita, tetapi ketika kita berhadapan dengan orang kecil yang tidak mempunyai kekuatan untuk melawan. Itulah sebabnya Tuhan memanggil kita untuk berubah, bukan sekadar terlihat baik. Jika dahulu kita berbuat salah, bertobatlah. Jika sekarang kita mempunyai kekuasaan, gunakanlah untuk melindungi, bukan menindas. Jika kita mempunyai kekayaan, jangan memperolehnya dengan merampas hak orang lain. Jika kita melayani Tuhan, jangan jadikan pelayanan sebagai tempat mencari kehormatan, tetapi sebagai kesempatan menghadirkan kasih dan kebenaran. Jangan jadikan masa lalu sebagai alasan untuk menyerah, dan jangan jadikan kesalehan masa lalu sebagai alasan untuk hidup sembarangan. Indonesia tidak kekurangan orang yang pandai berbicara tentang kebenaran; yang sangat dibutuhkan adalah orang-orang yang berani melakukan kebenaran sekalipun tidak mendapatkan pujian, bahkan sekalipun harus kehilangan keuntungan. Sebab pada akhirnya, Tuhan tidak hanya menghendaki kita pandai mengucapkan keadilan dan kebenaran, tetapi sungguh-sungguh menjadi pelakunya. Amin."
     },
     {
-      "id": 470879803,
-      "slug": "ibadah-minggu-xxiii-dung-trinitatis-08-nov-2026-btk",
-      "title": "Ibadah Minggu XXIII Dung Trinitatis (08-Nov-2026) - BTK",
-      "date": "2026-11-08T00:02:00+07:00",
-      "modified": "2026-11-08T00:02:00+07:00",
-      "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxiii-dung-trinitatis-08-nov-2026-btk",
-      "categorySlug": "warta-acara",
-      "categories": [
-        19,
-        15,
-        17
-      ],
-      "categorySlugs": [
-        "b-batak",
-        "warta-acara",
-        "ibadah-minggu"
-      ],
-      "categoryNames": [
-        "B. Batak",
-        "Warta Acara",
-        "Ibadah Minggu"
-      ],
-      "tags": [],
-      "author": "Tim Redaksi HKBP Perawang",
-      "image": null,
-      "excerpt": "Warta Jemaat dan Tata Acara Ibadah Minggu XXII Dung Trinitatis Minggu 08 November 2026. Bahasa Batak.",
-      "seoTitle": "Ibadah Minggu XXIII Dung Trinitatis, Ibadah Minggu",
-      "seoDesc": "Warta Jemaat dan Tata Acara Ibadah Minggu XXII Dung Trinitatis Minggu 08 November 2026. Bahasa Batak.",
-      "seoTarget": "Ibadah Minggu XXIII Dung Trinitatistis",
-      "pdfUrl": "https://drive.google.com/open?id=1hom5xzaayrYPQYPpnIA5cwQRnWdTmNYR&usp=drive_fs",
-      "driveId": "1hom5xzaayrYPQYPpnIA5cwQRnWdTmNYR",
-      "embeds": [
-        "https://drive.google.com/file/d/1hom5xzaayrYPQYPpnIA5cwQRnWdTmNYR/preview"
-      ],
-      "sourcePath": "warta_jemaat/2026/11_November/08/Ibadah Minggu XXIII Dung Trinitatis (08-Nov-2026) - BTK.md",
-      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1hom5xzaayrYPQYPpnIA5cwQRnWdTmNYR&usp=drive_fs\""
-    },
-    {
       "id": 2068,
       "slug": "ibadah-minggu-xxiii-setelah-trinitatis-08-nov-2026-btk",
       "title": "Ibadah Minggu XXIII Dung Trinitatis (08-Nov-2026) – BTK",
       "date": "2026-11-08T00:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.585Z",
       "modified": "2026-11-08T00:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/11_November/08",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxiii-setelah-trinitatis-08-nov-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -97,6 +446,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XXIII Dung Trinitatis (08-Nov-2026) – BTK",
       "seoTitle": "Ibadah Minggu XXIII Dung Trinitatis (08-Nov-2026) – BTK",
       "seoDesc": "Ibadah Minggu XXIII Dung Trinitatis (08-Nov-2026) – BTK",
@@ -106,7 +456,7 @@
       "embeds": [
         "https://drive.google.com/file/d/17miy6_vTRF3K25Ztav1wBtQJxqiOZspe/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/11_November/08/Ibadah Minggu XXIII Dung Trinitatis (08-Nov-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/11_November/08/Ibadah Minggu XXIII Dung Trinitatis (08-Nov-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=17miy6_vTRF3K25Ztav1wBtQJxqiOZspe&usp=drive_fs\""
     },
     {
@@ -114,7 +464,11 @@
       "slug": "ibadah-minggu-xxiii-setelah-trinitatis-08-nov-2026-id",
       "title": "Ibadah Minggu XXIII Setelah Trinitatis (08-Nov-2026) – ID",
       "date": "2026-11-08T00:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.586Z",
       "modified": "2026-11-08T00:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/11_November/08",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxiii-setelah-trinitatis-08-nov-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -135,6 +489,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XXIII Setelah Trinitatis (08-Nov-2026) – ID",
       "seoTitle": "Ibadah Minggu XXIII Setelah Trinitatis (08-Nov-2026) – ID",
       "seoDesc": "Ibadah Minggu XXIII Setelah Trinitatis (08-Nov-2026) – ID",
@@ -144,7 +499,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1hom5xzaayrYPQYPpnIA5cwQRnWdTmNYR/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/11_November/08/Ibadah Minggu XXIII Setelah Trinitatis (08-Nov-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/11_November/08/Ibadah Minggu XXIII Setelah Trinitatis (08-Nov-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1hom5xzaayrYPQYPpnIA5cwQRnWdTmNYR&usp=drive_fs\""
     },
     {
@@ -152,7 +507,11 @@
       "slug": "bijak-klik-jaga-hati-menjadi-orang-kristen-yang-cerdas-dan-beretika-di-dunia-maya",
       "title": "Bijak Klik, Jaga Hati: Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya",
       "date": "2026-11-07T12:01:00+07:00",
+      "createdAt": "2026-11-09T05:29:21.275Z",
       "modified": "2026-11-07T12:01:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "bacaan",
       "link": "https://www.hkbpperawang.org/bacaan/bijak-klik-jaga-hati-menjadi-orang-kristen-yang-cerdas-dan-beretika-di-dunia-maya",
       "categorySlug": "bacaan",
       "categories": [
@@ -167,6 +526,7 @@
       "tags": [],
       "author": "Tim Multimedia",
       "image": "https://i.pinimg.com/1200x/7c/77/7b/7c777bb8c46cb1584969be9afe36d362.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/7c/77/7b/7c777bb8c46cb1584969be9afe36d362.jpg",
       "excerpt": "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya",
       "seoTitle": "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya",
       "seoDesc": "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya",
@@ -182,7 +542,11 @@
       "slug": "hidup-menurut-kehendak-allah",
       "title": "Hidup menurut kehendak Allah (1 Tessalonik 2 : 8 – 12)",
       "date": "2026-10-31T17:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.233Z",
       "modified": "2026-10-31T17:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/hidup-menurut-kehendak-allah",
       "categorySlug": "renungan",
       "categories": [
@@ -197,6 +561,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Hidup menurut kehendak Allah (1 Tessalonik 2 : 8 – 12) Kita sering berpikir bahwa kehendak Allah adalah sebuah peta …",
       "seoTitle": "Hidup menurut kehendak Allah (1 Tessalonik 2 : 8 – 12)",
       "seoDesc": "Hidup menurut kehendak Allah (1 Tessalonik 2 : 8 – 12) Kita sering berpikir bahwa kehendak Allah adalah sebuah peta …",
@@ -212,7 +577,11 @@
       "slug": "ibadah-minggu-xxii-setelah-trinitatis-01-nov-2026-btk",
       "title": "Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) – BTK",
       "date": "2026-10-31T17:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.583Z",
       "modified": "2026-10-31T17:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/10_Oktober/31",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxii-setelah-trinitatis-01-nov-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -233,6 +602,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) – BTK",
       "seoTitle": "Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) – BTK",
       "seoDesc": "Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) – BTK",
@@ -242,7 +612,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1kIR9e4Q1r5BhvNcPCE-BxFBfQRqVQ2Jx/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/10_Oktober/31/Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/10_Oktober/31/Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1kIR9e4Q1r5BhvNcPCE-BxFBfQRqVQ2Jx&usp=drive_fs\""
     },
     {
@@ -250,7 +620,11 @@
       "slug": "ibadah-minggu-xxii-setelah-trinitatis-01-nov-2026-id",
       "title": "Ibadah Minggu XXII Setelah Trinitatis (01-Nov-2026) – ID",
       "date": "2026-10-31T17:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.584Z",
       "modified": "2026-10-31T17:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/10_Oktober/31",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxii-setelah-trinitatis-01-nov-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -271,6 +645,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XXII Setelah Trinitatis (01-Nov-2026) – ID",
       "seoTitle": "Ibadah Minggu XXII Setelah Trinitatis (01-Nov-2026) – ID",
       "seoDesc": "Ibadah Minggu XXII Setelah Trinitatis (01-Nov-2026) – ID",
@@ -280,7 +655,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1uR6NJ6uclRK58GC9S4fYewg0Q2UiNIMg/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/10_Oktober/31/Ibadah Minggu XXII Setelah Trinitatis (01-Nov-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/10_Oktober/31/Ibadah Minggu XXII Setelah Trinitatis (01-Nov-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1uR6NJ6uclRK58GC9S4fYewg0Q2UiNIMg&usp=drive_fs\""
     },
     {
@@ -288,7 +663,11 @@
       "slug": "mencari-perlindungan-pada-nama-tuhan",
       "title": "Mencari Perlindungan pada nama Tuhan ( Zefanya 3 : 9 – 15 )",
       "date": "2026-10-25T03:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.235Z",
       "modified": "2026-10-25T03:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/mencari-perlindungan-pada-nama-tuhan",
       "categorySlug": "renungan",
       "categories": [
@@ -303,6 +682,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Mencari Perlindungan pada nama Tuhan (Zefanya 3 : 9 – 15) Kita sering berkata bahwa Tuhan adalah tempat perlindungan kita, …",
       "seoTitle": "Mencari Perlindungan pada nama Tuhan ( Zefanya 3 : 9 – 15 )",
       "seoDesc": "Mencari Perlindungan pada nama Tuhan (Zefanya 3 : 9 – 15) Kita sering berkata bahwa Tuhan adalah tempat perlindungan kita, …",
@@ -318,7 +698,11 @@
       "slug": "ibadah-minggu-xxi-dung-trinitatis-25-okt-2026-btk",
       "title": "Ibadah Minggu XXI Dung Trinitatis (25-Okt-2026) – BTK",
       "date": "2026-10-25T03:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.582Z",
       "modified": "2026-10-25T03:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/10_Oktober/25",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxi-dung-trinitatis-25-okt-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -339,6 +723,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XXI Dung Trinitatis (25-Okt-2026) – BTK",
       "seoTitle": "Ibadah Minggu XXI Dung Trinitatis (25-Okt-2026) – BTK",
       "seoDesc": "Ibadah Minggu XXI Dung Trinitatis (25-Okt-2026) – BTK",
@@ -348,7 +733,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1zcaSfsj-qiV4HzMacu9jfTsG30ju1VIu/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/10_Oktober/25/Ibadah Minggu XXI Dung Trinitatis (25-Okt-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/10_Oktober/25/Ibadah Minggu XXI Dung Trinitatis (25-Okt-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1zcaSfsj-qiV4HzMacu9jfTsG30ju1VIu&usp=drive_fs\""
     },
     {
@@ -356,7 +741,11 @@
       "slug": "ibadah-minggu-xxi-setelah-trinitatis-25-okt-2026-id",
       "title": "Ibadah Minggu XXI Setelah Trinitatis (25-Okt-2026) – ID",
       "date": "2026-10-25T03:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.582Z",
       "modified": "2026-10-25T03:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/10_Oktober/25",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxi-setelah-trinitatis-25-okt-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -377,6 +766,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XXI Setelah Trinitatis (25-Okt-2026) – ID",
       "seoTitle": "Ibadah Minggu XXI Setelah Trinitatis (25-Okt-2026) – ID",
       "seoDesc": "Ibadah Minggu XXI Setelah Trinitatis (25-Okt-2026) – ID",
@@ -386,7 +776,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1XLIks-E3bMgGxrkgq7i1GCfPwivCeTh3/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/10_Oktober/25/Ibadah Minggu XXI Setelah Trinitatis (25-Okt-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/10_Oktober/25/Ibadah Minggu XXI Setelah Trinitatis (25-Okt-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1XLIks-E3bMgGxrkgq7i1GCfPwivCeTh3&usp=drive_fs\""
     },
     {
@@ -394,7 +784,11 @@
       "slug": "dipanggil-dan-dipilih-allah",
       "title": "Dipanggil dan dipilih Allah ( 2 Petrus 1 : 3 – 11 )",
       "date": "2026-10-18T01:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.237Z",
       "modified": "2026-10-18T01:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/dipanggil-dan-dipilih-allah",
       "categorySlug": "renungan",
       "categories": [
@@ -409,6 +803,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Dipanggil dan dipilih Allah (2 Petrus 1 : 3 – 11) Saudara-saudara yang dikasihi Tuhan Yesus Kristus, melalui 2 Petrus …",
       "seoTitle": "Dipanggil dan dipilih Allah ( 2 Petrus 1 : 3 – 11 )",
       "seoDesc": "Dipanggil dan dipilih Allah (2 Petrus 1 : 3 – 11) Saudara-saudara yang dikasihi Tuhan Yesus Kristus, melalui 2 Petrus …",
@@ -424,7 +819,11 @@
       "slug": "ibadah-minggu-xx-dung-trinitatis-18-okt-2026-btk",
       "title": "Ibadah Minggu XX Dung Trinitatis (18-Okt-2026) – BTK",
       "date": "2026-10-18T01:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.580Z",
       "modified": "2026-10-18T01:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/10_Oktober/18",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xx-dung-trinitatis-18-okt-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -445,6 +844,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XX Dung Trinitatis (18-Okt-2026) – BTK",
       "seoTitle": "Ibadah Minggu XX Dung Trinitatis (18-Okt-2026) – BTK",
       "seoDesc": "Ibadah Minggu XX Dung Trinitatis (18-Okt-2026) – BTK",
@@ -454,7 +854,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1Hp4q2xHRuUfAh0mAdnh5WWkgXdr64BJT/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/10_Oktober/18/Ibadah Minggu XX Dung Trinitatis (18-Okt-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/10_Oktober/18/Ibadah Minggu XX Dung Trinitatis (18-Okt-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1Hp4q2xHRuUfAh0mAdnh5WWkgXdr64BJT&usp=drive_fs\""
     },
     {
@@ -462,7 +862,11 @@
       "slug": "ibadah-minggu-xx-dung-trinitatis-18-okt-2026-id",
       "title": "Ibadah Minggu XX Setelah Trinitatis (18-Okt-2026) – ID",
       "date": "2026-10-18T01:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.581Z",
       "modified": "2026-10-18T01:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/10_Oktober/18",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xx-dung-trinitatis-18-okt-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -483,6 +887,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XX Setelah Trinitatis (18-Okt-2026) – ID",
       "seoTitle": "Ibadah Minggu XX Setelah Trinitatis (18-Okt-2026) – ID",
       "seoDesc": "Ibadah Minggu XX Setelah Trinitatis (18-Okt-2026) – ID",
@@ -492,7 +897,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1waEx5710PVISv8u9o0KoJ4HDv7z5iR1r/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/10_Oktober/18/Ibadah Minggu XX Setelah Trinitatis (18-Okt-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/10_Oktober/18/Ibadah Minggu XX Setelah Trinitatis (18-Okt-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1waEx5710PVISv8u9o0KoJ4HDv7z5iR1r&usp=drive_fs\""
     },
     {
@@ -500,7 +905,11 @@
       "slug": "allah-menyukai-kasih-setia",
       "title": "Allah Menyukai Kasih Setia ( Hosea 6 : 1 – 6 )",
       "date": "2026-10-10T20:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.237Z",
       "modified": "2026-10-10T20:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/allah-menyukai-kasih-setia",
       "categorySlug": "renungan",
       "categories": [
@@ -515,6 +924,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Allah menyukai kasih setia (Hosea 6 : 1 – 6) Saudara-saudara yang dikasihi Tuhan, persoalan umat Israel bukan semata-mata karena …",
       "seoTitle": "Allah Menyukai Kasih Setia ( Hosea 6 : 1 – 6 )",
       "seoDesc": "Allah menyukai kasih setia (Hosea 6 : 1 – 6) Saudara-saudara yang dikasihi Tuhan, persoalan umat Israel bukan semata-mata karena …",
@@ -530,7 +940,11 @@
       "slug": "ibadah-minggu-xix-dung-trinitatis-11-okt-2026-btk",
       "title": "Ibadah Minggu XIX Dung Trinitatis (11-Okt-2026) – BTK",
       "date": "2026-10-10T20:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-10-10T20:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/10_Oktober/10",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xix-dung-trinitatis-11-okt-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -551,6 +965,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XIX Dung Trinitatis (11-Okt-2026) – BTK",
       "seoTitle": "Ibadah Minggu XIX Dung Trinitatis (11-Okt-2026) – BTK",
       "seoDesc": "Ibadah Minggu XIX Dung Trinitatis (11-Okt-2026) – BTK",
@@ -560,7 +975,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1MazVbDTfuCt7BPH1Q2JRvRfUl78c4OIX/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/10_Oktober/10/Ibadah Minggu XIX Dung Trinitatis (11-Okt-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/10_Oktober/10/Ibadah Minggu XIX Dung Trinitatis (11-Okt-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1MazVbDTfuCt7BPH1Q2JRvRfUl78c4OIX&usp=drive_fs\""
     },
     {
@@ -568,7 +983,11 @@
       "slug": "ibadah-minggu-xix-dung-trinitatis-11-okt-2026-id",
       "title": "Ibadah Minggu XIX Setelah Trinitatis (11-Okt-2026) – ID",
       "date": "2026-10-10T20:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-10-10T20:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/10_Oktober/10",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xix-dung-trinitatis-11-okt-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -589,6 +1008,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XIX Setelah Trinitatis (11-Okt-2026) – ID",
       "seoTitle": "Ibadah Minggu XIX Setelah Trinitatis (11-Okt-2026) – ID",
       "seoDesc": "Ibadah Minggu XIX Setelah Trinitatis (11-Okt-2026) – ID",
@@ -598,7 +1018,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1DVJ-9_MiOuBBx-G4lOT3EnW2gsVSMBKk/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/10_Oktober/10/Ibadah Minggu XIX Setelah Trinitatis (11-Okt-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/10_Oktober/10/Ibadah Minggu XIX Setelah Trinitatis (11-Okt-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1DVJ-9_MiOuBBx-G4lOT3EnW2gsVSMBKk&usp=drive_fs\""
     },
     {
@@ -606,7 +1026,11 @@
       "slug": "ibadah-minggu-xviii-setelah-trinitatis-04-okt-2026-btk",
       "title": "Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) – BTK",
       "date": "2026-10-03T16:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-10-03T16:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/10_Oktober/03",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xviii-setelah-trinitatis-04-okt-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -627,6 +1051,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) – BTK",
       "seoTitle": "Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) – BTK",
       "seoDesc": "Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) – BTK",
@@ -636,7 +1061,7 @@
       "embeds": [
         "https://drive.google.com/file/d/13u_zI9NF3bTDM6rJUri_qzjyXatRpwd5/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/10_Oktober/03/Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/10_Oktober/03/Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=13u_zI9NF3bTDM6rJUri_qzjyXatRpwd5&usp=drive_fs\""
     },
     {
@@ -644,7 +1069,11 @@
       "slug": "memuliakan-allah-dalam-segala-hal",
       "title": "Memuliakan Allah dalam segala Hal ( Titus 2 : 1 – 10 )",
       "date": "2026-10-03T03:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.237Z",
       "modified": "2026-10-03T03:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/memuliakan-allah-dalam-segala-hal",
       "categorySlug": "renungan",
       "categories": [
@@ -659,6 +1088,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/34/5b/93/345b93d6ac72e4be6cc5d7e9e33285b6.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/34/5b/93/345b93d6ac72e4be6cc5d7e9e33285b6.jpg",
       "excerpt": "Memuliakan Allah dalam segala Hal (Titus 2 : 1 – 10) Jemaat yang dikasihi Tuhan, persoalan jemaat bukan sekadar kurang …",
       "seoTitle": "Memuliakan Allah dalam segala Hal ( Titus 2 : 1 – 10 )",
       "seoDesc": "Memuliakan Allah dalam segala Hal (Titus 2 : 1 – 10) Jemaat yang dikasihi Tuhan, persoalan jemaat bukan sekadar kurang …",
@@ -674,7 +1104,11 @@
       "slug": "mataku-tetap-terarah-kepada-tuhan",
       "title": "Mataku tetap terarah kepada Tuhan ( Mazmur 25 : 15 – 22 )",
       "date": "2026-09-27T03:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.243Z",
       "modified": "2026-09-27T03:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/mataku-tetap-terarah-kepada-tuhan",
       "categorySlug": "renungan",
       "categories": [
@@ -689,6 +1123,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/b5/bf/c8/b5bfc841be6fdc8c7a57b4ee39323365.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/b5/bf/c8/b5bfc841be6fdc8c7a57b4ee39323365.jpg",
       "excerpt": "Mataku tetap terarah kepada Tuhan (Mazmur 25 : 15 – 22) Daud berkata, “Mataku tetap terarah kepada TUHAN” (Mazmur 25:15), …",
       "seoTitle": "Mataku tetap terarah kepada Tuhan ( Mazmur 25 : 15 – 22 )",
       "seoDesc": "Mataku tetap terarah kepada Tuhan (Mazmur 25 : 15 – 22) Daud berkata, “Mataku tetap terarah kepada TUHAN” (Mazmur 25:15), …",
@@ -704,7 +1139,11 @@
       "slug": "ibadah-minggu-xvii-setelah-trinitatis-27-sep-2026-btk",
       "title": "Ibadah Minggu XVII Dung Trinitatis (27-Sep-2026) – BTK",
       "date": "2026-09-27T03:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-09-27T03:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/09_September/27",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xvii-setelah-trinitatis-27-sep-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -725,6 +1164,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XVII Dung Trinitatis (27-Sep-2026) – BTK",
       "seoTitle": "Ibadah Minggu XVII Dung Trinitatis (27-Sep-2026) – BTK",
       "seoDesc": "Ibadah Minggu XVII Dung Trinitatis (27-Sep-2026) – BTK",
@@ -734,7 +1174,7 @@
       "embeds": [
         "https://drive.google.com/file/d/16CyDV-S3HpIYQUO8ICTbd9KqlBHRMWXr/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/09_September/27/Ibadah Minggu XVII Dung Trinitatis (27-Sep-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/09_September/27/Ibadah Minggu XVII Dung Trinitatis (27-Sep-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=16CyDV-S3HpIYQUO8ICTbd9KqlBHRMWXr&usp=drive_fs\""
     },
     {
@@ -742,7 +1182,11 @@
       "slug": "ibadah-minggu-xvii-setelah-trinitatis-27-sep-2026-id",
       "title": "Ibadah Minggu XVII Setelah Trinitatis (27-Sep-2026) – ID",
       "date": "2026-09-27T03:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-09-27T03:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/09_September/27",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xvii-setelah-trinitatis-27-sep-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -763,6 +1207,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XVII Setelah Trinitatis (27-Sep-2026) – ID",
       "seoTitle": "Ibadah Minggu XVII Setelah Trinitatis (27-Sep-2026) – ID",
       "seoDesc": "Ibadah Minggu XVII Setelah Trinitatis (27-Sep-2026) – ID",
@@ -772,7 +1217,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1Yx6yDlYuayO9WQI-0IhB50qNaniCtJ4T/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/09_September/27/Ibadah Minggu XVII Setelah Trinitatis (27-Sep-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/09_September/27/Ibadah Minggu XVII Setelah Trinitatis (27-Sep-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1Yx6yDlYuayO9WQI-0IhB50qNaniCtJ4T&usp=drive_fs\""
     },
     {
@@ -780,7 +1225,11 @@
       "slug": "segala-perkara-dapat-ku-tanggung-di-dalam-tuhan",
       "title": "Segala Perkara dapat ku tanggung di dalam Tuhan (Filippi 4 : 10 – 19)",
       "date": "2026-09-19T22:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.251Z",
       "modified": "2026-09-19T22:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/segala-perkara-dapat-ku-tanggung-di-dalam-tuhan",
       "categorySlug": "renungan",
       "categories": [
@@ -795,6 +1244,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/bf/5a/89/bf5a895210079572ff6dbef130338559.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/bf/5a/89/bf5a895210079572ff6dbef130338559.jpg",
       "excerpt": "Segala Perkara dapat ku tanggung di dalam Tuhan (Filippi 4 : 10 – 19) Surat Filipi ditulis Paulus bukan dari …",
       "seoTitle": "Segala Perkara dapat ku tanggung di dalam Tuhan (Filippi 4 : 10 – 19)",
       "seoDesc": "Segala Perkara dapat ku tanggung di dalam Tuhan (Filippi 4 : 10 – 19) Surat Filipi ditulis Paulus bukan dari …",
@@ -810,7 +1260,11 @@
       "slug": "ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-btk",
       "title": "Ibadah Minggu XVI Dung Trinitatis (20-Sep-2026) – BTK",
       "date": "2026-09-19T22:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-09-19T22:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/09_September/19",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -831,6 +1285,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XVI Dung Trinitatis (20-Sep-2026) – BTK",
       "seoTitle": "Ibadah Minggu XVI Dung Trinitatis (20-Sep-2026) – BTK",
       "seoDesc": "Ibadah Minggu XVI Dung Trinitatis (20-Sep-2026) – BTK",
@@ -840,7 +1295,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1nnFbzsyHd1KeUNzGuJ02DQTdFf2zyp9T/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/09_September/19/Ibadah Minggu XVI Dung Trinitatis (20-Sep-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/09_September/19/Ibadah Minggu XVI Dung Trinitatis (20-Sep-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1nnFbzsyHd1KeUNzGuJ02DQTdFf2zyp9T&usp=drive_fs\""
     },
     {
@@ -848,7 +1303,11 @@
       "slug": "ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-id",
       "title": "Ibadah Minggu XVI Setelah Trinitatis (20-Sep-2026) – ID",
       "date": "2026-09-19T22:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-09-19T22:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/09_September/19",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -869,6 +1328,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XVI Setelah Trinitatis (20-Sep-2026) – ID",
       "seoTitle": "Ibadah Minggu XVI Setelah Trinitatis (20-Sep-2026) – ID",
       "seoDesc": "Ibadah Minggu XVI Setelah Trinitatis (20-Sep-2026) – ID",
@@ -878,7 +1338,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1DSf0b2y7KR1UFQWM0e2At1ztvQgFaxt8/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/09_September/19/Ibadah Minggu XVI Setelah Trinitatis (20-Sep-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/09_September/19/Ibadah Minggu XVI Setelah Trinitatis (20-Sep-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1DSf0b2y7KR1UFQWM0e2At1ztvQgFaxt8&usp=drive_fs\""
     },
     {
@@ -886,7 +1346,11 @@
       "slug": "tuhan-melakukan-perbuatan-besar-bagi-umatnya",
       "title": "Tuhan Melakukan Perbuatan Besar bagi UmatNya ( Keluaran 14 : 19 – 31 )",
       "date": "2026-09-13T03:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.253Z",
       "modified": "2026-09-13T03:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/tuhan-melakukan-perbuatan-besar-bagi-umatnya",
       "categorySlug": "renungan",
       "categories": [
@@ -901,6 +1365,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/d4/20/6a/d4206abec6d1d8302d6d050ee0a2ac42.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/d4/20/6a/d4206abec6d1d8302d6d050ee0a2ac42.jpg",
       "excerpt": "Tuhan Melakukan Perbuatan Besar bagi UmatNya (Keluaran 14 : 19 – 31) Ada sesuatu yang sangat menarik dalam kisah Keluaran …",
       "seoTitle": "Tuhan Melakukan Perbuatan Besar bagi UmatNya ( Keluaran 14 : 19 – 31 )",
       "seoDesc": "Tuhan Melakukan Perbuatan Besar bagi UmatNya (Keluaran 14 : 19 – 31) Ada sesuatu yang sangat menarik dalam kisah Keluaran …",
@@ -916,7 +1381,11 @@
       "slug": "ibadah-minggu-xv-dung-trinitatis-13-sep-2026-btk",
       "title": "Ibadah Minggu XV Dung Trinitatis (13-Sep-2026) – BTK",
       "date": "2026-09-13T03:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-09-13T03:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/09_September/13",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xv-dung-trinitatis-13-sep-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -937,6 +1406,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XV Dung Trinitatis (13-Sep-2026) – BTK",
       "seoTitle": "Ibadah Minggu XV Dung Trinitatis (13-Sep-2026) – BTK",
       "seoDesc": "Ibadah Minggu XV Dung Trinitatis (13-Sep-2026) – BTK",
@@ -946,7 +1416,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1dM6mNbnRRkfxIRZ53iInHvmF8EthMsrz/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/09_September/13/Ibadah Minggu XV Dung Trinitatis (13-Sep-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/09_September/13/Ibadah Minggu XV Dung Trinitatis (13-Sep-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1dM6mNbnRRkfxIRZ53iInHvmF8EthMsrz&usp=drive_fs\""
     },
     {
@@ -954,7 +1424,11 @@
       "slug": "ibadah-minggu-xv-setelah-trinitatis-13-sep-2026-id",
       "title": "Ibadah Minggu XV Setelah Trinitatis (13-Sep-2026) – ID",
       "date": "2026-09-13T03:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-09-13T03:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/09_September/13",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xv-setelah-trinitatis-13-sep-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -975,6 +1449,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XV Setelah Trinitatis (13-Sep-2026) – ID",
       "seoTitle": "Ibadah Minggu XV Setelah Trinitatis (13-Sep-2026) – ID",
       "seoDesc": "Ibadah Minggu XV Setelah Trinitatis (13-Sep-2026) – ID",
@@ -984,7 +1459,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1doydR9GiLo_cxhVDvFqt1qZCXMPHdJdQ/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/09_September/13/Ibadah Minggu XV Setelah Trinitatis (13-Sep-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/09_September/13/Ibadah Minggu XV Setelah Trinitatis (13-Sep-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1doydR9GiLo_cxhVDvFqt1qZCXMPHdJdQ&usp=drive_fs\""
     },
     {
@@ -992,7 +1467,11 @@
       "slug": "kasih-kepada-allah-dan-sesama-manusia-lukas-10-25-37",
       "title": "Kasih kepada Allah dan Sesama Manusia ( Lukas 10 : 25 – 37 )",
       "date": "2026-09-06T03:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.253Z",
       "modified": "2026-09-06T03:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/kasih-kepada-allah-dan-sesama-manusia-lukas-10-25-37",
       "categorySlug": "renungan",
       "categories": [
@@ -1007,6 +1486,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/69/0b/f5/690bf50c4f006a143e9d3aa631651cfb.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/69/0b/f5/690bf50c4f006a143e9d3aa631651cfb.jpg",
       "excerpt": "Kasih kepada Allah dan Sesama Manusia (Lukas 10 : 25 – 37) Masalah ahli Taurat dalam Lukas 10 bukan karena …",
       "seoTitle": "Kasih kepada Allah dan Sesama Manusia ( Lukas 10 : 25 – 37 )",
       "seoDesc": "Kasih kepada Allah dan Sesama Manusia (Lukas 10 : 25 – 37) Masalah ahli Taurat dalam Lukas 10 bukan karena …",
@@ -1022,7 +1502,11 @@
       "slug": "ibadah-minggu-xiv-dung-trinitatis-06-sep-2026-btk",
       "title": "Ibadah Minggu XIV Dung Trinitatis (06-Sep-2026) – BTK",
       "date": "2026-09-06T03:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.565Z",
       "modified": "2026-09-06T03:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/09_September/06",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiv-dung-trinitatis-06-sep-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1043,6 +1527,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XIV Dung Trinitatis (06-Sep-2026) – BTK",
       "seoTitle": "Ibadah Minggu XIV Dung Trinitatis (06-Sep-2026) – BTK",
       "seoDesc": "Ibadah Minggu XIV Dung Trinitatis (06-Sep-2026) – BTK",
@@ -1052,7 +1537,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1ZB8xr70VJ5-hzAoJdjRQJABFuVeqN5hw/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/09_September/06/Ibadah Minggu XIV Dung Trinitatis (06-Sep-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/09_September/06/Ibadah Minggu XIV Dung Trinitatis (06-Sep-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1ZB8xr70VJ5-hzAoJdjRQJABFuVeqN5hw&usp=drive_fs\""
     },
     {
@@ -1060,7 +1545,11 @@
       "slug": "ibadah-minggu-xiv-setelah-trinitatis-06-sep-2026-id",
       "title": "Ibadah Minggu XIV Setelah Trinitatis (06-Sep-2026) – ID",
       "date": "2026-09-06T03:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.572Z",
       "modified": "2026-09-06T03:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/09_September/06",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiv-setelah-trinitatis-06-sep-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1081,6 +1570,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XIV Setelah Trinitatis (06-Sep-2026) – ID",
       "seoTitle": "Ibadah Minggu XIV Setelah Trinitatis (06-Sep-2026) – ID",
       "seoDesc": "Ibadah Minggu XIV Setelah Trinitatis (06-Sep-2026) – ID",
@@ -1090,7 +1580,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1ASOJG5y7nHrcZngw6vZ2P8aVabyNKsES/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/09_September/06/Ibadah Minggu XIV Setelah Trinitatis (06-Sep-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/09_September/06/Ibadah Minggu XIV Setelah Trinitatis (06-Sep-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1ASOJG5y7nHrcZngw6vZ2P8aVabyNKsES&usp=drive_fs\""
     },
     {
@@ -1098,7 +1588,11 @@
       "slug": "firman-tuhan-menjadi-kegirangan-bagiku-yeremia-15-15-21",
       "title": "Firman Tuhan menjadi Kegirangan bagiku (Yeremia 15 : 15 – 21)",
       "date": "2026-08-29T21:30:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.253Z",
       "modified": "2026-08-29T21:30:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/firman-tuhan-menjadi-kegirangan-bagiku-yeremia-15-15-21",
       "categorySlug": "renungan",
       "categories": [
@@ -1113,6 +1607,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/61/1a/b7/611ab7d51a4decaaccf0d1dbcb712a29.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/61/1a/b7/611ab7d51a4decaaccf0d1dbcb712a29.jpg",
       "excerpt": "Firman Tuhan menjadi Kegirangan bagiku (Yeremia 15 : 15 – 21) Ada banyak hal yang dapat membuat kita bergembira: gaji …",
       "seoTitle": "Firman Tuhan menjadi Kegirangan bagiku (Yeremia 15 : 15 – 21)",
       "seoDesc": "Firman Tuhan menjadi Kegirangan bagiku (Yeremia 15 : 15 – 21) Ada banyak hal yang dapat membuat kita bergembira: gaji …",
@@ -1128,7 +1623,11 @@
       "slug": "ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-btk",
       "title": "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK",
       "date": "2026-08-29T21:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.565Z",
       "modified": "2026-08-29T21:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/29",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1149,6 +1648,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK",
       "seoTitle": "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK",
       "seoDesc": "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK",
@@ -1158,7 +1658,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1gBrotgXiDcDzWmNPjxtlM7NsHbIgijK6/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/29/Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/29/Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1gBrotgXiDcDzWmNPjxtlM7NsHbIgijK6&usp=drive_fs\""
     },
     {
@@ -1166,7 +1666,11 @@
       "slug": "ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-id",
       "title": "Ibadah Minggu XIII Setelah Trinitatis (30-Ags-2026) – ID",
       "date": "2026-08-29T21:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.565Z",
       "modified": "2026-08-29T21:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/29",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1187,6 +1691,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XIII Setelah Trinitatis (30-Ags-2026) – ID",
       "seoTitle": "Ibadah Minggu XIII Setelah Trinitatis (30-Ags-2026) – ID",
       "seoDesc": "Ibadah Minggu XIII Setelah Trinitatis (30-Ags-2026) – ID",
@@ -1196,7 +1701,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1c_wV3yLWSNRLf1vJF_5I7rwyU22jNNCv/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/29/Ibadah Minggu XIII Setelah Trinitatis (30-Ags-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/29/Ibadah Minggu XIII Setelah Trinitatis (30-Ags-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1c_wV3yLWSNRLf1vJF_5I7rwyU22jNNCv&usp=drive_fs\""
     },
     {
@@ -1204,7 +1709,11 @@
       "slug": "teguh-berpegang-pada-kebenaran-efesus-4-7-16",
       "title": "Teguh Berpegang pada Kebenaran ( Efesus 4 : 7 – 16 )",
       "date": "2026-08-22T21:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.257Z",
       "modified": "2026-08-22T21:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/teguh-berpegang-pada-kebenaran-efesus-4-7-16",
       "categorySlug": "renungan",
       "categories": [
@@ -1219,6 +1728,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/f2/a1/99/f2a199f4510c8358ff4ccc800c37eb13.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/f2/a1/99/f2a199f4510c8358ff4ccc800c37eb13.jpg",
       "excerpt": "Teguh Berpegang pada Kebenaran ( Efesus 4 : 7 – 16 ) Suara Siapa yang Kita Dengarkan? Pertanyaan bagi kita …",
       "seoTitle": "Teguh Berpegang pada Kebenaran ( Efesus 4 : 7 – 16 )",
       "seoDesc": "Teguh Berpegang pada Kebenaran ( Efesus 4 : 7 – 16 ) Suara Siapa yang Kita Dengarkan? Pertanyaan bagi kita …",
@@ -1234,7 +1744,11 @@
       "slug": "ibadah-minggu-xii-setelah-trinitatis-23-ags-2026-btk",
       "title": "Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK",
       "date": "2026-08-22T21:02:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.565Z",
       "modified": "2026-08-22T21:02:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/22",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xii-setelah-trinitatis-23-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1255,6 +1769,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK",
       "seoTitle": "Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK",
       "seoDesc": "Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK",
@@ -1264,7 +1779,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1td7_8GLAVBzonsTN5TF300z_v6TiE45S/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/22/Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/22/Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1td7_8GLAVBzonsTN5TF300z_v6TiE45S&usp=drive_fs\""
     },
     {
@@ -1272,7 +1787,11 @@
       "slug": "ibadah-minggu-xii-setelah-trinitatis-23-ags-2026-id",
       "title": "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID",
       "date": "2026-08-22T21:01:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.565Z",
       "modified": "2026-08-22T21:01:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/22",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xii-setelah-trinitatis-23-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1293,6 +1812,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID",
       "seoTitle": "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID",
       "seoDesc": "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID",
@@ -1302,7 +1822,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1KHzpFh4UY1KYGTwBOzQa-QD3jiTc9WRN/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/22/Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/22/Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1KHzpFh4UY1KYGTwBOzQa-QD3jiTc9WRN&usp=drive_fs\""
     },
     {
@@ -1310,7 +1830,11 @@
       "slug": "taati-hukum-dan-tegakkan-keadilan-yesaya-56-1-8",
       "title": "Taati Hukum dan Tegakkan Keadilan (Yesaya 56 : 1 – 8)",
       "date": "2026-08-15T20:03:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.261Z",
       "modified": "2026-08-15T20:03:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/taati-hukum-dan-tegakkan-keadilan-yesaya-56-1-8",
       "categorySlug": "renungan",
       "categories": [
@@ -1325,6 +1849,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/92/72/1f/92721f55821427dd01b4cb1a8f204e3a.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/92/72/1f/92721f55821427dd01b4cb1a8f204e3a.jpg",
       "excerpt": "Taati Hukum dan Tegakkan Keadilan (Yesaya 56 : 1 – 8) Melalui Yesaya 56:1–8, Tuhan mendidik umat-Nya untuk memahami bahwa …",
       "seoTitle": "Taati Hukum dan Tegakkan Keadilan (Yesaya 56 : 1 – 8)",
       "seoDesc": "Taati Hukum dan Tegakkan Keadilan (Yesaya 56 : 1 – 8) Melalui Yesaya 56:1–8, Tuhan mendidik umat-Nya untuk memahami bahwa …",
@@ -1340,7 +1865,11 @@
       "slug": "ibadah-minggu-xi-setelah-trinitatis-16-ags-2026-btk",
       "title": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
       "date": "2026-08-15T20:02:01+07:00",
+      "createdAt": "2026-11-09T15:02:46.564Z",
       "modified": "2026-08-15T20:02:01+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/15",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xi-setelah-trinitatis-16-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1361,6 +1890,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
       "seoTitle": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
       "seoDesc": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
@@ -1370,7 +1900,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1nwohgR1iqhqr9r0CWO51-HUcuyuoZPDW/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/15/Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/15/Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1nwohgR1iqhqr9r0CWO51-HUcuyuoZPDW&usp=drive_fs\""
     },
     {
@@ -1378,7 +1908,11 @@
       "slug": "ibadah-minggu-xi-setelah-trinitatis-16-ags-2026-id",
       "title": "Ibadah Minggu XI Setelah Trinitatis (16-Ags-2026) – ID",
       "date": "2026-08-15T20:01:01+07:00",
+      "createdAt": "2026-11-09T15:02:46.565Z",
       "modified": "2026-08-15T20:01:01+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/15",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xi-setelah-trinitatis-16-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1399,6 +1933,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XI Setelah Trinitatis (16-Ags-2026) – ID",
       "seoTitle": "Ibadah Minggu XI Setelah Trinitatis (16-Ags-2026) – ID",
       "seoDesc": "Ibadah Minggu XI Setelah Trinitatis (16-Ags-2026) – ID",
@@ -1408,7 +1943,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1CggvjI6p9A_m1T_kuRWRC759OOwDt9pG/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/15/Ibadah Minggu XI Setelah Trinitatis (16-Ags-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/15/Ibadah Minggu XI Setelah Trinitatis (16-Ags-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1CggvjI6p9A_m1T_kuRWRC759OOwDt9pG&usp=drive_fs\""
     },
     {
@@ -1416,7 +1951,11 @@
       "slug": "ibadah-minggu-x-setelah-trinitatis-09-ags-2026-btk",
       "title": "Ibadah Minggu X Dung Trinitatis (09-Ags-2026) – BTK",
       "date": "2026-08-09T03:31:01+07:00",
+      "createdAt": "2026-11-09T15:02:46.561Z",
       "modified": "2026-08-09T03:31:01+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/09",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-x-setelah-trinitatis-09-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1437,6 +1976,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu X Dung Trinitatis (09-Ags-2026) – BTK",
       "seoTitle": "Ibadah Minggu X Dung Trinitatis (09-Ags-2026) – BTK",
       "seoDesc": "Ibadah Minggu X Dung Trinitatis (09-Ags-2026) – BTK",
@@ -1446,7 +1986,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1axSizyAeHesj89vX3l_oOdU9AnOXHk7b/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/09/Ibadah Minggu X Dung Trinitatis (09-Ags-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/09/Ibadah Minggu X Dung Trinitatis (09-Ags-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1axSizyAeHesj89vX3l_oOdU9AnOXHk7b&usp=drive_fs\""
     },
     {
@@ -1454,7 +1994,11 @@
       "slug": "ibadah-minggu-x-setelah-trinitatis-09-ags-2026-id",
       "title": "Ibadah Minggu X Setelah Trinitatis (09-Ags-2026) – ID",
       "date": "2026-08-09T03:30:01+07:00",
+      "createdAt": "2026-11-09T15:02:46.562Z",
       "modified": "2026-08-09T03:30:01+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/09",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-x-setelah-trinitatis-09-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1475,6 +2019,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu X Setelah Trinitatis (09-Ags-2026) – ID",
       "seoTitle": "Ibadah Minggu X Setelah Trinitatis (09-Ags-2026) – ID",
       "seoDesc": "Ibadah Minggu X Setelah Trinitatis (09-Ags-2026) – ID",
@@ -1484,7 +2029,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1grkaAdffQR3s9qKAw4i5OSuPkcnqGBi6/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/09/Ibadah Minggu X Setelah Trinitatis (09-Ags-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/09/Ibadah Minggu X Setelah Trinitatis (09-Ags-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1grkaAdffQR3s9qKAw4i5OSuPkcnqGBi6&usp=drive_fs\""
     },
     {
@@ -1492,7 +2037,11 @@
       "slug": "tenanglah-jangan-takut-matius-14-22-33",
       "title": "Tenanglah, Jangan Takut (Matius 14 : 22 – 33)",
       "date": "2026-08-09T03:29:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.270Z",
       "modified": "2026-08-09T03:29:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/tenanglah-jangan-takut-matius-14-22-33",
       "categorySlug": "renungan",
       "categories": [
@@ -1507,6 +2056,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Tenanglah, Jangan Takut (Matius 14 : 22 – 33) Ketakutan terbesar kita bukanlah ketika badai datang, melainkan ketika badai membuat …",
       "seoTitle": "Tenanglah, Jangan Takut (Matius 14 : 22 – 33)",
       "seoDesc": "Tenanglah, Jangan Takut (Matius 14 : 22 – 33) Ketakutan terbesar kita bukanlah ketika badai datang, melainkan ketika badai membuat …",
@@ -1522,7 +2072,11 @@
       "slug": "ibadah-minggu-ix-dung-trinitatis-02-ags-2026-btk",
       "title": "Ibadah Minggu IX Dung Trinitatis (02-Ags-2026) – BTK",
       "date": "2026-08-01T20:32:01+07:00",
+      "createdAt": "2026-11-09T15:02:46.556Z",
       "modified": "2026-08-01T20:32:01+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/01",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-ix-dung-trinitatis-02-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1543,6 +2097,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu IX Dung Trinitatis (02-Ags-2026) – BTK",
       "seoTitle": "Ibadah Minggu IX Dung Trinitatis (02-Ags-2026) – BTK",
       "seoDesc": "Ibadah Minggu IX Dung Trinitatis (02-Ags-2026) – BTK",
@@ -1552,7 +2107,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1O7H2NUQZrXUPRTAZo6rTBNszYaO799e3/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/01/Ibadah Minggu IX Dung Trinitatis (02-Ags-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/01/Ibadah Minggu IX Dung Trinitatis (02-Ags-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1O7H2NUQZrXUPRTAZo6rTBNszYaO799e3&usp=drive_fs\""
     },
     {
@@ -1560,7 +2115,11 @@
       "slug": "ibadah-minggu-ix-setelah-trinitatis-02-ags-2026-id",
       "title": "Ibadah Minggu IX Setelah Trinitatis (02-Ags-2026) – ID",
       "date": "2026-08-01T20:31:01+07:00",
+      "createdAt": "2026-11-09T15:02:46.557Z",
       "modified": "2026-08-01T20:31:01+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/08_Agustus/01",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-ix-setelah-trinitatis-02-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1581,6 +2140,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu IX Setelah Trinitatis (02-Ags-2026) – ID",
       "seoTitle": "Ibadah Minggu IX Setelah Trinitatis (02-Ags-2026) – ID",
       "seoDesc": "Ibadah Minggu IX Setelah Trinitatis (02-Ags-2026) – ID",
@@ -1590,7 +2150,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1SxysdW3Vrp0bDmHE8yTJxLqQSaaMOMYX/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/08_Agustus/01/Ibadah Minggu IX Setelah Trinitatis (02-Ags-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/08_Agustus/01/Ibadah Minggu IX Setelah Trinitatis (02-Ags-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1SxysdW3Vrp0bDmHE8yTJxLqQSaaMOMYX&usp=drive_fs\""
     },
     {
@@ -1598,7 +2158,11 @@
       "slug": "semua-janji-tuhan-dipenuhi-yosua-21-43-45",
       "title": "Semua Janji Tuhan Dipenuhi (Yosua 21 : 43 – 45)",
       "date": "2026-08-01T19:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.277Z",
       "modified": "2026-08-01T19:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/semua-janji-tuhan-dipenuhi-yosua-21-43-45",
       "categorySlug": "renungan",
       "categories": [
@@ -1613,6 +2177,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/e1/50/ef/e150ef84ba76825e881b986812866f4f.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/e1/50/ef/e150ef84ba76825e881b986812866f4f.jpg",
       "excerpt": "Semua Janji Tuhan Dipenuhi (Yosua 21 : 43 – 45) Ada satu pertanyaan yang sering muncul dalam hati orang percaya …",
       "seoTitle": "Semua Janji Tuhan Dipenuhi (Yosua 21 : 43 – 45)",
       "seoDesc": "Semua Janji Tuhan Dipenuhi (Yosua 21 : 43 – 45) Ada satu pertanyaan yang sering muncul dalam hati orang percaya …",
@@ -1628,7 +2193,11 @@
       "slug": "karya-allah-bagi-orang-pilihannya-roma-8-26-30",
       "title": "Karya Allah bagi orang pilihanNya (Roma 8 : 26 – 30)",
       "date": "2026-07-25T15:33:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.278Z",
       "modified": "2026-07-25T15:33:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/karya-allah-bagi-orang-pilihannya-roma-8-26-30",
       "categorySlug": "renungan",
       "categories": [
@@ -1643,6 +2212,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/35/3b/ca/353bca6fb4fa7db13149b86c694d8e1d.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/35/3b/ca/353bca6fb4fa7db13149b86c694d8e1d.jpg",
       "excerpt": "Karya Allah bagi orang pilihanNya ( Roma 8 : 26 – 30) ) Manusia menghabiskan hampir seluruh hidupnya untuk mencari …",
       "seoTitle": "Karya Allah bagi orang pilihanNya (Roma 8 : 26 – 30)",
       "seoDesc": "Karya Allah bagi orang pilihanNya ( Roma 8 : 26 – 30) ) Manusia menghabiskan hampir seluruh hidupnya untuk mencari …",
@@ -1658,7 +2228,11 @@
       "slug": "ibadah-minggu-viii-setelah-trinitatis-26-jul-2026-id",
       "title": "Ibadah Minggu & Pesta Puncak Parheheon Sekolah Minggu (26-Jul-2026)",
       "date": "2026-07-25T15:32:01+07:00",
+      "createdAt": "2026-11-09T15:02:46.554Z",
       "modified": "2026-07-25T15:32:01+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/07_Juli/25",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-viii-setelah-trinitatis-26-jul-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1679,6 +2253,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu & Pesta Puncak Parheheon Sekolah Minggu (26-Jul-2026)",
       "seoTitle": "Ibadah Minggu & Pesta Puncak Parheheon Sekolah Minggu (26-Jul-2026)",
       "seoDesc": "Ibadah Minggu & Pesta Puncak Parheheon Sekolah Minggu (26-Jul-2026)",
@@ -1688,7 +2263,7 @@
       "embeds": [
         "https://drive.google.com/file/d/17qQmFetWAvQ_WCZgYGiI1D4OJn-X0XGT/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/07_Juli/25/Ibadah Minggu & Pesta Puncak Parheheon Sekolah Minggu (26-Jul-2026).md",
+      "sourcePath": "warta-acara/2026/07_Juli/25/Ibadah Minggu & Pesta Puncak Parheheon Sekolah Minggu (26-Jul-2026).md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=17qQmFetWAvQ_WCZgYGiI1D4OJn-X0XGT&usp=drive_fs\""
     },
     {
@@ -1696,7 +2271,11 @@
       "slug": "ibadah-minggu-viii-setelah-trinitatis-26-jul-2026-btk",
       "title": "Ibadah Minggu VIII Dung Trinitatis (26-Jul-2026) – BTK",
       "date": "2026-07-25T15:31:01+07:00",
+      "createdAt": "2026-11-09T15:02:46.555Z",
       "modified": "2026-07-25T15:31:01+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/07_Juli/25",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-viii-setelah-trinitatis-26-jul-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1717,6 +2296,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu VIII Dung Trinitatis (26-Jul-2026) – BTK",
       "seoTitle": "Ibadah Minggu VIII Dung Trinitatis (26-Jul-2026) – BTK",
       "seoDesc": "Ibadah Minggu VIII Dung Trinitatis (26-Jul-2026) – BTK",
@@ -1726,7 +2306,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1MbL9e7gdCGULI9AqrqG7LdoO6O4K4KfP/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/07_Juli/25/Ibadah Minggu VIII Dung Trinitatis (26-Jul-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/07_Juli/25/Ibadah Minggu VIII Dung Trinitatis (26-Jul-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1MbL9e7gdCGULI9AqrqG7LdoO6O4K4KfP&usp=drive_fs\""
     },
     {
@@ -1734,7 +2314,11 @@
       "slug": "ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-btk",
       "title": "Ibadah Minggu VII Dung Trinitatis (19-Jul-2026) – BTK",
       "date": "2026-07-18T19:31:01+07:00",
+      "createdAt": "2026-11-09T15:02:46.552Z",
       "modified": "2026-07-18T19:31:01+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/07_Juli/18",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1755,6 +2339,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu VII Dung Trinitatis (19-Jul-2026) – BTK",
       "seoTitle": "Ibadah Minggu VII Dung Trinitatis (19-Jul-2026) – BTK",
       "seoDesc": "Ibadah Minggu VII Dung Trinitatis (19-Jul-2026) – BTK",
@@ -1764,7 +2349,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1ykw-gg5RY64MWIDcoySvaziM7kBvXfPb/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/07_Juli/18/Ibadah Minggu VII Dung Trinitatis (19-Jul-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/07_Juli/18/Ibadah Minggu VII Dung Trinitatis (19-Jul-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1ykw-gg5RY64MWIDcoySvaziM7kBvXfPb&usp=drive_fs\""
     },
     {
@@ -1772,7 +2357,11 @@
       "slug": "ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-id",
       "title": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
       "date": "2026-07-18T19:30:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.553Z",
       "modified": "2026-07-18T19:30:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/07_Juli/18",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1793,6 +2382,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
       "seoTitle": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
       "seoDesc": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
@@ -1802,7 +2392,7 @@
       "embeds": [
         "https://drive.google.com/file/d/15pa_n3bpyDREGkMKix5YEVsOSXL0qxB8/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/07_Juli/18/Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/07_Juli/18/Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=15pa_n3bpyDREGkMKix5YEVsOSXL0qxB8&usp=drive_fs\""
     },
     {
@@ -1810,7 +2400,11 @@
       "slug": "apresiasi-siswa-berprestasi-komitmen-dewan-diakonia-gereja-dalam-mendukung-pendidikan-generasi-muda",
       "title": "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda",
       "date": "2026-07-15T17:48:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.284Z",
       "modified": "2026-07-15T17:48:00+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "kegiatan",
       "link": "https://www.hkbpperawang.org/kegiatan/apresiasi-siswa-berprestasi-komitmen-dewan-diakonia-gereja-dalam-mendukung-pendidikan-generasi-muda",
       "categorySlug": "kegiatan",
       "categories": [
@@ -1825,6 +2419,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/prestasi2026_01.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/prestasi2026_01.webp",
       "excerpt": "Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istimewa bagi seluruh jemaat. Tepat setelah penyampaian khotbah di shift …",
       "seoTitle": "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda",
       "seoDesc": "Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istimewa bagi seluruh jemaat. Tepat setelah penyampaian khotbah di shift …",
@@ -1840,7 +2435,11 @@
       "slug": "ibadah-minggu-vi-dung-trinitatis-12-jul-2026-btk",
       "title": "Ibadah Minggu VI Dung Trinitatis (12-Jul-2026) – BTK",
       "date": "2026-07-11T19:31:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.550Z",
       "modified": "2026-07-11T19:31:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/07_Juli/11",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-vi-dung-trinitatis-12-jul-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1861,6 +2460,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu VI Dung Trinitatis (12-Jul-2026) – BTK",
       "seoTitle": "Ibadah Minggu VI Dung Trinitatis (12-Jul-2026) – BTK",
       "seoDesc": "Ibadah Minggu VI Dung Trinitatis (12-Jul-2026) – BTK",
@@ -1870,7 +2470,7 @@
       "embeds": [
         "https://drive.google.com/file/d/14e3ykefNH2W7pTPm7yrUlMOJss2fC7iv/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/07_Juli/11/Ibadah Minggu VI Dung Trinitatis (12-Jul-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/07_Juli/11/Ibadah Minggu VI Dung Trinitatis (12-Jul-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=14e3ykefNH2W7pTPm7yrUlMOJss2fC7iv&usp=drive_fs\""
     },
     {
@@ -1878,7 +2478,11 @@
       "slug": "ibadah-minggu-vi-setelah-trinitatis-12-jul-2026-id",
       "title": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
       "date": "2026-07-11T19:30:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.551Z",
       "modified": "2026-07-11T19:30:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/07_Juli/11",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-vi-setelah-trinitatis-12-jul-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1899,6 +2503,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
       "seoTitle": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
       "seoDesc": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
@@ -1908,7 +2513,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1A0SfYCNd3v5AhFGcppMbuIlQCzhXCyKM/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/07_Juli/11/Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/07_Juli/11/Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1A0SfYCNd3v5AhFGcppMbuIlQCzhXCyKM&usp=drive_fs\""
     },
     {
@@ -1916,7 +2521,11 @@
       "slug": "saling-menolong",
       "title": "Saling Menolong (3 Yohannes 1 : 5 – 8)",
       "date": "2026-07-11T17:17:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.289Z",
       "modified": "2026-07-11T17:17:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/saling-menolong",
       "categorySlug": "renungan",
       "categories": [
@@ -1931,6 +2540,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/00/4e/5c/004e5c637715a3653df91cf0bce19254.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/00/4e/5c/004e5c637715a3653df91cf0bce19254.jpg",
       "excerpt": "Saling Menolong (3 Yohannes 1 : 5 – 8) Sejak kecil kita diajarkan untuk saling menolong. Ketika ada teman yang …",
       "seoTitle": "Saling Menolong (3 Yohannes 1 : 5 – 8)",
       "seoDesc": "Saling Menolong (3 Yohannes 1 : 5 – 8) Sejak kecil kita diajarkan untuk saling menolong. Ketika ada teman yang …",
@@ -1946,7 +2556,11 @@
       "slug": "ibadah-minggu-v-dung-trinitatis-05-jul-2026-btk",
       "title": "Ibadah Minggu V Dung Trinitatis (05-Jul-2026) – BTK",
       "date": "2026-07-04T19:31:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.547Z",
       "modified": "2026-07-04T19:31:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/07_Juli/04",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-v-dung-trinitatis-05-jul-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -1967,6 +2581,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu V Dung Trinitatis (05-Jul-2026) – BTK",
       "seoTitle": "Ibadah Minggu V Dung Trinitatis (05-Jul-2026) – BTK",
       "seoDesc": "Ibadah Minggu V Dung Trinitatis (05-Jul-2026) – BTK",
@@ -1976,7 +2591,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1HZj-CDG3mxWYX2IyWEkQINoHUzvOZ0ZC/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/07_Juli/04/Ibadah Minggu V Dung Trinitatis (05-Jul-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/07_Juli/04/Ibadah Minggu V Dung Trinitatis (05-Jul-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1HZj-CDG3mxWYX2IyWEkQINoHUzvOZ0ZC&usp=drive_fs\""
     },
     {
@@ -1984,7 +2599,11 @@
       "slug": "ibadah-minggu-v-setelah-trinitatis-05-jul-2026-id",
       "title": "Ibadah Minggu V Setelah Trinitatis (05-Jun-2026) – ID",
       "date": "2026-07-04T19:30:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.548Z",
       "modified": "2026-07-04T19:30:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/07_Juli/04",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-v-setelah-trinitatis-05-jul-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2005,6 +2624,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu V Setelah Trinitatis (05-Jun-2026) – ID",
       "seoTitle": "Ibadah Minggu V Setelah Trinitatis (05-Jun-2026) – ID",
       "seoDesc": "Ibadah Minggu V Setelah Trinitatis (05-Jun-2026) – ID",
@@ -2014,7 +2634,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1OeG66OlOzEE9OdsfslLw2pCBJ4TQF-z_/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/07_Juli/04/Ibadah Minggu V Setelah Trinitatis (05-Jun-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/07_Juli/04/Ibadah Minggu V Setelah Trinitatis (05-Jun-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1OeG66OlOzEE9OdsfslLw2pCBJ4TQF-z_&usp=drive_fs\""
     },
     {
@@ -2022,7 +2642,11 @@
       "slug": "keselamatan-bagi-bangsa-bangsa",
       "title": "Keselamatan bagi bangsa-bangsa (Zakaria 8 : 20 – 23)",
       "date": "2026-07-04T17:17:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.294Z",
       "modified": "2026-07-04T17:17:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/keselamatan-bagi-bangsa-bangsa",
       "categorySlug": "renungan",
       "categories": [
@@ -2037,6 +2661,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/78/47/ff/7847ffa457b67b3a2d8f0592cbfcaa20.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/78/47/ff/7847ffa457b67b3a2d8f0592cbfcaa20.jpg",
       "excerpt": "Keselamatan bagi bangsa-bangsa (Zakaria 8 : 20 – 23) Allah tidak pernah hanya memikirkan satu bangsa. Sejak semula, Ia telah …",
       "seoTitle": "Keselamatan bagi bangsa-bangsa (Zakaria 8 : 20 – 23)",
       "seoDesc": "Keselamatan bagi bangsa-bangsa (Zakaria 8 : 20 – 23) Allah tidak pernah hanya memikirkan satu bangsa. Sejak semula, Ia telah …",
@@ -2052,7 +2677,11 @@
       "slug": "ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-btk",
       "title": "Ibadah Minggu IV Dung Trinitatis (28-Jun-2026) – BTK",
       "date": "2026-06-27T19:31:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.542Z",
       "modified": "2026-06-27T19:31:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/06_Juni/27",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2073,6 +2702,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu IV Dung Trinitatis (28-Jun-2026) – BTK",
       "seoTitle": "Ibadah Minggu IV Dung Trinitatis (28-Jun-2026) – BTK",
       "seoDesc": "Ibadah Minggu IV Dung Trinitatis (28-Jun-2026) – BTK",
@@ -2082,7 +2712,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1hWKcjcVKxD11N8wq8N5PWmOYPfKRRnbp/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/06_Juni/27/Ibadah Minggu IV Dung Trinitatis (28-Jun-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/06_Juni/27/Ibadah Minggu IV Dung Trinitatis (28-Jun-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1hWKcjcVKxD11N8wq8N5PWmOYPfKRRnbp&usp=drive_fs\""
     },
     {
@@ -2090,7 +2720,11 @@
       "slug": "ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-id",
       "title": "Ibadah Minggu IV Setelah Trinitatis (28-Jun-2026) – ID",
       "date": "2026-06-27T19:30:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.542Z",
       "modified": "2026-06-27T19:30:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/06_Juni/27",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2111,6 +2745,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu IV Setelah Trinitatis (28-Jun-2026) – ID",
       "seoTitle": "Ibadah Minggu IV Setelah Trinitatis (28-Jun-2026) – ID",
       "seoDesc": "Ibadah Minggu IV Setelah Trinitatis (28-Jun-2026) – ID",
@@ -2120,7 +2755,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1zMc8V-qfVnAJc59hp15ZSM47ZQjN34KO/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/06_Juni/27/Ibadah Minggu IV Setelah Trinitatis (28-Jun-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/06_Juni/27/Ibadah Minggu IV Setelah Trinitatis (28-Jun-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1zMc8V-qfVnAJc59hp15ZSM47ZQjN34KO&usp=drive_fs\""
     },
     {
@@ -2128,7 +2763,11 @@
       "slug": "kasih-yang-mengenbirakan-dan-menguatkan",
       "title": "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 – 7)",
       "date": "2026-06-27T17:17:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.299Z",
       "modified": "2026-06-27T17:17:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/kasih-yang-mengenbirakan-dan-menguatkan",
       "categorySlug": "renungan",
       "categories": [
@@ -2143,6 +2782,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/5a/c1/21/5ac121ab2910b7d1ba53219eb33e47bb.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/5a/c1/21/5ac121ab2910b7d1ba53219eb33e47bb.jpg",
       "excerpt": "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 – 7) Setiap manusia tentu membutuhkan kasih. Namun kita perlu menyadari …",
       "seoTitle": "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 – 7)",
       "seoDesc": "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 – 7) Setiap manusia tentu membutuhkan kasih. Namun kita perlu menyadari …",
@@ -2158,7 +2798,11 @@
       "slug": "ibadah-minggu-iii-setelah-trinitatis-21-jun-2026-btk",
       "title": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – BTK",
       "date": "2026-06-20T19:31:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.542Z",
       "modified": "2026-06-20T19:31:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/06_Juni/20",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-iii-setelah-trinitatis-21-jun-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2179,6 +2823,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – BTK",
       "seoTitle": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – BTK",
       "seoDesc": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – BTK",
@@ -2188,7 +2833,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1jM41J38wzy20AGeGMK0sYWYZjPLzw1IR/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/06_Juni/20/Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/06_Juni/20/Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1jM41J38wzy20AGeGMK0sYWYZjPLzw1IR&usp=drive_fs\""
     },
     {
@@ -2196,7 +2841,11 @@
       "slug": "ibadah-minggu-iii-setelah-trinitatis-21-jun-2026-id",
       "title": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – ID",
       "date": "2026-06-20T19:31:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.542Z",
       "modified": "2026-06-20T19:31:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/06_Juni/20",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-iii-setelah-trinitatis-21-jun-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2217,6 +2866,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – ID",
       "seoTitle": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – ID",
       "seoDesc": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – ID",
@@ -2226,7 +2876,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1iQqaOlQ6mobLgWEwms2FiP61cs7YL6V1/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/06_Juni/20/Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/06_Juni/20/Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1iQqaOlQ6mobLgWEwms2FiP61cs7YL6V1&usp=drive_fs\""
     },
     {
@@ -2234,7 +2884,11 @@
       "slug": "pemeliharaan-allah-yang-universal",
       "title": "Pemeliharaan Allah yang Universal (Kejadian 21 : 8 – 21)",
       "date": "2026-06-20T06:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.299Z",
       "modified": "2026-06-20T06:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/pemeliharaan-allah-yang-universal",
       "categorySlug": "renungan",
       "categories": [
@@ -2249,6 +2903,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/07/77/36/077736490e90dafef39f3ea7375c7f54.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/07/77/36/077736490e90dafef39f3ea7375c7f54.jpg",
       "excerpt": "Pemeliharaan Allah yang Universal (Kejadian 21 : 8 – 21) Kita sering kali mengecilkan cara kerja Tuhan karena kita mengukur …",
       "seoTitle": "Pemeliharaan Allah yang Universal (Kejadian 21 : 8 – 21)",
       "seoDesc": "Pemeliharaan Allah yang Universal (Kejadian 21 : 8 – 21) Kita sering kali mengecilkan cara kerja Tuhan karena kita mengukur …",
@@ -2264,7 +2919,11 @@
       "slug": "dibenarkan-oleh-karena-iman-galatia-2-15-21",
       "title": "Dibenarkan oleh karena Iman ( Galatia 2 : 15 – 21 )",
       "date": "2026-06-13T20:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.299Z",
       "modified": "2026-06-13T20:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/dibenarkan-oleh-karena-iman-galatia-2-15-21",
       "categorySlug": "renungan",
       "categories": [
@@ -2279,6 +2938,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/2c/23/01/2c23015ff11370df484dbcc9d56be832.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/2c/23/01/2c23015ff11370df484dbcc9d56be832.jpg",
       "excerpt": "Dibenarkan oleh karena Iman (Galatia 2 : 15 – 21) Salah satu pergumulan manusia yang tidak pernah berubah adalah keinginan …",
       "seoTitle": "Dibenarkan oleh karena Iman ( Galatia 2 : 15 – 21 )",
       "seoDesc": "Dibenarkan oleh karena Iman (Galatia 2 : 15 – 21) Salah satu pergumulan manusia yang tidak pernah berubah adalah keinginan …",
@@ -2294,7 +2954,11 @@
       "slug": "ibadah-minggu-ii-setelah-trinitatis-14-jun-2026-btk",
       "title": "Ibadah Minggu II Dung Trinitatis (14-Jun-2026) – BTK",
       "date": "2026-06-13T19:30:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.540Z",
       "modified": "2026-06-13T19:30:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/06_Juni/13",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-ii-setelah-trinitatis-14-jun-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2315,6 +2979,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu II Dung Trinitatis (14-Jun-2026) – BTK",
       "seoTitle": "Ibadah Minggu II Dung Trinitatis (14-Jun-2026) – BTK",
       "seoDesc": "Ibadah Minggu II Dung Trinitatis (14-Jun-2026) – BTK",
@@ -2324,7 +2989,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1cHy7MDVCd5gI6N67GDd3HEyERAXROI74/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/06_Juni/13/Ibadah Minggu II Dung Trinitatis (14-Jun-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/06_Juni/13/Ibadah Minggu II Dung Trinitatis (14-Jun-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1cHy7MDVCd5gI6N67GDd3HEyERAXROI74&usp=drive_fs\""
     },
     {
@@ -2332,7 +2997,11 @@
       "slug": "ibadah-minggu-ii-setelah-trinitatis-14-jun-2026-id",
       "title": "Ibadah Minggu II Setelah Trinitatis (14-Jun-2026) – ID",
       "date": "2026-06-13T19:29:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.540Z",
       "modified": "2026-06-13T19:29:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/06_Juni/13",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-ii-setelah-trinitatis-14-jun-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2353,6 +3022,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu II Setelah Trinitatis (14-Jun-2026) – ID",
       "seoTitle": "Ibadah Minggu II Setelah Trinitatis (14-Jun-2026) – ID",
       "seoDesc": "Ibadah Minggu II Setelah Trinitatis (14-Jun-2026) – ID",
@@ -2362,7 +3032,7 @@
       "embeds": [
         "https://drive.google.com/file/d/11DKJTfK5q0YOQKRbuZXzbL-359yAz4EJ/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/06_Juni/13/Ibadah Minggu II Setelah Trinitatis (14-Jun-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/06_Juni/13/Ibadah Minggu II Setelah Trinitatis (14-Jun-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=11DKJTfK5q0YOQKRbuZXzbL-359yAz4EJ&usp=drive_fs\""
     },
     {
@@ -2370,7 +3040,11 @@
       "slug": "ibadah-minggu-i-setelah-trinitatis-07-jun-2026-btk",
       "title": "Ibadah Minggu I Dung Trinitatis (07-Jun-2026) – BTK",
       "date": "2026-06-06T19:31:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.538Z",
       "modified": "2026-06-06T19:31:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/06_Juni/06",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-i-setelah-trinitatis-07-jun-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2391,6 +3065,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu I Dung Trinitatis (07-Jun-2026) – BTK",
       "seoTitle": "Ibadah Minggu I Dung Trinitatis (07-Jun-2026) – BTK",
       "seoDesc": "Ibadah Minggu I Dung Trinitatis (07-Jun-2026) – BTK",
@@ -2400,7 +3075,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1cgQZB3N6QB7SlNq7kjis-KL1Blmrl9Jr/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/06_Juni/06/Ibadah Minggu I Dung Trinitatis (07-Jun-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/06_Juni/06/Ibadah Minggu I Dung Trinitatis (07-Jun-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1cgQZB3N6QB7SlNq7kjis-KL1Blmrl9Jr&usp=drive_fs\""
     },
     {
@@ -2408,7 +3083,11 @@
       "slug": "ibadah-minggu-i-setelah-trinitatis-07-jun-2026-id",
       "title": "Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) – ID",
       "date": "2026-06-06T19:29:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.540Z",
       "modified": "2026-06-06T19:29:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/06_Juni/06",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-i-setelah-trinitatis-07-jun-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2429,6 +3108,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) – ID",
       "seoTitle": "Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) – ID",
       "seoDesc": "Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) – ID",
@@ -2438,7 +3118,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1aRkQG10RIfwIESFBoufw1ICwyxxKOt5V/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/06_Juni/06/Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/06_Juni/06/Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1aRkQG10RIfwIESFBoufw1ICwyxxKOt5V&usp=drive_fs\""
     },
     {
@@ -2446,7 +3126,11 @@
       "slug": "dunia-dan-segala-isinya-adalah-milik-tuhan-mazmur-50-7-15",
       "title": "Dunia dan segala isinya adalah milik Tuhan ( Mazmur 50 : 7 – 15 )",
       "date": "2026-06-06T15:35:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.314Z",
       "modified": "2026-06-06T15:35:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/dunia-dan-segala-isinya-adalah-milik-tuhan-mazmur-50-7-15",
       "categorySlug": "renungan",
       "categories": [
@@ -2461,6 +3145,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/cb/28/08/cb28089609fa511026d79030d7ded77c.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/cb/28/08/cb28089609fa511026d79030d7ded77c.jpg",
       "excerpt": "Dunia dan segala isinya adalah milik Tuhan ( Mazmur 50 : 7 – 15 ) Sering kali tanpa sadar kita …",
       "seoTitle": "Dunia dan segala isinya adalah milik Tuhan ( Mazmur 50 : 7 – 15 )",
       "seoDesc": "Dunia dan segala isinya adalah milik Tuhan ( Mazmur 50 : 7 – 15 ) Sering kali tanpa sadar kita …",
@@ -2476,7 +3161,11 @@
       "slug": "menjadi_saksi_allah_tritunggal",
       "title": "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20)",
       "date": "2026-05-31T06:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.314Z",
       "modified": "2026-05-31T06:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/menjadi_saksi_allah_tritunggal",
       "categorySlug": "renungan",
       "categories": [
@@ -2491,6 +3180,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/18/28/46/18284669f7839acef6bdc7ba961ff196.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/18/28/46/18284669f7839acef6bdc7ba961ff196.jpg",
       "excerpt": "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20) Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? …",
       "seoTitle": "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20)",
       "seoDesc": "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20) Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? …",
@@ -2506,7 +3196,11 @@
       "slug": "ibadah-minggu-trinitatis-31-mei-2026-btk",
       "title": "Ibadah Minggu Trinitatis (31-Mei-2026) – BTK",
       "date": "2026-05-31T01:55:23+07:00",
+      "createdAt": "2026-11-09T15:02:46.534Z",
       "modified": "2026-05-31T01:55:23+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/31",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-trinitatis-31-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2527,6 +3221,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Trinitatis (31-Mei-2026) – BTK",
       "seoTitle": "Ibadah Minggu Trinitatis (31-Mei-2026) – BTK",
       "seoDesc": "Ibadah Minggu Trinitatis (31-Mei-2026) – BTK",
@@ -2536,7 +3231,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1mr0gUoqF2-SnD36vS2_XoxGepKhOl-i9/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/31/Ibadah Minggu Trinitatis (31-Mei-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/05_Mei/31/Ibadah Minggu Trinitatis (31-Mei-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1mr0gUoqF2-SnD36vS2_XoxGepKhOl-i9&usp=drive_fs\""
     },
     {
@@ -2544,7 +3239,11 @@
       "slug": "ibadah-minggu-trinitatis-31-mei-2026-id",
       "title": "Ibadah Minggu Trinitatis (31-Mei-2026) – ID",
       "date": "2026-05-31T01:54:15+07:00",
+      "createdAt": "2026-11-09T15:02:46.537Z",
       "modified": "2026-05-31T01:54:15+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/31",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-trinitatis-31-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2565,6 +3264,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Trinitatis (31-Mei-2026) – ID",
       "seoTitle": "Ibadah Minggu Trinitatis (31-Mei-2026) – ID",
       "seoDesc": "Ibadah Minggu Trinitatis (31-Mei-2026) – ID",
@@ -2574,7 +3274,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1VeFxj3olIWO_yyNNB34lzfsDoWlGm6A9/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/31/Ibadah Minggu Trinitatis (31-Mei-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/05_Mei/31/Ibadah Minggu Trinitatis (31-Mei-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1VeFxj3olIWO_yyNNB34lzfsDoWlGm6A9&usp=drive_fs\""
     },
     {
@@ -2582,7 +3282,11 @@
       "slug": "ragam-karunia-dalam-satu-roh-1-korint-12-3-11",
       "title": "Ragam Karunia Dalam Satu Roh (1 Korint 12 : 3 – 11)",
       "date": "2026-05-24T08:23:01+07:00",
+      "createdAt": "2026-11-09T07:48:26.322Z",
       "modified": "2026-05-24T08:23:01+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/ragam-karunia-dalam-satu-roh-1-korint-12-3-11",
       "categorySlug": "renungan",
       "categories": [
@@ -2597,6 +3301,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/download-12.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/download-12.webp",
       "excerpt": "Dunia terus mendorong manusia untuk percaya bahwa kekuatan utama ada pada diri sendiri. Kemajuan teknologi, pendidikan, uang, jabatan dan pencapaian …",
       "seoTitle": "Ragam Karunia Dalam Satu Roh (1 Korint 12 : 3 – 11)",
       "seoDesc": "Dunia terus mendorong manusia untuk percaya bahwa kekuatan utama ada pada diri sendiri. Kemajuan teknologi, pendidikan, uang, jabatan dan pencapaian …",
@@ -2612,7 +3317,11 @@
       "slug": "ibadah-minggu-pentakosta-i-24-mei-2026-btk",
       "title": "Ibadah Minggu Pentakosta I (24-Mei-2026) – BTK",
       "date": "2026-05-23T21:10:42+07:00",
+      "createdAt": "2026-11-09T15:02:46.533Z",
       "modified": "2026-05-23T21:10:42+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/23",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-pentakosta-i-24-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2633,6 +3342,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Pentakosta I (24-Mei-2026) – BTK",
       "seoTitle": "Ibadah Minggu Pentakosta I (24-Mei-2026) – BTK",
       "seoDesc": "Ibadah Minggu Pentakosta I (24-Mei-2026) – BTK",
@@ -2642,7 +3352,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1ankcKIzEOZRqqgb5LHsUYjmO6mpqGXGr/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/23/Ibadah Minggu Pentakosta I (24-Mei-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/05_Mei/23/Ibadah Minggu Pentakosta I (24-Mei-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1ankcKIzEOZRqqgb5LHsUYjmO6mpqGXGr&usp=drive_fs\""
     },
     {
@@ -2650,7 +3360,11 @@
       "slug": "ibadah-minggu-pentakosta-i-24-mei-2026-id",
       "title": "Ibadah Minggu Pentakosta I (24-Mei-2026) – ID",
       "date": "2026-05-23T21:10:12+07:00",
+      "createdAt": "2026-11-09T15:02:46.533Z",
       "modified": "2026-05-23T21:10:12+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/23",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-pentakosta-i-24-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2671,6 +3385,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Pentakosta I (24-Mei-2026) – ID",
       "seoTitle": "Ibadah Minggu Pentakosta I (24-Mei-2026) – ID",
       "seoDesc": "Ibadah Minggu Pentakosta I (24-Mei-2026) – ID",
@@ -2680,7 +3395,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1c9sK6KrNwsxxmJaRn_hUpsmf05kPuW-O/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/23/Ibadah Minggu Pentakosta I (24-Mei-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/05_Mei/23/Ibadah Minggu Pentakosta I (24-Mei-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1c9sK6KrNwsxxmJaRn_hUpsmf05kPuW-O&usp=drive_fs\""
     },
     {
@@ -2688,7 +3403,11 @@
       "slug": "juklak-rpp-hkbp",
       "title": "Juklak RPP HKBP",
       "date": "2026-05-21T15:06:00+07:00",
+      "createdAt": "2026-11-09T07:48:26.327Z",
       "modified": "2026-05-21T15:06:00+07:00",
+      "status": "publish",
+      "section": "dokumen",
+      "storageFolder": "dokumen",
       "link": "https://www.hkbpperawang.org/dokumen/juklak-rpp-hkbp",
       "categorySlug": "dokumen",
       "categories": [
@@ -2703,6 +3422,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Juklak RPP HKBP",
       "seoTitle": "Juklak RPP HKBP",
       "seoDesc": "Juklak RPP HKBP",
@@ -2720,7 +3440,11 @@
       "slug": "rpp-hkbp",
       "title": "RPP HKBP",
       "date": "2026-05-21T15:05:10+07:00",
+      "createdAt": "2026-11-09T07:48:26.328Z",
       "modified": "2026-05-21T15:05:10+07:00",
+      "status": "publish",
+      "section": "dokumen",
+      "storageFolder": "dokumen",
       "link": "https://www.hkbpperawang.org/dokumen/rpp-hkbp",
       "categorySlug": "dokumen",
       "categories": [
@@ -2735,6 +3459,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "RPP HKBP",
       "seoTitle": "RPP HKBP",
       "seoDesc": "RPP HKBP",
@@ -2752,7 +3477,11 @@
       "slug": "konfessi-hkbp",
       "title": "Konfessi HKBP",
       "date": "2026-05-21T15:02:48+07:00",
+      "createdAt": "2026-11-09T07:48:26.331Z",
       "modified": "2026-05-21T15:02:48+07:00",
+      "status": "publish",
+      "section": "dokumen",
+      "storageFolder": "dokumen",
       "link": "https://www.hkbpperawang.org/dokumen/konfessi-hkbp",
       "categorySlug": "dokumen",
       "categories": [
@@ -2767,6 +3496,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Konfessi HKBP",
       "seoTitle": "Konfessi HKBP",
       "seoDesc": "Konfessi HKBP",
@@ -2784,7 +3514,11 @@
       "slug": "penatalayanan-hkbp",
       "title": "Penatalayanan HKBP",
       "date": "2026-05-21T15:01:01+07:00",
+      "createdAt": "2026-11-09T07:48:26.331Z",
       "modified": "2026-05-21T15:01:01+07:00",
+      "status": "publish",
+      "section": "dokumen",
+      "storageFolder": "dokumen",
       "link": "https://www.hkbpperawang.org/dokumen/penatalayanan-hkbp",
       "categorySlug": "dokumen",
       "categories": [
@@ -2799,6 +3533,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Penatalayanan HKBP",
       "seoTitle": "Penatalayanan HKBP",
       "seoDesc": "Penatalayanan HKBP",
@@ -2816,7 +3551,11 @@
       "slug": "aturan-dan-peraturan-hkbp",
       "title": "Aturan dan Peraturan HKBP",
       "date": "2026-05-21T14:57:52+07:00",
+      "createdAt": "2026-11-09T07:48:26.331Z",
       "modified": "2026-05-21T14:57:52+07:00",
+      "status": "publish",
+      "section": "dokumen",
+      "storageFolder": "dokumen",
       "link": "https://www.hkbpperawang.org/dokumen/aturan-dan-peraturan-hkbp",
       "categorySlug": "dokumen",
       "categories": [
@@ -2831,6 +3570,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Aturan dan Peraturan HKBP",
       "seoTitle": "Aturan dan Peraturan HKBP",
       "seoDesc": "Aturan dan Peraturan HKBP",
@@ -2848,7 +3588,11 @@
       "slug": "ibadah-minggu-exaudi-17-mei-2026-btk",
       "title": "Ibadah Minggu EXAUDI (17-Mei-2026) – BTK",
       "date": "2026-05-17T16:36:00+07:00",
+      "createdAt": "2026-11-09T15:02:46.530Z",
       "modified": "2026-05-17T16:36:00+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/17",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-exaudi-17-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2869,6 +3613,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu EXAUDI (17-Mei-2026) – BTK",
       "seoTitle": "Ibadah Minggu EXAUDI (17-Mei-2026) – BTK",
       "seoDesc": "Ibadah Minggu EXAUDI (17-Mei-2026) – BTK",
@@ -2878,7 +3623,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1jI7nEC-DgzRipUd-xYV277oXM8vHB1sY/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/17/Ibadah Minggu EXAUDI (17-Mei-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/05_Mei/17/Ibadah Minggu EXAUDI (17-Mei-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1jI7nEC-DgzRipUd-xYV277oXM8vHB1sY&usp=drive_fs\""
     },
     {
@@ -2886,7 +3631,11 @@
       "slug": "ibadah-minggu-exaudi-17-mei-2026-id",
       "title": "Ibadah Minggu EXAUDI (17-Mei-2026) – ID",
       "date": "2026-05-17T16:32:15+07:00",
+      "createdAt": "2026-11-09T15:02:46.530Z",
       "modified": "2026-05-17T16:32:15+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/17",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-exaudi-17-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2907,6 +3656,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu EXAUDI (17-Mei-2026) – ID",
       "seoTitle": "Ibadah Minggu EXAUDI (17-Mei-2026) – ID",
       "seoDesc": "Ibadah Minggu EXAUDI (17-Mei-2026) – ID",
@@ -2916,7 +3666,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1cqMVURLi2nL4UxHTx3uctq20P9Md7PN6/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/17/Ibadah Minggu EXAUDI (17-Mei-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/05_Mei/17/Ibadah Minggu EXAUDI (17-Mei-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1cqMVURLi2nL4UxHTx3uctq20P9Md7PN6&usp=drive_fs\""
     },
     {
@@ -2924,7 +3674,11 @@
       "slug": "tuhan-memberkati-dan-melindungi-engkau-bilangan-6-22-27",
       "title": "Tuhan Memberkati dan Melindungi Engkau (Bilangan 6 : 22 – 27)",
       "date": "2026-05-17T03:27:42+07:00",
+      "createdAt": "2026-11-09T07:48:26.331Z",
       "modified": "2026-05-17T03:27:42+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/tuhan-memberkati-dan-melindungi-engkau-bilangan-6-22-27",
       "categorySlug": "renungan",
       "categories": [
@@ -2939,6 +3693,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/jesus-with-his-disciples.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/jesus-with-his-disciples.webp",
       "excerpt": "Banyak orang zaman sekarang percaya bahwa hidup ditentukan oleh hoki, relasi, jabatan atau kerja keras.Usaha memang sangat penting, tetapi Alkitab …",
       "seoTitle": "Tuhan Memberkati dan Melindungi Engkau (Bilangan 6 : 22 – 27)",
       "seoDesc": "Banyak orang zaman sekarang percaya bahwa hidup ditentukan oleh hoki, relasi, jabatan atau kerja keras.Usaha memang sangat penting, tetapi Alkitab …",
@@ -2954,7 +3709,11 @@
       "slug": "ibadah-minggu-rogate-10-mei-2026-btk",
       "title": "Ibadah Minggu Rogate (10-Mei-2026) – BTK",
       "date": "2026-05-10T14:32:39+07:00",
+      "createdAt": "2026-11-09T15:02:46.528Z",
       "modified": "2026-05-10T14:32:39+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/10",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-rogate-10-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -2975,6 +3734,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Rogate (10-Mei-2026) – BTK",
       "seoTitle": "Ibadah Minggu Rogate (10-Mei-2026) – BTK",
       "seoDesc": "Ibadah Minggu Rogate (10-Mei-2026) – BTK",
@@ -2984,7 +3744,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1-4D3mdY-ahH8gRhdrLBWORYJzcoUb9oz/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/10/Ibadah Minggu Rogate (10-Mei-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/05_Mei/10/Ibadah Minggu Rogate (10-Mei-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1-4D3mdY-ahH8gRhdrLBWORYJzcoUb9oz&usp=drive_fs\""
     },
     {
@@ -2992,7 +3752,11 @@
       "slug": "ibadah-minggu-rogate-10-mei-2026-id",
       "title": "Ibadah Minggu Rogate (10-Mei-2026) – ID",
       "date": "2026-05-10T14:31:10+07:00",
+      "createdAt": "2026-11-09T15:02:46.529Z",
       "modified": "2026-05-10T14:31:10+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/10",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-rogate-10-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -3013,6 +3777,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Rogate (10-Mei-2026) – ID",
       "seoTitle": "Ibadah Minggu Rogate (10-Mei-2026) – ID",
       "seoDesc": "Ibadah Minggu Rogate (10-Mei-2026) – ID",
@@ -3022,7 +3787,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1uPfKPUDdyPD3HwfgMylr3HRIw2-ndJKv/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/10/Ibadah Minggu Rogate (10-Mei-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/05_Mei/10/Ibadah Minggu Rogate (10-Mei-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1uPfKPUDdyPD3HwfgMylr3HRIw2-ndJKv&usp=drive_fs\""
     },
     {
@@ -3030,7 +3795,11 @@
       "slug": "aku-menyanyi-bagi-tuhan",
       "title": "Aku Menyanyi Bagi Tuhan (Keluaran 15 : 1 – 14)",
       "date": "2026-05-03T06:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.341Z",
       "modified": "2026-05-03T06:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/aku-menyanyi-bagi-tuhan",
       "categorySlug": "renungan",
       "categories": [
@@ -3045,6 +3814,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/5c/7b/0d/5c7b0d6482daf74b62672ba0ca60cf72.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/5c/7b/0d/5c7b0d6482daf74b62672ba0ca60cf72.jpg",
       "excerpt": "Aku Menyanyi Bagi Tuhan (Keluaran 15 : 1 – 14) Dalam Keluaran 15:1-14, nyanyian bangsa Israel bukanlah nyanyian yang direncanakan …",
       "seoTitle": "Aku Menyanyi Bagi Tuhan (Keluaran 15 : 1 – 14)",
       "seoDesc": "Aku Menyanyi Bagi Tuhan (Keluaran 15 : 1 – 14) Dalam Keluaran 15:1-14, nyanyian bangsa Israel bukanlah nyanyian yang direncanakan …",
@@ -3060,7 +3830,11 @@
       "slug": "ibadah-minggu-kantate-03-mei-2026-btk",
       "title": "Ibadah Minggu Kantate (03-Mei-2026) – BTK",
       "date": "2026-05-03T02:29:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.526Z",
       "modified": "2026-05-03T02:29:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/03",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-kantate-03-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -3081,6 +3855,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Kantate (03-Mei-2026) – BTK",
       "seoTitle": "Ibadah Minggu Kantate (03-Mei-2026) – BTK",
       "seoDesc": "Ibadah Minggu Kantate (03-Mei-2026) – BTK",
@@ -3090,7 +3865,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1s3onjGVpcwwzxUYR37BVV4ZzHd_psA2O/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/03/Ibadah Minggu Kantate (03-Mei-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/05_Mei/03/Ibadah Minggu Kantate (03-Mei-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1s3onjGVpcwwzxUYR37BVV4ZzHd_psA2O&usp=drive_fs\""
     },
     {
@@ -3098,7 +3873,11 @@
       "slug": "ibadah-minggu-kantate-03-mei-2026-id",
       "title": "Ibadah Minggu Kantate (03-Mei-2026) – ID",
       "date": "2026-05-03T02:28:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.527Z",
       "modified": "2026-05-03T02:28:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/05_Mei/03",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-kantate-03-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -3119,6 +3898,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Kantate (03-Mei-2026) – ID",
       "seoTitle": "Ibadah Minggu Kantate (03-Mei-2026) – ID",
       "seoDesc": "Ibadah Minggu Kantate (03-Mei-2026) – ID",
@@ -3128,7 +3908,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1NVyo8knEjlKFmfJ6rdvmj4upGolI_c1G/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/05_Mei/03/Ibadah Minggu Kantate (03-Mei-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/05_Mei/03/Ibadah Minggu Kantate (03-Mei-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1NVyo8knEjlKFmfJ6rdvmj4upGolI_c1G&usp=drive_fs\""
     },
     {
@@ -3136,7 +3916,11 @@
       "slug": "hatiku-bersukacita-dan-jiwaku-bersorak-sorai",
       "title": "Hatiku Bersukacita dan Jiwaku Bersorak-sorai (Kisah Para Rasul 2 : 22 – 28)",
       "date": "2026-04-26T06:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.346Z",
       "modified": "2026-04-26T06:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/hatiku-bersukacita-dan-jiwaku-bersorak-sorai",
       "categorySlug": "renungan",
       "categories": [
@@ -3151,6 +3935,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/52/34/14/52341437c8fa4cdc3e5b8fc9fd9cfd59.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/52/34/14/52341437c8fa4cdc3e5b8fc9fd9cfd59.jpg",
       "excerpt": "Hatiku Bersukacita dan Jiwaku Bersorak-sorai (Kisah Para Rasul 2 : 22 – 28) Sukacita runtuh menggambarkan kondisi ketika kebahagiaan seseorang …",
       "seoTitle": "Hatiku Bersukacita dan Jiwaku Bersorak-sorai (Kisah Para Rasul 2 : 22 – 28)",
       "seoDesc": "Hatiku Bersukacita dan Jiwaku Bersorak-sorai (Kisah Para Rasul 2 : 22 – 28) Sukacita runtuh menggambarkan kondisi ketika kebahagiaan seseorang …",
@@ -3166,7 +3951,11 @@
       "slug": "ibadah-minggu-jubilate-26-april-2026-btk",
       "title": "Ibadah Minggu Jubilate (26-April-2026) – BTK",
       "date": "2026-04-26T02:29:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.523Z",
       "modified": "2026-04-26T02:29:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/04_April/26",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-jubilate-26-april-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -3187,6 +3976,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Jubilate (26-April-2026) – BTK",
       "seoTitle": "Ibadah Minggu Jubilate (26-April-2026) – BTK",
       "seoDesc": "Ibadah Minggu Jubilate (26-April-2026) – BTK",
@@ -3196,7 +3986,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1-Fd-h2LjSi46YMKuD65ySvcTN_iz7Zny/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/04_April/26/Ibadah Minggu Jubilate (26-April-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/04_April/26/Ibadah Minggu Jubilate (26-April-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1-Fd-h2LjSi46YMKuD65ySvcTN_iz7Zny&usp=drive_fs\""
     },
     {
@@ -3204,7 +3994,11 @@
       "slug": "ibadah-minggu-jubilate-26-april-2026-id",
       "title": "Ibadah Minggu Jubilate (26-April-2026) – ID",
       "date": "2026-04-26T02:29:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.524Z",
       "modified": "2026-04-26T02:29:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/04_April/26",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-jubilate-26-april-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -3225,6 +4019,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu Jubilate (26-April-2026) – ID",
       "seoTitle": "Ibadah Minggu Jubilate (26-April-2026) – ID",
       "seoDesc": "Ibadah Minggu Jubilate (26-April-2026) – ID",
@@ -3234,7 +4029,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1S51WW1STuE37K37OElRZjGmdToVecmcd/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/04_April/26/Ibadah Minggu Jubilate (26-April-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/04_April/26/Ibadah Minggu Jubilate (26-April-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1S51WW1STuE37K37OElRZjGmdToVecmcd&usp=drive_fs\""
     },
     {
@@ -3242,7 +4037,11 @@
       "slug": "bergembira-di-dalam-tuhan-habakuk-3-10-19",
       "title": "Bergembira di dalam Tuhan (Habakuk 3 : 10 – 19)",
       "date": "2026-04-19T06:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.351Z",
       "modified": "2026-04-19T06:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/bergembira-di-dalam-tuhan-habakuk-3-10-19",
       "categorySlug": "renungan",
       "categories": [
@@ -3257,6 +4056,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/62/ce/04/62ce04391636afcddd8016bf822ede55.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/62/ce/04/62ce04391636afcddd8016bf822ede55.jpg",
       "excerpt": "Bergembira di dalam Tuhan (Habakuk 3 : 10 – 19) Dimanakah kita meletakkan sumber hati kita? pertanyaan ini sekaligus menjadi …",
       "seoTitle": "Bergembira di dalam Tuhan (Habakuk 3 : 10 – 19)",
       "seoDesc": "Bergembira di dalam Tuhan (Habakuk 3 : 10 – 19) Dimanakah kita meletakkan sumber hati kita? pertanyaan ini sekaligus menjadi …",
@@ -3272,7 +4072,11 @@
       "slug": "ibadah-minggu-misericordias-domini-19-april-2026-btk",
       "title": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – BTK",
       "date": "2026-04-19T02:30:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.519Z",
       "modified": "2026-04-19T02:30:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/04_April/19",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-misericordias-domini-19-april-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -3293,6 +4097,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – BTK",
       "seoTitle": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – BTK",
       "seoDesc": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – BTK",
@@ -3302,7 +4107,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1aTYZtWiO7U9mMexfb29_waKF1oK4huA_/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/04_April/19/Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – BTK.md",
+      "sourcePath": "warta-acara/2026/04_April/19/Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1aTYZtWiO7U9mMexfb29_waKF1oK4huA_&usp=drive_fs\""
     },
     {
@@ -3310,7 +4115,11 @@
       "slug": "ibadah-minggu-misericordias-domini-19-april-2026-id",
       "title": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – ID",
       "date": "2026-04-19T02:29:59+07:00",
+      "createdAt": "2026-11-09T15:02:46.520Z",
       "modified": "2026-04-19T02:29:59+07:00",
+      "status": "publish",
+      "section": "warta",
+      "storageFolder": "2026/04_April/19",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-misericordias-domini-19-april-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -3331,6 +4140,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – ID",
       "seoTitle": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – ID",
       "seoDesc": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – ID",
@@ -3340,7 +4150,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1qareNi7mnZ1uHwnSiO35kaQ2aiUbMXja/preview"
       ],
-      "sourcePath": "warta_jemaat/2026/04_April/19/Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – ID.md",
+      "sourcePath": "warta-acara/2026/04_April/19/Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1qareNi7mnZ1uHwnSiO35kaQ2aiUbMXja&usp=drive_fs\""
     },
     {
@@ -3348,7 +4158,11 @@
       "slug": "langkahku-berat-tapi-tuhan-ku-tetap-dekat",
       "title": "Langkahku berat, tapi Tuhan-ku tetap dekat",
       "date": "2026-04-18T06:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.351Z",
       "modified": "2026-04-18T06:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "karya-tulis",
       "link": "https://www.hkbpperawang.org/karya-tulis/langkahku-berat-tapi-tuhan-ku-tetap-dekat",
       "categorySlug": "karya-tulis",
       "categories": [
@@ -3363,6 +4177,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/9f/9a/36/9f9a36bf7d3822f6e1118638e0c3c264.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/9f/9a/36/9f9a36bf7d3822f6e1118638e0c3c264.jpg",
       "excerpt": "Seringkali kita merasa, melangkah dalam perjalanan hidup ini sangat sulit dan penuh tantangan. Tiap langkah yang diambil terasa seperti beban …",
       "seoTitle": "Langkahku berat, tapi Tuhan-ku tetap dekat",
       "seoDesc": "Seringkali kita merasa, melangkah dalam perjalanan hidup ini sangat sulit dan penuh tantangan. Tiap langkah yang diambil terasa seperti beban …",
@@ -3378,7 +4193,11 @@
       "slug": "menggeser-spotlight-tuhan",
       "title": "Menggeser Spotlight Tuhan",
       "date": "2026-03-31T06:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.351Z",
       "modified": "2026-03-31T06:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "karya-tulis",
       "link": "https://www.hkbpperawang.org/karya-tulis/menggeser-spotlight-tuhan",
       "categorySlug": "karya-tulis",
       "categories": [
@@ -3393,6 +4212,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/64/e8/01/64e801ca5039c82057f00fcdbf4aacc3.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/64/e8/01/64e801ca5039c82057f00fcdbf4aacc3.jpg",
       "excerpt": "Dalam semangat pelayanan di kalangan pemuda gereja, pernahkah kita berhenti sejenak dan bertanya: Seperti apa bentuk pelayanan yang sesungguhnya? Bagaimana …",
       "seoTitle": "Menggeser Spotlight Tuhan",
       "seoDesc": "Dalam semangat pelayanan di kalangan pemuda gereja, pernahkah kita berhenti sejenak dan bertanya: Seperti apa bentuk pelayanan yang sesungguhnya? Bagaimana …",
@@ -3408,7 +4228,11 @@
       "slug": "mengarahkan-hati-dan-jiwa-untuk-mencari-tuhan-1-tawarikh-22-14-19",
       "title": "Mengarahkan Hati dan Jiwa untuk Mencari Tuhan ( 1 Tawarikh 22 : 14 – 19 )",
       "date": "2026-03-08T06:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.351Z",
       "modified": "2026-03-08T06:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/mengarahkan-hati-dan-jiwa-untuk-mencari-tuhan-1-tawarikh-22-14-19",
       "categorySlug": "renungan",
       "categories": [
@@ -3423,6 +4247,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/03/83/37/0383375e7ac2f5747ff79723ae6e77ea.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/03/83/37/0383375e7ac2f5747ff79723ae6e77ea.jpg",
       "excerpt": "Mengarahkan Hati dan Jiwa untuk Mencari Tuhan ( 1 Tawarikh 22 : 14 – 19 ) Arah hati adalah arah …",
       "seoTitle": "Mengarahkan Hati dan Jiwa untuk Mencari Tuhan ( 1 Tawarikh 22 : 14 – 19 )",
       "seoDesc": "Mengarahkan Hati dan Jiwa untuk Mencari Tuhan ( 1 Tawarikh 22 : 14 – 19 ) Arah hati adalah arah …",
@@ -3438,7 +4263,11 @@
       "slug": "tuhan-dekat-tatkala-aku-memanggil-ratapan-3-49-57",
       "title": "Tuhan dekat Tatkala Aku Memanggil ( Ratapan 3 : 49 – 57 )",
       "date": "2026-02-22T06:28:59+07:00",
+      "createdAt": "2026-11-09T07:48:26.351Z",
       "modified": "2026-02-22T06:28:59+07:00",
+      "status": "publish",
+      "section": "postingan",
+      "storageFolder": "renungan",
       "link": "https://www.hkbpperawang.org/renungan/tuhan-dekat-tatkala-aku-memanggil-ratapan-3-49-57",
       "categorySlug": "renungan",
       "categories": [
@@ -3453,6 +4282,7 @@
       "tags": [],
       "author": "HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/07/77/36/077736490e90dafef39f3ea7375c7f54.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/07/77/36/077736490e90dafef39f3ea7375c7f54.jpg",
       "excerpt": "Tuhan dekat Tatkala Aku Memanggil ( Ratapan 3 : 49 – 57 ) Sebelum Yesus dimuliakan diatas gunung, ia terlebih …",
       "seoTitle": "Tuhan dekat Tatkala Aku Memanggil ( Ratapan 3 : 49 – 57 )",
       "seoDesc": "Tuhan dekat Tatkala Aku Memanggil ( Ratapan 3 : 49 – 57 ) Sebelum Yesus dimuliakan diatas gunung, ia terlebih …",

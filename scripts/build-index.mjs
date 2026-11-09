@@ -2,10 +2,11 @@
 /**
  * Generator Indeks Konten Otomatis — Repo `hkbpperawang/assets`
  *
- * Memindai seluruh file `.md` di dalam folder `warta_jemaat/` dan `artikel/`,
- * mem-parsing YAML Frontmatter, `pdf_url="..."`, `taxonomy.category`, dan `custom_fields`,
+ * Memindai seluruh file `.md` di dalam folder `warta_jemaat/`, `warta-acara/`, dan `artikel/`,
+ * mem-parsing YAML Frontmatter, `pdf_url="..."`, `taxonomy.category`, `taxonomy.post_tag`, dan `custom_fields`,
+ * serta memindai pohon direktori `artikel/` dan `warta_jemaat/` (`warta-acara/`),
  * lalu menghasilkan file `dist/content-index.json` yang siap dikonsumsi oleh
- * website `www.hkbpperawang.org` dan Fake WP REST API (`/wp-json/wp/v2/*`).
+ * website `www.hkbpperawang.org`, Dashboard CMS, dan Fake WP REST API (`/wp-json/wp/v2/*`).
  */
 
 import fs from "node:fs";
@@ -296,6 +297,18 @@ function walkMarkdownFiles(dir, fileList = []) {
   return fileList;
 }
 
+function walkDirectories(baseDir, currentDir = baseDir, out = []) {
+  if (!fs.existsSync(currentDir)) return out;
+  for (const entry of fs.readdirSync(currentDir, { withFileTypes: true })) {
+    if (!entry.isDirectory() || entry.name.startsWith(".")) continue;
+    const fullPath = path.join(currentDir, entry.name);
+    const rel = path.relative(baseDir, fullPath).replace(/\\/g, "/");
+    out.push(rel);
+    walkDirectories(baseDir, fullPath, out);
+  }
+  return out;
+}
+
 function buildPlainTextExcerpt(body, fallbackDesc) {
   if (fallbackDesc && fallbackDesc.trim()) return fallbackDesc.trim();
   const paragraphs = body
@@ -319,26 +332,51 @@ function buildPlainTextExcerpt(body, fallbackDesc) {
 }
 
 function buildContentIndex() {
-  const contentDirs = ["warta_jemaat", "artikel"];
+  const contentDirs = ["warta_jemaat", "warta-acara", "artikel"];
   const files = [];
   for (const sub of contentDirs) {
     walkMarkdownFiles(path.join(ROOT_DIR, sub), files);
   }
 
+  const artikelBase = path.join(ROOT_DIR, "artikel");
+  const artikelFolders = fs.existsSync(artikelBase)
+    ? fs
+        .readdirSync(artikelBase, { withFileTypes: true })
+        .filter((d) => d.isDirectory() && !d.name.startsWith(".") && d.name !== "dokumen")
+        .map((d) => d.name)
+        .sort()
+    : [];
+
+  const wartaFoldersSet = new Set();
+  for (const wDir of ["warta_jemaat", "warta-acara"]) {
+    const absW = path.join(ROOT_DIR, wDir);
+    for (const rel of walkDirectories(absW)) {
+      wartaFoldersSet.add(rel);
+    }
+  }
+  const wartaFolders = [...wartaFoldersSet].sort();
+
   const posts = [];
 
   for (const absPath of files) {
     const relPath = path.relative(ROOT_DIR, absPath).replace(/\\/g, "/");
+    if (relPath.toLowerCase().endsWith("readme.md")) continue;
+
     const rawMd = fs.readFileSync(absPath, "utf8");
+    const stat = fs.statSync(absPath);
     const { frontmatter, body } = parseFrontmatterBlock(rawMd);
 
     const status = String(frontmatter.post_status || frontmatter.status || "publish").toLowerCase();
-    if (status !== "publish") continue;
 
     const title = String(frontmatter.title || path.basename(absPath, ".md")).trim();
     const slug = String(frontmatter.slug || slugify(title)).trim();
     const id = frontmatter.id ? Number(frontmatter.id) : deterministicNumericId(slug);
     const dateIso = normalizeIsoWib(frontmatter.post_date || frontmatter.date);
+    const createdIso = frontmatter.created_at
+      ? normalizeIsoWib(frontmatter.created_at)
+      : stat.birthtime && !Number.isNaN(stat.birthtime.getTime()) && stat.birthtime.getFullYear() > 1980
+        ? stat.birthtime.toISOString()
+        : dateIso;
     const modifiedIso = normalizeIsoWib(
       frontmatter.modified || frontmatter.post_date || frontmatter.date,
     );
@@ -346,7 +384,7 @@ function buildContentIndex() {
     // Map category slugs to WP category IDs
     const rawCatSlugs = [...(frontmatter.taxonomy?.category ?? [])];
     if (rawCatSlugs.length === 0) {
-      if (relPath.startsWith("warta_jemaat/")) {
+      if (relPath.startsWith("warta_jemaat/") || relPath.startsWith("warta-acara/")) {
         rawCatSlugs.push("warta-acara");
       } else if (relPath.startsWith("artikel/")) {
         const parts = relPath.split("/");
@@ -370,11 +408,35 @@ function buildContentIndex() {
       categoryNames.push("Warta Acara");
     }
 
+    // Determine section: "warta" | "dokumen" | "postingan"
+    let section = "postingan";
+    if (
+      relPath.startsWith("warta_jemaat/") ||
+      relPath.startsWith("warta-acara/") ||
+      categories.some((c) => [15, 17, 18, 19, 23, 24, 25, 26, 27, 28, 32, 33, 69, 70, 71, 72, 73].includes(c))
+    ) {
+      section = "warta";
+    } else if (relPath.startsWith("artikel/dokumen/") || categories.includes(22)) {
+      section = "dokumen";
+    }
+
+    let storageFolder = "";
+    if (relPath.startsWith("warta_jemaat/")) {
+      storageFolder = path.posix.dirname(relPath.slice("warta_jemaat/".length));
+      if (storageFolder === ".") storageFolder = "";
+    } else if (relPath.startsWith("warta-acara/")) {
+      storageFolder = path.posix.dirname(relPath.slice("warta-acara/".length));
+      if (storageFolder === ".") storageFolder = "";
+    } else if (relPath.startsWith("artikel/")) {
+      storageFolder = path.posix.dirname(relPath.slice("artikel/".length));
+      if (storageFolder === ".") storageFolder = "";
+    }
+
     // Determine primary URL category slug (prioritizing main categories like warta-acara, renungan, bacaan)
     const primaryCatSlug =
       categories.includes(15) || categories.includes(17) || categories.includes(18) || categories.includes(19)
         ? "warta-acara"
-        : (CATEGORY_ID_TO_URL_SLUG[categories[0]] ?? "warta-acara");
+        : (CATEGORY_ID_TO_URL_SLUG[categories[0]] ?? (rawCatSlugs[0] ? slugify(rawCatSlugs[0]) : "warta-acara"));
 
     // Extract pdf_url="..." from body or custom_fields
     const pdfMatch = /pdf_url\s*=\s*["']([^"']+)["']/i.exec(body);
@@ -400,9 +462,9 @@ function buildContentIndex() {
       author = "Tim Redaksi HKBP Perawang";
     }
 
-    const image = resolveAssetImageUrl(
-      frontmatter.custom_fields?.featured_image_url || frontmatter.image || "",
-    );
+    const rawFeaturedImage =
+      frontmatter.custom_fields?.featured_image_url || frontmatter.image || "";
+    const image = resolveAssetImageUrl(rawFeaturedImage);
     const seoTitle = String(frontmatter.custom_fields?.site_seo_title || "").trim() || undefined;
     const seoDesc = String(frontmatter.custom_fields?.site_seo_desc || "").trim() || undefined;
     const seoTarget = String(frontmatter.custom_fields?.seo_target || "").trim() || undefined;
@@ -415,7 +477,11 @@ function buildContentIndex() {
       slug,
       title,
       date: dateIso,
+      createdAt: createdIso,
       modified: modifiedIso,
+      status,
+      section,
+      storageFolder,
       link: `https://www.hkbpperawang.org/${primaryCatSlug}/${slug}`,
       categorySlug: primaryCatSlug,
       categories,
@@ -424,6 +490,7 @@ function buildContentIndex() {
       tags: frontmatter.taxonomy?.post_tag ?? [],
       author,
       image,
+      rawImage: rawFeaturedImage || null,
       excerpt,
       seoTitle,
       seoDesc,
@@ -442,14 +509,30 @@ function buildContentIndex() {
   const outDir = path.join(ROOT_DIR, "dist");
   fs.mkdirSync(outDir, { recursive: true });
   const outPath = path.join(outDir, "content-index.json");
+
+  let taxonomyMeta = null;
+  const taxonomySrc = path.join(ROOT_DIR, "pages", "taxonomy.json");
+  if (fs.existsSync(taxonomySrc)) {
+    try {
+      taxonomyMeta = JSON.parse(fs.readFileSync(taxonomySrc, "utf8"));
+    } catch {
+      taxonomyMeta = null;
+    }
+  }
+
   const payload = {
     generatedAt: new Date().toISOString(),
     repo: "hkbpperawang/assets",
     totalPosts: posts.length,
+    artikelFolders,
+    wartaFolders,
+    ...(taxonomyMeta ? { taxonomy: taxonomyMeta } : {}),
     posts,
   };
   fs.writeFileSync(outPath, JSON.stringify(payload, null, 2) + "\n", "utf8");
-  console.log(`[build-index] Wrote ${posts.length} posts to ${outPath}`);
+  console.log(
+    `[build-index] Wrote ${posts.length} posts (${artikelFolders.length} artikel folders, ${wartaFolders.length} warta folders) to ${outPath}`,
+  );
 
   const srcPeople = path.join(ROOT_DIR, "pages", "people-pages.json");
   const distPeople = path.join(outDir, "people-pages.json");
