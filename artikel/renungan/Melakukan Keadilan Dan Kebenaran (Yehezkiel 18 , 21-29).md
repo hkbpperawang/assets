@@ -3,12 +3,12 @@ id: 2067
 slug: "melakukan-keadilan-dan-kebenaran"
 title: "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29)"
 post_date: "2026-11-08 00:03:00"
-post_excerpt: "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29) Saudara-saudara yang dikasihi Tuhan, ada satu kecenderungan manusia yang sangat berbahaya: kita …"
+created_at: "2026-11-09 07:48:00"
+post_excerpt: ""
 post_status: "publish"
 type: "post"
-author: "HKBP Perawang"
 custom_fields:
-    featured_image_url: "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp"
+    featured_image_url: "https://i.pinimg.com/1200x/1d/98/de/1d98de8f5a850795af6eb5154f42d80a.jpg"
     seo_target: "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29)"
     site_seo_title: "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29)"
     site_seo_desc: "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29) Saudara-saudara yang dikasihi Tuhan, ada satu kecenderungan manusia yang sangat berbahaya: kita …"
@@ -18,6 +18,7 @@ taxonomy:
 ---
 
 Melakukan Keadilan Dan Kebenaran
+
 (Yehezkiel 18 : 21-29)
 
 Saudara-saudara yang dikasihi Tuhan, ada satu kecenderungan manusia yang sangat berbahaya: kita selalu mempunyai alasan untuk membenarkan diri sendiri, tetapi begitu mudah menemukan kesalahan orang lain. Ketika gagal, kita menyalahkan masa lalu; ketika berbuat curang, kita menyalahkan keadaan; ketika menyalahgunakan kepercayaan, kita mencari pembenaran. Melalui Yehezkiel 18:21–29, Tuhan membongkar cara berpikir seperti ini. Tuhan menegaskan bahwa masa lalu tidak boleh menjadi penjara bagi orang yang mau bertobat, tetapi juga tidak boleh menjadi tempat berlindung bagi orang yang sekarang hidup dalam kejahatan. Orang fasik yang berbalik dari kejahatannya dan melakukan keadilan serta kebenaran memperoleh kesempatan untuk hidup. Sebaliknya, orang benar yang meninggalkan kebenaran tidak dapat berlindung di balik kesalehan masa lalunya. Artinya, Tuhan tidak terpesona oleh sejarah kebaikan kita, tetapi juga tidak menutup masa depan orang yang sungguh-sungguh bertobat. Masa lalu bukan jaminan bahwa kita pasti benar hari ini, dan masa lalu bukan vonis bahwa kita tidak mungkin menjadi benar hari esok. Inilah keadilan Allah: setiap orang dipanggil untuk bertanggung jawab atas jalan hidup yang sedang ditempuhnya.
