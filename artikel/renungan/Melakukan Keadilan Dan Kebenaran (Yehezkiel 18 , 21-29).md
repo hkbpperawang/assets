@@ -18,6 +18,7 @@ taxonomy:
 ---
 
 Melakukan Keadilan Dan Kebenaran
+
 (Yehezkiel 18 : 21-29)
 
 Saudara-saudara yang dikasihi Tuhan, ada satu kecenderungan manusia yang sangat berbahaya: kita selalu mempunyai alasan untuk membenarkan diri sendiri, tetapi begitu mudah menemukan kesalahan orang lain. Ketika gagal, kita menyalahkan masa lalu; ketika berbuat curang, kita menyalahkan keadaan; ketika menyalahgunakan kepercayaan, kita mencari pembenaran. Melalui Yehezkiel 18:21–29, Tuhan membongkar cara berpikir seperti ini. Tuhan menegaskan bahwa masa lalu tidak boleh menjadi penjara bagi orang yang mau bertobat, tetapi juga tidak boleh menjadi tempat berlindung bagi orang yang sekarang hidup dalam kejahatan. Orang fasik yang berbalik dari kejahatannya dan melakukan keadilan serta kebenaran memperoleh kesempatan untuk hidup. Sebaliknya, orang benar yang meninggalkan kebenaran tidak dapat berlindung di balik kesalehan masa lalunya. Artinya, Tuhan tidak terpesona oleh sejarah kebaikan kita, tetapi juga tidak menutup masa depan orang yang sungguh-sungguh bertobat. Masa lalu bukan jaminan bahwa kita pasti benar hari ini, dan masa lalu bukan vonis bahwa kita tidak mungkin menjadi benar hari esok. Inilah keadilan Allah: setiap orang dipanggil untuk bertanggung jawab atas jalan hidup yang sedang ditempuhnya.
