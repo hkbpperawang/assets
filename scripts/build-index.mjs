@@ -58,6 +58,7 @@ const CATEGORY_SLUG_TO_ID = {
   "ayat-mingguan": 84,
   "ayat-bulanan": 85,
   bacaan: 86,
+  informasi: 87,
 };
 
 const CATEGORY_ID_TO_NAME = {
@@ -97,6 +98,7 @@ const CATEGORY_ID_TO_NAME = {
   84: "Ayat Mingguan",
   85: "Ayat Bulanan",
   86: "Bacaan",
+  87: "Informasi",
 };
 
 const CATEGORY_ID_TO_URL_SLUG = {
@@ -136,6 +138,7 @@ const CATEGORY_ID_TO_URL_SLUG = {
   84: "ayat-mingguan",
   85: "ayat-bulanan",
   86: "bacaan",
+  87: "informasi",
 };
 
 function slugify(input) {
@@ -367,6 +370,12 @@ function buildContentIndex() {
     const { frontmatter, body } = parseFrontmatterBlock(rawMd);
 
     const status = String(frontmatter.post_status || frontmatter.status || "publish").toLowerCase();
+    const rawFormat = String(
+      frontmatter.format || frontmatter.custom_fields?.post_format || "artikel",
+    ).toLowerCase();
+    const format = ["artikel", "video", "gambar", "gallery", "musik"].includes(rawFormat)
+      ? rawFormat
+      : "artikel";
 
     const title = String(frontmatter.title || path.basename(absPath, ".md")).trim();
     const slug = String(frontmatter.slug || slugify(title)).trim();
@@ -480,6 +489,7 @@ function buildContentIndex() {
       createdAt: createdIso,
       modified: modifiedIso,
       status,
+      format,
       section,
       storageFolder,
       link: `https://www.hkbpperawang.org/${primaryCatSlug}/${slug}`,
