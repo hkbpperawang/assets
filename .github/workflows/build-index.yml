@@ -1,0 +1,43 @@
+name: Build Content Index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "warta_jemaat/**/*.md"
+      - "artikel/**/*.md"
+      - "pages/**/*.md"
+      - "pages/**/*.json"
+      - "scripts/build-index.mjs"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate dist/content-index.json
+        run: node scripts/build-index.mjs
+
+      - name: Commit and push updated content-index.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          if git diff --staged --quiet; then
+            echo "No changes to dist/"
+          else
+            git commit -m "chore(index): auto-update dist/ content index [skip ci]"
+            git push
+          fi

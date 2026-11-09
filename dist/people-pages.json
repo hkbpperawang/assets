@@ -1,0 +1,862 @@
+{
+  "about": [
+    {
+      "type": "text",
+      "title": "Visi",
+      "text": "“HKBP Menjadi Berkat”"
+    },
+    {
+      "type": "text",
+      "title": "Misi",
+      "text": "“HKBP berkembang menjadi gereja yang inklusif, dialogis dan terbuka, serta mampu dan bertenaga mengembangkan kehidupan yang bermutu di dalam kasih Tuhan Yesus Kristus, bersama-sama dengan semua orang di dalam masyarakat global, terutama masyarakat Kristen, demi kemuliaan Allah Bapa yang mahakuasa.”"
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Full Timer"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "Pdt. Leonardo R. Sinambela",
+          "role": "Pendeta Ressort",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": [
+            "https://web.facebook.com/sinambela"
+          ]
+        },
+        {
+          "name": "Pdt. Eko YH Marbun, S.Th.",
+          "role": "Pendeta Fungsional",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "Bv. L. br. Lumbangaol",
+          "role": "Bibelvrow",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Sintua / Penatuah"
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk I"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. LP. Purba",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. E. Malau",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. J. Situmorang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "CSt. I. Hutapea",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk II"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. E. Manullang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. M. Simbolon",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk III"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. JE. Silaban",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. J. Rumapea",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. LS. Manullang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk IV"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. H. Sitompul",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. TR. Napitupulu",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. PD. Pardede",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. L. br. Simbolon",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "CSt. B. Silalahi",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "CSt. M. Sihombing",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk V"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. N. Sitompul",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. E. Silitonga",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk VI"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. Ir. AH. Simangunsong",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. I. Butarbutar",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. G. Situmorang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. J. Pasaribu",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. K. Simamora",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk VII"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. Paranginangin",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. M. Butarbutar",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. B. br. Simaremare",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. HP. Tobing",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk VIII"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. J. Siregar",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "CSt. R. Nababan",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "CSt. J. Sidauruk",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk IX"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. GM. Manurung",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. RH. Manullang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. R. Gultom",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. P. Simatupang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "CSt. D. Simanjuntak",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk X"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. R. Harianja",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. S. Pakpahan",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. Ir. D. Siahaan",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. T. Silaban",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk XI"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. H. Sinaga",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. SP. Samosir",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. A. Manalu",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk XII"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. P. Pangaribuan",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. R. Nainggolan",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. M. Gultom",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk XIII"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. S. Sijabat",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. M. Situmorang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "CSt. T. Sihite",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "CSt. R. br. Pandiangan",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "sub",
+      "title": "Weyk XIV"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. S. Nainggolan",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. P. Sitindaon",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "fungsionaris": [
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Pimpinan Jemaat"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "Pdt. Leonardo R. Sinambela",
+          "role": "Pendeta Ressort",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Fungsionaris"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "Pdt. Eko YH Marbun, S.Th.",
+          "role": "Pendeta Fungsional",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "Bv. L. br. Lumbangaol",
+          "role": "Bibelvrow",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Dewan Koinonia"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. J. Siregar",
+          "role": "Ketua Dewan Koinonia",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. A. Manalu",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. R. Nainggolan",
+          "role": "Paniroi Remaja & Naposo",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. S. Pakpahan",
+          "role": "Sintua HKBP Perawang Ressort Perawang",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "Timothy Situmorang",
+          "role": "Ketua Remaja",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "Jepriadi Siahaan",
+          "role": "Ketua Naposo",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/jepriadi-siahaan-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Dewan Diakonia"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. R. Harianja",
+          "role": "Ketua Dewan Diakonia",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. H. Sitompul",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. G. Situmorang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. LP. Purba",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. E. Manullang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "T. Pangaribuan",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "R. Saragi",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "R. Napituppulu",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "J. Munte",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "R. Manalu",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Dewan Marturia"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. P. Pangaribuan",
+          "role": "Ketua Dewan Marturia",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. RH. Manullang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. JE. Silaban",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. J. Pasaribu",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "CSt. B. Silalahi",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "S. Tobing",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "E. Sidauruk",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "T. Marbun",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "T. Simanjuntak",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Parartaon"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. I. Butarbutar",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. M. Situmorang",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. S. Nainggolan",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Sekretaris & Bendahara"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. Paranginangin",
+          "role": "Sekretaris Huria",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. Ir. D. Siahaan",
+          "role": "Bendahara Huria",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Bestur & Utusan ressort"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. S. Pakpahan",
+          "role": "Sintua HKBP Perawang Ressort Perawang",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. M. Pangaribuan",
+          "role": "Sintua HKBP Perawang Barat",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. B. br. Simaremare",
+          "role": "SekBen Ressort",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. N. Siregar",
+          "role": "Sintua HKBP Jeriko",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. N. Simatupang",
+          "role": "Sintua HKBP Sion Bunut",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. J. parapat",
+          "role": "Sintua HKBP Eben Ezer Sei Lukut",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "R. Rumahorbo",
+          "role": "Utusan Ruas Sinode",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Badan Audit"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "St. M. Butarbutar",
+          "role": "Ketua Badan Audit",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "St. B. br. Simaremare",
+          "role": "SekBen Ressort",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "J. Manurung",
+          "role": null,
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "banner",
+      "level": "main",
+      "title": "Pegawai Gereja"
+    },
+    {
+      "type": "people",
+      "people": [
+        {
+          "name": "Desy br. Simanjuntak",
+          "role": "Pegawai Kantor",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        },
+        {
+          "name": "Boy Manalu",
+          "role": "Coster",
+          "photo": "https://cdn.hkbpperawang.org/assets/uploads/blank-profile-picture-160x160.webp",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "multimedia": []
+}
