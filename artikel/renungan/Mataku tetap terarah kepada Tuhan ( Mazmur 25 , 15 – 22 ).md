@@ -8,7 +8,7 @@ post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
 custom_fields:
-    featured_image_url: "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp"
+    featured_image_url: "https://i.pinimg.com/1200x/b5/bf/c8/b5bfc841be6fdc8c7a57b4ee39323365.jpg"
     seo_target: "Mataku tetap terarah kepada Tuhan ( Mazmur 25 : 15 – 22 )"
     site_seo_title: "Mataku tetap terarah kepada Tuhan ( Mazmur 25 : 15 – 22 )"
     site_seo_desc: "Mataku tetap terarah kepada Tuhan (Mazmur 25 : 15 – 22) Daud berkata, “Mataku tetap terarah kepada TUHAN” (Mazmur 25:15), …"
