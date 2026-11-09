@@ -2,8 +2,8 @@
 id: 92335640
 slug: "aut-sura-boi-songon-alogo-koor-ina-ruth-hkbp-perawang-ressort-perawang"
 title: "AUT SURA BOI SONGON ALOGO | Koor Ina Ruth HKBP Perawang Ressort Perawang"
-post_date: "2026-11-03 03:35:00"
-created_at: "2026-11-03 03:35:00"
+post_date: "2026-11-10 03:35:00"
+created_at: "2026-11-10 03:35:00"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
