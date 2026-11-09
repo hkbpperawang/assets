@@ -16,7 +16,6 @@ custom_fields:
     site_seo_desc: "AUT SURA BOI SONGON ALOGO | Koor Ina Ruth HKBP Perawang Ressort Perawang"
 taxonomy:
     category:
-        - renungan
         - youtube
 ---
 
