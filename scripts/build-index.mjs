@@ -369,7 +369,12 @@ function buildContentIndex() {
     const stat = fs.statSync(absPath);
     const { frontmatter, body } = parseFrontmatterBlock(rawMd);
 
-    const status = String(frontmatter.post_status || frontmatter.status || "publish").toLowerCase();
+    const rawStatus = String(frontmatter.post_status || frontmatter.status || "publish").toLowerCase();
+    const status = rawStatus === "draft" ? "draft" : rawStatus === "private" ? "private" : "publish";
+    const featured = Boolean(
+      frontmatter.featured === true ||
+        /^(?:true|1|yes)$/i.test(String(frontmatter.featured || frontmatter.custom_fields?.featured || "")),
+    );
     const rawFormat = String(
       frontmatter.format || frontmatter.custom_fields?.post_format || "artikel",
     ).toLowerCase();
@@ -489,6 +494,7 @@ function buildContentIndex() {
       createdAt: createdIso,
       modified: modifiedIso,
       status,
+      featured,
       format,
       section,
       storageFolder,
