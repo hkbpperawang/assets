@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:34:25.707Z",
+  "generatedAt": "2026-11-10T03:46:45.186Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 99,
   "artikelFolders": [
@@ -1157,7 +1157,7 @@
       "createdAt": "2026-11-10T03:34:25.285Z",
       "modified": "2026-10-03T03:03:00+07:00",
       "status": "publish",
-      "featured": false,
+      "featured": true,
       "format": "artikel",
       "section": "postingan",
       "storageFolder": "renungan",
@@ -1956,7 +1956,7 @@
       "createdAt": "2026-11-10T03:34:25.285Z",
       "modified": "2026-08-15T20:03:00+07:00",
       "status": "publish",
-      "featured": false,
+      "featured": true,
       "format": "artikel",
       "section": "postingan",
       "storageFolder": "renungan",
