@@ -8,14 +8,14 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 format: "artikel"
-author: "HKBP Perawang"
+author: "Tim Multimedia"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/c7/9f/1b/c79f1b055c2432c8a82a92f452021b19.jpg"
-    author: "HKBP Perawang"
+    author: "Tim Multimedia"
     post_format: "artikel"
     seo_target: "Menjadi Jemaat yang Cerdas dan Bijak dalam Menggunakan AI"
     site_seo_title: "Menjadi Jemaat yang Cerdas dan Bijak dalam Menggunakan AI"
-    site_seo_desc: "Menjadi Jemaat yang Cerdas dan Bijak dalam Menggunakan AI"
+    site_seo_desc: "Beberapa waktu belakangan ini, kita pasti sering mendengar kata AI atau Artificial Intelligence (Kecerdasan Buatan)."
 taxonomy:
     category:
         - tips
