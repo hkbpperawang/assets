@@ -43,7 +43,10 @@ Alkitab yang ditulis ribuan tahun lalu ternyata punya "kompas" yang sangat relev
 
 #### 1. Kejar Hikmat, Bukan Cuma Pengetahuan Cepat
 
-### *"Hikmat adalah yang terutama, maka perolehlah hikmat dan dengan segala yang kauperoleh perolehlah pengertian."*— **Amsal 4:7**AI bisa memberi kita jawaban instan dalam hitungan detik. Tapi ingat, AI hanya punya *pengetahuan (knowledge)*, sedangkan *hikmat (wisdom)* yang sejati hanya datang dari Tuhan. Jangan sampai kita malas berpikir, malas membaca Alkitab, atau malas bergumul mencari kehendak Tuhan hanya karena merasa semua jawaban ada di AI. AI bisa bantu kita mencari referensi, tetapi keputusan hidup dan kebijaksanaan tetap harus berlandaskan firman-Nya.
+> *"Hikmat adalah yang terutama, maka perolehlah hikmat dan dengan segala yang kauperoleh perolehlah pengertian."*
+> — **Amsal 4:7**
+
+AI bisa memberi kita jawaban instan dalam hitungan detik. Tapi ingat, AI hanya punya *pengetahuan (knowledge)*, sedangkan *hikmat (wisdom)* yang sejati hanya datang dari Tuhan. Jangan sampai kita malas berpikir, malas membaca Alkitab, atau malas bergumul mencari kehendak Tuhan hanya karena merasa semua jawaban ada di AI. AI bisa bantu kita mencari referensi, tetapi keputusan hidup dan kebijaksanaan tetap harus berlandaskan firman-Nya.
 
 #### 2. Uji Segala Sesuatu (Saring Sebelum Sharing!)
 
