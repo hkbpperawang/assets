@@ -21,7 +21,7 @@ taxonomy:
         - renungan
 ---
 
-Melakukan Keadilan Dan Kebenaran
+## Melakukan Keadilan Dan Kebenaran
 
 (Yehezkiel 18 : 21-29)
 
