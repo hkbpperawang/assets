@@ -13,12 +13,17 @@ custom_fields:
     featured_image_url: "https://www.hkbpperawang.org/api/public/cover/2026/dipanggil-dan-dipilih-allah-bkii93accb.jpg"
     author: "HKBP Perawang"
     post_format: "artikel"
-    seo_target: "Dipanggil dan dipilih Allah ( 2 Petrus 1 : 3 – 11 )"
-    site_seo_title: "Dipanggil dan dipilih Allah ( 2 Petrus 1 : 3 – 11 )"
-    site_seo_desc: "Dipanggil dan dipilih Allah (2 Petrus 1 : 3 – 11) Saudara-saudara yang dikasihi Tuhan Yesus Kristus, melalui 2 Petrus …"
+    seo_target: "dipanggil dan dipilih Allah, iman, kehidupan Kristen, perubahan karakter"
+    site_seo_title: "Dipanggil dan Dipilih Allah (2 Petrus 1 : 3 - 11)"
+    site_seo_desc: "Pertanyaan tentang dipanggil dan dipilih Allah, dan bagaimana kita dapat membuktikan iman kita melalui kehidupan."
 taxonomy:
     category:
         - renungan
+    post_tag:
+        - dipanggil-dan-dipilih-allah
+        - iman
+        - kehidupan-kristen
+        - perubahan-karakter
 ---
 
 Dipanggil dan dipilih Allah
