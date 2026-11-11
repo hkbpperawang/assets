@@ -7,14 +7,23 @@ created_at: "2026-11-09 15:25:00"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
+format: "artikel"
+author: "HKBP Perawang"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/a3/8c/2d/a38c2d7f507339d7c197501a6b12bef0.jpg"
-    seo_target: "Mencari Perlindungan pada nama Tuhan ( Zefanya 3 : 9 – 15 )"
-    site_seo_title: "Mencari Perlindungan pada nama Tuhan ( Zefanya 3 : 9 – 15 )"
-    site_seo_desc: "Mencari Perlindungan pada nama Tuhan (Zefanya 3 : 9 – 15) Kita sering berkata bahwa Tuhan adalah tempat perlindungan kita, …"
+    author: "HKBP Perawang"
+    post_format: "artikel"
+    seo_target: "mencari perlindungan pada nama Tuhan, iman yang dewasa, kepercayaan pada Tuhan"
+    site_seo_title: "Mencari Perlindungan pada Nama Tuhan"
+    site_seo_desc: "Mengenal Tuhan sebagai tempat perlindungan yang sebenarnya, bukan tempat sandaran yang bisa hilang kapan saja."
 taxonomy:
     category:
         - renungan
+    post_tag:
+        - mencari-perlindungan
+        - iman-yang-dewasa
+        - kepercayaan-pada-tuhan
+        - tuhan-sebagai-tempat-perlindungan
 ---
 
 Mencari Perlindungan pada nama Tuhan
