@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T08:16:47.694Z",
+  "generatedAt": "2026-11-11T08:17:35.097Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 100,
   "artikelFolders": [
@@ -642,14 +642,19 @@
       "categoryNames": [
         "YouTube"
       ],
-      "tags": [],
-      "author": "Tim Redaksi HKBP Perawang",
+      "tags": [
+        "aut-sura-boi-songon-alogo",
+        "koor-ina-ruth",
+        "hkbp-perawang",
+        "ressort-perawang"
+      ],
+      "author": "HKBP Perawang",
       "image": "https://i.ytimg.com/vi/3DzHk-bBOzU/hqdefault.jpg",
       "rawImage": "https://i.ytimg.com/vi/3DzHk-bBOzU/hqdefault.jpg",
-      "excerpt": "AUT SURA BOI SONGON ALOGO | Koor Ina Ruth HKBP Perawang Ressort Perawang",
-      "seoTitle": "AUT SURA BOI SONGON ALOGO | Koor Ina Ruth HKBP Perawang Ressort Perawang",
-      "seoDesc": "AUT SURA BOI SONGON ALOGO | Koor Ina Ruth HKBP Perawang Ressort Perawang",
-      "seoTarget": "AUT SURA BOI SONGON ALOGO",
+      "excerpt": "Lirik lagu AUT SURA BOI SONGON ALOGO koral Ina Ruth HKBP Perawang Ressort Perawang, download lagu lagu Gereja HKBP Perawang",
+      "seoTitle": "AUT SURA BOI SONGON ALOGO | Koor Ina Ruth HKBP Perawang…",
+      "seoDesc": "Lirik lagu AUT SURA BOI SONGON ALOGO koral Ina Ruth HKBP Perawang Ressort Perawang, download lagu lagu Gereja HKBP Perawang",
+      "seoTarget": "aut sura boi songon alogo koor ina ruth hkbp perawang ressort perawang",
       "pdfUrl": null,
       "driveId": null,
       "embeds": [],
