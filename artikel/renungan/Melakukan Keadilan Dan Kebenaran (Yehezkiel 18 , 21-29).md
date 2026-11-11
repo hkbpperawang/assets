@@ -13,15 +13,19 @@ custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/1d/98/de/1d98de8f5a850795af6eb5154f42d80a.jpg"
     author: "HKBP Perawang"
     post_format: "artikel"
-    seo_target: "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29)"
-    site_seo_title: "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29)"
-    site_seo_desc: "Melakukan Keadilan Dan Kebenaran (Yehezkiel 18 : 21-29) Saudara-saudara yang dikasihi Tuhan, ada satu kecenderungan manusia yang sangat berbahaya: kita …"
+    seo_target: "keadilan, kebenaran, Tuhan, perubahan, integritas"
+    site_seo_title: "Menghadapi Keadilan Dan Kebenaran"
+    site_seo_desc: "Mengenal kebenaran tentang keadilan dan kebenaran, serta bagaimana kita dapat hidup sesuai dengan kehendak Tuhan"
 taxonomy:
     category:
         - renungan
+    post_tag:
+        - keadilan
+        - kebenaran
+        - tuhan
+        - perubahan
+        - integritas
 ---
-
-## Melakukan Keadilan Dan Kebenaran
 
 (Yehezkiel 18 : 21-29)
 
