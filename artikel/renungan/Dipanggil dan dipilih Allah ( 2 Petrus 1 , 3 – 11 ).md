@@ -10,7 +10,7 @@ type: "post"
 format: "artikel"
 author: "HKBP Perawang"
 custom_fields:
-    featured_image_url: "https://i.pinimg.com/1200x/d8/0a/9e/d80a9ec23dc51c33b631a51754f2b388.jpg"
+    featured_image_url: "https://www.hkbpperawang.org/api/public/cover/2026/dipanggil-dan-dipilih-allah-bkii93accb.jpg"
     author: "HKBP Perawang"
     post_format: "artikel"
     seo_target: "Dipanggil dan dipilih Allah ( 2 Petrus 1 : 3 – 11 )"
