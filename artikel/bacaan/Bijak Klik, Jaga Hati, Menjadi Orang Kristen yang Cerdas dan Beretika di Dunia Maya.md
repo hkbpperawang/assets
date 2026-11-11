@@ -1,11 +1,20 @@
 ---
+id: 840409661
+slug: "bijak-klik-jaga-hati-menjadi-orang-kristen-yang-cerdas-dan-beretika-di-dunia-maya"
 title: "Bijak Klik, Jaga Hati: Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya"
 post_date: "2026-11-07 12:01:00"
+created_at: "2026-11-10 03:34:25"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
+format: "artikel"
+featured: true
+author: "Tim Multimedia"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/7c/77/7b/7c777bb8c46cb1584969be9afe36d362.jpg"
+    featured: "true"
+    author: "Tim Multimedia"
+    post_format: "artikel"
     seo_target: "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya"
     site_seo_title: "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya"
     site_seo_desc: "Menjadi Orang Kristen yang Cerdas dan Beretika di Dunia Maya"
