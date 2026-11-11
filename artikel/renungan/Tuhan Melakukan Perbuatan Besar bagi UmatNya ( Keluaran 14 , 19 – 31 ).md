@@ -3,18 +3,28 @@ id: 1904
 slug: "tuhan-melakukan-perbuatan-besar-bagi-umatnya"
 title: "Tuhan Melakukan Perbuatan Besar bagi UmatNya ( Keluaran 14 : 19 – 31 )"
 post_date: "2026-09-13 03:03:00"
-post_excerpt: "Tuhan Melakukan Perbuatan Besar bagi UmatNya (Keluaran 14 : 19 – 31) Ada sesuatu yang sangat menarik dalam kisah Keluaran …"
+created_at: "2026-11-10 03:34:00"
+post_excerpt: ""
 post_status: "publish"
 type: "post"
+format: "artikel"
 author: "HKBP Perawang"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/d4/20/6a/d4206abec6d1d8302d6d050ee0a2ac42.jpg"
-    seo_target: "Tuhan Melakukan Perbuatan Besar bagi UmatNya ( Keluaran 14 : 19 – 31 )"
-    site_seo_title: "Tuhan Melakukan Perbuatan Besar bagi UmatNya ( Keluaran 14 : 19 – 31 )"
-    site_seo_desc: "Tuhan Melakukan Perbuatan Besar bagi UmatNya (Keluaran 14 : 19 – 31) Ada sesuatu yang sangat menarik dalam kisah Keluaran …"
+    author: "HKBP Perawang"
+    post_format: "artikel"
+    seo_target: "Tuhan, perbuatan besar, iman, percaya, kebaikan Tuhan"
+    site_seo_title: "Tuhan Melakukan Perbuatan Besar bagi UmatNya"
+    site_seo_desc: "Kisah Keluaran 14: Tuhan membuka jalan bagi Israel, membela mereka dari musuh, dan membawa mereka keluar dari Mesir"
 taxonomy:
     category:
         - renungan
+    post_tag:
+        - tuhan
+        - perbuatan-besar
+        - iman
+        - percaya
+        - kebaikan-tuhan
 ---
 
 Tuhan Melakukan Perbuatan Besar bagi UmatNya
