@@ -8,9 +8,11 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 format: "artikel"
+featured: true
 author: "Tim Multimedia"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/c7/9f/1b/c79f1b055c2432c8a82a92f452021b19.jpg"
+    featured: "true"
     author: "Tim Multimedia"
     post_format: "artikel"
     seo_target: "Menjadi Jemaat yang Cerdas dan Bijak dalam Menggunakan AI"
