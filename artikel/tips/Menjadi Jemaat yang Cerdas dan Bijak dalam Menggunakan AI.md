@@ -15,14 +15,20 @@ custom_fields:
     featured: "true"
     author: "Tim Multimedia"
     post_format: "artikel"
-    seo_target: "Menjadi Jemaat yang Cerdas dan Bijak dalam Menggunakan AI"
+    seo_target: "AI, jemaat, cerdas, bijak, integritas, kejujuran"
     site_seo_title: "Menjadi Jemaat yang Cerdas dan Bijak dalam Menggunakan AI"
-    site_seo_desc: "Beberapa waktu belakangan ini, kita pasti sering mendengar kata AI atau Artificial Intelligence (Kecerdasan Buatan)."
+    site_seo_desc: "Jelajahi bagaimana menjadi jemaat yang cerdas dan bijak dalam menggunakan AI, menghindari kesalahan, dan membangun integritas"
 taxonomy:
     category:
         - tips
         - bacaan
         - internet
+    post_tag:
+        - ai
+        - jemaat
+        - cerdas
+        - bijak
+        - integritas
 ---
 
 Horas! Shalom Amang, Inang, serta Adik-adik *Remaja* dan rekan-rekan *Naposobulung* (pemuda-pemudi) HKBP yang dikasihi oleh Tuhan Yesus Kristus. Semoga kita semua selalu berada dalam lindungan dan kasih-Nya, ya!
