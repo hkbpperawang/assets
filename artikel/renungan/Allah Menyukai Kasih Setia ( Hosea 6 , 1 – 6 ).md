@@ -10,7 +10,7 @@ type: "post"
 format: "artikel"
 author: "HKBP Perawang"
 custom_fields:
-    featured_image_url: "https://i.pinimg.com/1200x/d7/38/a1/d738a199defd0600b74d9aa7799a2186.jpg"
+    featured_image_url: "https://cdn.hkbpperawang.org/assets/images/covers/2026/allah-menyukai-kasih-setia-yxca3197f3.webp"
     author: "HKBP Perawang"
     post_format: "artikel"
     seo_target: "Allah Menyukai Kasih Setia ( Hosea 6 : 1 – 6 )"
@@ -22,6 +22,7 @@ taxonomy:
 ---
 
 Allah menyukai kasih setia
+
 (Hosea 6 : 1 – 6)
 
 Saudara-saudara yang dikasihi Tuhan, persoalan umat Israel bukan semata-mata karena mereka melakukan kesalahan, melainkan karena mereka tetap menjalankan kehidupan keagamaan tanpa sungguh-sungguh membiarkan Tuhan mengubah hati dan perilaku mereka. Mereka masih mengenal ibadah dan mempersembahkan korban, tetapi kasih setia mereka kepada Tuhan begitu rapuh. Bukankah bahaya yang sama dapat mengintai kehidupan kita? Kita datang ke gereja, menyanyikan pujian, mendengarkan khotbah, dan memberikan persembahan, tetapi setelah pulang, hati kita tetap keras, perkataan kita masih melukai, dan kepedulian kita terhadap sesama tetap dingin. Kita merasa sudah melakukan banyak hal untuk Tuhan, tetapi belum tentu bersedia melakukan apa yang Tuhan kehendaki. Kita bisa menghitung berapa kali kita beribadah, tetapi pernahkah kita menghitung berapa kali perkataan dan tindakan kita melukai orang lain? Kita mengingat apa yang telah kita persembahkan kepada Tuhan, tetapi apakah kita juga mengingat orang-orang yang membutuhkan perhatian kita dan selama ini kita abaikan? Saudara-saudara, jangan sampai kita rajin beribadah, tetapi lalai menghidupi firman; jangan sampai kita terlihat dekat dengan Tuhan di gereja, tetapi justru membuat orang-orang terdekat sulit merasakan kasih Tuhan melalui kehidupan kita. Inilah teguran Hosea yang perlu kita dengar: Tuhan tidak sedang mencari ibadah yang sekadar terlihat baik di mata manusia. Tuhan menghendaki hati yang setia, kehidupan yang taat, dan kasih yang nyata dalam tindakan. Sebab, ibadah bukan hanya tentang apa yang kita lakukan di hadapan Tuhan, tetapi juga tentang bagaimana kita hidup di hadapan sesama setelah meninggalkan rumah Tuhan.
