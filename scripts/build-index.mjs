@@ -58,7 +58,7 @@ const CATEGORY_SLUG_TO_ID = {
   "ayat-mingguan": 84,
   "ayat-bulanan": 85,
   bacaan: 86,
-  informasi: 87,
+  informasi: 21,
 };
 
 const CATEGORY_ID_TO_NAME = {
@@ -98,7 +98,7 @@ const CATEGORY_ID_TO_NAME = {
   84: "Ayat Mingguan",
   85: "Ayat Bulanan",
   86: "Bacaan",
-  87: "Informasi",
+  21: "Informasi",
 };
 
 const CATEGORY_ID_TO_URL_SLUG = {
@@ -138,7 +138,7 @@ const CATEGORY_ID_TO_URL_SLUG = {
   84: "ayat-mingguan",
   85: "ayat-bulanan",
   86: "bacaan",
-  87: "informasi",
+  21: "informasi",
 };
 
 function slugify(input) {
