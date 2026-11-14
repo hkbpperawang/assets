@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T16:05:11.605Z",
+  "generatedAt": "2026-11-14T16:07:54.657Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 101,
+  "totalPosts": 102,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -513,6 +513,56 @@
     ]
   },
   "posts": [
+    {
+      "id": 465791717,
+      "slug": "ibadah-minggu-xxiv-dung-trinitatis-15-nov-2026-btk",
+      "title": "Ibadah Minggu XXIV Dung Trinitatis (15-Nov-2026) – BTK",
+      "date": "2026-11-14T23:06:00+07:00",
+      "createdAt": "2026-11-14T23:06:00+07:00",
+      "modified": "2026-11-14T23:06:00+07:00",
+      "status": "publish",
+      "featured": false,
+      "format": "artikel",
+      "section": "warta",
+      "storageFolder": "2026/12_Desember",
+      "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxiv-dung-trinitatis-15-nov-2026-btk",
+      "categorySlug": "warta-acara",
+      "categories": [
+        15,
+        17,
+        19
+      ],
+      "categorySlugs": [
+        "warta-acara",
+        "ibadah-minggu",
+        "b-batak"
+      ],
+      "categoryNames": [
+        "Warta Acara",
+        "Ibadah Minggu",
+        "B. Batak"
+      ],
+      "tags": [
+        "ibadah-minggu",
+        "dung-trinitatis",
+        "btk",
+        "gereja-hkbp-perawang"
+      ],
+      "author": "Tim Redaksi HKBP Perawang",
+      "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "excerpt": "Baca ringkasan ibadah minggu ke-XXIV Dung Trinitatis di Gereja HKBP Perawang",
+      "seoTitle": "Ibadah Minggu XXIV Dung Trinitatis (15-Nov-2026) - BTK",
+      "seoDesc": "Baca ringkasan ibadah minggu ke-XXIV Dung Trinitatis di Gereja HKBP Perawang",
+      "seoTarget": "Ibadah Minggu XXIV Dung Trinitatis, BTK, Gereja HKBP Perawang",
+      "pdfUrl": "https://drive.google.com/open?id=1UDoeWFDRKXPUx_stwOWh0ncY244BPlnP&usp=drive_fs",
+      "driveId": "1UDoeWFDRKXPUx_stwOWh0ncY244BPlnP",
+      "embeds": [
+        "https://drive.google.com/file/d/1UDoeWFDRKXPUx_stwOWh0ncY244BPlnP/preview"
+      ],
+      "sourcePath": "warta-acara/2026/12_Desember/Ibadah Minggu XXIV Dung Trinitatis (15-Nov-2026) – BTK.md",
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1UDoeWFDRKXPUx_stwOWh0ncY244BPlnP&usp=drive_fs\""
+    },
     {
       "id": 412588665,
       "slug": "ibadah-minggu-xxiv-setelah-trinitatis-15-nov-2026-id",
