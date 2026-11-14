@@ -5,13 +5,13 @@ title: "Hamba Yang Baik Dan Setia (Lukas 19:11-27)"
 post_date: "2026-11-14 23:10:00"
 created_at: "2026-11-14 23:10:00"
 post_excerpt: ""
-post_status: "draft"
+post_status: "publish"
 type: "post"
 format: "artikel"
 author: "HKBP Perawang"
 author_role: "Kontributor & Pelayanan Media Jemaat HKBP Perawang"
 custom_fields:
-    featured_image_url: "https://cdn.hkbpperawang.org/assets/images/covers/2026/hamba-yang-baik-dan-setia-lukas-19-11-27-6kcp2bd6a0.webp"
+    featured_image_url: "https://i.pinimg.com/1200x/a3/7d/dc/a37ddce6a277833b33d99082f41caf8b.jpg"
     author: "HKBP Perawang"
     author_role: "Kontributor & Pelayanan Media Jemaat HKBP Perawang"
     post_format: "artikel"
@@ -21,7 +21,6 @@ custom_fields:
 taxonomy:
     category:
         - renungan
-        - ayat-mingguan
     post_tag:
         - hamba-setia
         - kepercayaan
