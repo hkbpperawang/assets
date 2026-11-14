@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:22:46.844Z",
+  "generatedAt": "2026-11-14T16:23:33.742Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 103,
   "artikelFolders": [
@@ -520,7 +520,7 @@
       "date": "2026-11-14T23:10:00+07:00",
       "createdAt": "2026-11-14T23:10:00+07:00",
       "modified": "2026-11-14T23:10:00+07:00",
-      "status": "draft",
+      "status": "publish",
       "featured": false,
       "format": "artikel",
       "section": "postingan",
@@ -528,16 +528,13 @@
       "link": "https://www.hkbpperawang.org/renungan/hamba-yang-baik-dan-setia-lukas-19-11-27",
       "categorySlug": "renungan",
       "categories": [
-        14,
-        84
+        14
       ],
       "categorySlugs": [
-        "renungan",
-        "ayat-mingguan"
+        "renungan"
       ],
       "categoryNames": [
-        "Renungan",
-        "Ayat Mingguan"
+        "Renungan"
       ],
       "tags": [
         "hamba-setia",
@@ -548,8 +545,8 @@
       ],
       "author": "HKBP Perawang",
       "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
-      "image": "https://cdn.hkbpperawang.org/assets/images/covers/2026/hamba-yang-baik-dan-setia-lukas-19-11-27-6kcp2bd6a0.webp",
-      "rawImage": "https://cdn.hkbpperawang.org/assets/images/covers/2026/hamba-yang-baik-dan-setia-lukas-19-11-27-6kcp2bd6a0.webp",
+      "image": "https://i.pinimg.com/1200x/a3/7d/dc/a37ddce6a277833b33d99082f41caf8b.jpg",
+      "rawImage": "https://i.pinimg.com/1200x/a3/7d/dc/a37ddce6a277833b33d99082f41caf8b.jpg",
       "excerpt": "Jemaat yang dikasihi Tuhan, ada ironi dalam kehidupan orang percaya: kita begitu bersemangat meminta Tuhan menambahkan berkat, tetapi sering kali tidak sungguh-sungguh mengerjakan apa yang sudah dipercayakan-Nya. Kita me",
       "seoTitle": "Hamba Yang Baik Dan Setia (Lukas 19:11-27) - Gereja HKBP…",
       "seoDesc": "Jelajahi makna kehidupan setia sebagai hamba yang dipercayakan Tuhan, dan bagaimana itu dapat mengubah hidup kita.",
