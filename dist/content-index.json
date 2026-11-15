@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T10:45:34.522Z",
+  "generatedAt": "2026-11-15T10:48:54.863Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 104,
   "artikelFolders": [
@@ -524,31 +524,37 @@
       "featured": false,
       "format": "artikel",
       "section": "postingan",
-      "storageFolder": "bacaan",
-      "link": "https://www.hkbpperawang.org/bacaan/nama-nama-minggu-dan-pesta-peringatan-di-gereja-hkbp",
-      "categorySlug": "bacaan",
+      "storageFolder": "informasi",
+      "link": "https://www.hkbpperawang.org/informasi/nama-nama-minggu-dan-pesta-peringatan-di-gereja-hkbp",
+      "categorySlug": "informasi",
       "categories": [
-        86
+        21
       ],
       "categorySlugs": [
-        "bacaan"
+        "informasi"
       ],
       "categoryNames": [
-        "Bacaan"
+        "Informasi"
       ],
-      "tags": [],
+      "tags": [
+        "gereja-hkbp",
+        "nama-nama-minggu",
+        "pesta-peringatan",
+        "kalender-gerejawi",
+        "almanak-hkbp"
+      ],
       "author": "HKBP Perawang",
       "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
-      "image": null,
-      "rawImage": null,
+      "image": "https://cdn.hkbpperawang.org/assets/images/nama-nama-minggu-dan-pesta-peringatan-di-gereja-hkbp-opd3c1b885.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/images/nama-nama-minggu-dan-pesta-peringatan-di-gereja-hkbp-opd3c1b885.webp",
       "excerpt": "Formula liturgi setiap Minggu harus disesuaikan dengan tahun gerejawi. HKBP memiliki kalender gerejawi yang digunakan bersama, yaitu Almanak HKBP.",
       "seoTitle": "Nama-Nama Minggu dan Pesta Peringatan di Gereja HKBP",
-      "seoDesc": "Nama-Nama Minggu dan Pesta Peringatan di Gereja HKBP",
-      "seoTarget": "Nama-Nama Minggu dan Pesta Peringatan di Gereja HKBP",
+      "seoDesc": "Lihat daftar nama-nama minggu dan pesta peringatan di Gereja HKBP beserta keterangan dan nas Alkitab",
+      "seoTarget": "Gereja HKBP, nama-nama minggu, pesta peringatan, kalender gerejawi, Almanak HKBP",
       "pdfUrl": null,
       "driveId": null,
       "embeds": [],
-      "sourcePath": "artikel/bacaan/Nama-Nama Minggu dan Pesta Peringatan di Gereja HKBP.md",
+      "sourcePath": "artikel/informasi/Nama-Nama Minggu dan Pesta Peringatan di Gereja HKBP.md",
       "rawMarkdown": "# Nama-Nama Minggu dan Pesta Peringatan di Gereja HKBP\n\nFormula liturgi setiap Minggu harus disesuaikan dengan tahun gerejawi. HKBP memiliki kalender gerejawi yang digunakan bersama, yaitu **Almanak HKBP**.\n\n> **Almanak HKBP** adalah daftar bacaan Alkitab yang telah ditetapkan untuk satu tahun berdasarkan **Tahun Gerejawi**, yakni susunan hari raya liturgi yang mengikuti perjalanan kehidupan Yesus Kristus.\n\nBeberapa ketentuan utama dalam kalender gerejawi HKBP:\n* **Awal Tahun Liturgi:** Dimulai pada **Minggu Advent Pertama**, yang ditentukan dengan menghitung mundur 4 hari Minggu dari Hari Natal.\n* **Minggu Ujung Tahun:** Minggu sebelum Advent (Minggu ke-24 atau biasa juga jatuh pada Minggu ke-27 setelah Minggu Trinitatis). Pada ibadah ini dibacakan nama-nama jemaat yang telah meninggal dunia sepanjang tahun tersebut.\n\n---\n\n## Daftar Nama Minggu dan Pesta Peringatan\n\n| No. | Nama Minggu / Pesta | Istilah Bahasa Batak | Keterangan & Nas Alkitab |\n| :---: | :--- | :--- | :--- |\n| 1 | **Tahun Baru** | *Taon Baru* | — |\n| 2 | **Minggu Epiphanias** | *Hapapatar* | Pernyataan Allah |\n| 3 | **Minggu I Setelah Epiphanias** | *Minggu I Dung Epiphanias* | — |\n| 4 | **Minggu II Setelah Epiphanias** | *Minggu II Dung Epiphanias* | — |\n| 5 | **Minggu Septuagesima** | *70 Ari Andorang So Haheheon* | 70 Hari sebelum Kebangkitan |\n| 6 | **Minggu Sexagesima** | *60 Ari Andorang So Haheheon* | 60 Hari sebelum Kebangkitan |\n| 7 | **Minggu Estomihi** | *Sai Ho ma gabe partanobatoanku* (Psalmen 31:3b) | Engkau akan menuntun dan membimbing aku (Mazmur 31:3b) |\n| 8 | **Minggu Invocavit** | *Jouonna ma Ahu, jadi alusanKu ma ibana* (Psalmen 91:15a) | Bila ia berseru kepada-Ku, Aku akan menjawab (Mazmur 91:15a) |\n| 9 | **Minggu Reminiscere** | *Sai ingot ma angka denggan ni basaM* (Psalmen 25:6) | Ingatlah segala rahmat-Mu dan kasih setia-Mu ya Tuhan (Mazmur 25:6) |\n| 10 | **Minggu Okuli** | *Sai tong do mangaranap matangku tu Jahowa* (Psalmen 25:15a) | Mataku tetap terarah kepada Tuhan (Mazmur 25:15a) |\n| 11 | **Minggu Letare** | *Marlas ni roha ma hamu* (Jesaya 66:10a) | Bersukacitalah bersama-sama (Yesaya 66:10a) |\n| 12 | **Minggu Judika** | *Luluhon ahu ale Jahowa* (Psalmen 43:1a) | Berilah keadilan bagiku, ya Allah (Mazmur 43:1a) |\n| 13 | **Minggu Palmarum** | *Maremare* (Mateus 21) | Matius 21 |\n| 14 | **Jumat Agung** | *Pesta Parningotan Hamamate ni Tuhan Jesus* | Peringatan Kematian Tuhan Yesus |\n| 15 | **Minggu Paskah I** | *Pesta Parjolo Parningotan Haheheon ni Tuhan Jesus* | Peringatan Kebangkitan Tuhan Yesus (Hari Pertama) |\n| 16 | **Paskah II** | *Pesta Paduahon Parningotan Haheheon ni Tuhan Jesus* | Peringatan Kebangkitan Tuhan Yesus (Hari Kedua) |\n| 17 | **Minggu Quasimodogeniti** | *Songon posoposo na imbaru tubu* (I Petrus 2:2) | Dan jadilah sama seperti bayi yang baru lahir (1 Petrus 2:2) |\n| 18 | **Minggu Miserikordias Domini** | *Gok asi ni roha ni Jahowa do tano on* (Psalmen 33:5b) | Bumi penuh dengan kasih setia Tuhan (Mazmur 33:5b) |\n| 19 | **Minggu Jubilate** | *Marolopolop tu Debata sandok tano on* (Psalmen 66:1) | Bersorak-sorailah bagi Allah, hai seluruh bumi (Mazmur 66:1) |\n| 20 | **Minggu Kantate** | *Endehon hamu ma di Jahowa ende na imbaru* (Psalmen 98:1) | Nyanyikanlah nyanyian baru bagi Tuhan (Mazmur 98:1) |\n| 21 | **Minggu Rogate** | *Martangiang* (Psalmen 66:20) | Berdoa (Mazmur 66:20) |\n| 22 | **Kenaikan Tuhan Yesus** | *Pesta Parningotan di Hananaek ni Tuhan Jesus* | — |\n| 23 | **Minggu Exaudi** | *Sai tangihon ma soarangku ale Jahowa* (Psalmen 27:7) | Dengarlah Tuhan seruan yang kusampaikan (Mazmur 27:7) |\n| 24 | **Minggu Pentakosta** | *Pesta Parjolo Parningotan di Hasasaor ni Tondi Parbadia* | Peringatan turunnya Roh Kudus (Hari Pertama) |\n| 25 | **Pentakosta II** | *Pesta Paduahon Parningotan di Hasasaor ni Tondi Parbadia* | Peringatan turunnya Roh Kudus (Hari Kedua) |\n| 26 | **Minggu Trinitatis** | *Hasitolusadaon ni Debata* | Minggu Oikumene |\n| 27 | **Minggu I Setelah Trinitatis** | *Minggu I Dung Trinitatis* | — |\n| 28 | **Minggu II Setelah Trinitatis** | *Minggu II Dung Trinitatis* | — |\n| 29 | **Minggu III Setelah Trinitatis** | *Minggu III Dung Trinitatis* | — |\n| 30 | **Minggu IV Setelah Trinitatis** | *Minggu IV Dung Trinitatis* | — |\n| 31 | **Minggu V Setelah Trinitatis** | *Minggu V Dung Trinitatis* | — |\n| 32 | **Minggu VI Setelah Trinitatis** | *Minggu VI Dung Trinitatis* | — |\n| 33 | **Minggu VII Setelah Trinitatis** | *Minggu VII Dung Trinitatis* | — |\n| 34 | **Minggu VIII Setelah Trinitatis** | *Minggu VIII Dung Trinitatis* | — |\n| 35 | **Minggu IX Setelah Trinitatis** | *Minggu IX Dung Trinitatis* | — |\n| 36 | **Minggu X Setelah Trinitatis** | *Minggu X Dung Trinitatis* | *Hasitolusadaon ni Debata* |\n| 37 | **Minggu XI Setelah Trinitatis** | *Minggu XI Dung Trinitatis* | — |\n| 38 | **Minggu XII Setelah Trinitatis** | *Minggu XII Dung Trinitatis* | — |\n| 39 | **Minggu XIII Setelah Trinitatis** | *Minggu XIII Dung Trinitatis* | — |\n| 40 | **Minggu XIV Setelah Trinitatis** | *Minggu XIV Dung Trinitatis* | — |\n| 41 | **Minggu XV Setelah Trinitatis** | *Minggu XV Dung Trinitatis* | — |\n| 42 | **Minggu XVI Setelah Trinitatis** | *Minggu XVI Dung Trinitatis* | — |\n| 43 | **Minggu XVII Setelah Trinitatis** | *Minggu XVII Dung Trinitatis* | — |\n| 44 | **Minggu XVIII Setelah Trinitatis** | *Minggu XVIII Dung Trinitatis* | — |\n| 45 | **Minggu XIX Setelah Trinitatis** | *Minggu XIX Dung Trinitatis* | — |\n| 46 | **Minggu XX Setelah Trinitatis** | *Minggu XX Dung Trinitatis* | — |\n| 47 | **Minggu XXI Setelah Trinitatis** | *Minggu XXI Dung Trinitatis* | — |\n| 48 | **Minggu XXII Setelah Trinitatis** | *Minggu XXII Dung Trinitatis* | Minggu Reformasi |\n| 49 | **Minggu XXIII Setelah Trinitatis** | *Minggu XXIII Dung Trinitatis* | — |\n| 50 | **Minggu XXIV Setelah Trinitatis** | *Minggu XXIV Dung Trinitatis* | — |\n| 51 | **Minggu XXV Setelah Trinitatis** | *Minggu XXV Dung Trinitatis* | — |\n| 52 | **Minggu Ujung Tahun Gereja** | *Minggu Ujung Taon Parhuriaon* | *Parningotan ni Angka na Monding* (Peringatan Orang Meninggal) |\n| 53 | **Minggu Advent I** | *Minggu Advent I* | — |\n| 54 | **Minggu Advent II** | *Minggu Advent II* | — |\n| 55 | **Minggu Advent III** | *Minggu Advent III* | — |\n| 56 | **Minggu Advent IV** | *Minggu Advent IV* | — |\n| 57 | **Natal I** | *Pesta Parjolo Parningotan di Hatutubu ni Tuhan Jesus* | Peringatan Kelahiran Tuhan Yesus (Hari Pertama) |\n| 58 | **Natal II** | *Pesta Paduahon Parningotan di Hatutubu ni Tuhan Jesus* | Peringatan Kelahiran Tuhan Yesus (Hari Kedua) |\n| 59 | **Minggu Setelah Kelahiran Tuhan Yesus** | *Minggu Dung Hatutubu ni Tuhan Jesus* | — |\n| 60 | **Minggu Akhir Tahun** | *Minggu Ujung Taon* | *Parpunguan Bodari* (Ibadah Malam Akhir Tahun) |"
     },
     {
