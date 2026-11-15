@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T13:47:43.096Z",
+  "generatedAt": "2026-11-15T13:47:51.720Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 106,
   "artikelFolders": [
@@ -4944,15 +4944,18 @@
       "categorySlug": "warta-acara",
       "categories": [
         15,
-        17
+        17,
+        19
       ],
       "categorySlugs": [
         "warta-acara",
-        "ibadah-minggu"
+        "ibadah-minggu",
+        "b-batak"
       ],
       "categoryNames": [
         "Warta Acara",
-        "Ibadah Minggu"
+        "Ibadah Minggu",
+        "B. Batak"
       ],
       "tags": [
         "ibadah-minggu",
