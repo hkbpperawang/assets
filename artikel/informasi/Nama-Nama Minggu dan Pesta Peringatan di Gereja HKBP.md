@@ -5,7 +5,7 @@ title: "Nama-Nama Minggu dan Pesta Peringatan di Gereja HKBP"
 post_date: "2026-11-15 17:44:00"
 created_at: "2026-11-15 17:44:00"
 post_excerpt: ""
-post_status: "draft"
+post_status: "publish"
 type: "post"
 format: "artikel"
 author: "HKBP Perawang"
@@ -29,15 +29,14 @@ taxonomy:
         - almanak-hkbp
 ---
 
-# Nama-Nama Minggu dan Pesta Peringatan di Gereja HKBP
-
 Formula liturgi setiap Minggu harus disesuaikan dengan tahun gerejawi. HKBP memiliki kalender gerejawi yang digunakan bersama, yaitu **Almanak HKBP**.
 
 > **Almanak HKBP** adalah daftar bacaan Alkitab yang telah ditetapkan untuk satu tahun berdasarkan **Tahun Gerejawi**, yakni susunan hari raya liturgi yang mengikuti perjalanan kehidupan Yesus Kristus.
 
 Beberapa ketentuan utama dalam kalender gerejawi HKBP:
-* **Awal Tahun Liturgi:** Dimulai pada **Minggu Advent Pertama**, yang ditentukan dengan menghitung mundur 4 hari Minggu dari Hari Natal.
-* **Minggu Ujung Tahun:** Minggu sebelum Advent (Minggu ke-24 atau biasa juga jatuh pada Minggu ke-27 setelah Minggu Trinitatis). Pada ibadah ini dibacakan nama-nama jemaat yang telah meninggal dunia sepanjang tahun tersebut.
+
+- **Awal Tahun Liturgi:** Dimulai pada **Minggu Advent Pertama**, yang ditentukan dengan menghitung mundur 4 hari Minggu dari Hari Natal.
+- **Minggu Ujung Tahun:** Minggu sebelum Advent (Minggu ke-24 atau biasa juga jatuh pada Minggu ke-27 setelah Minggu Trinitatis). Pada ibadah ini dibacakan nama-nama jemaat yang telah meninggal dunia sepanjang tahun tersebut.
 
 ---
 
