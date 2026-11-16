@@ -135,8 +135,8 @@
         "wpId": 29
       },
       {
-        "slug": "galeri",
-        "name": "Galeri",
+        "slug": "lainnya",
+        "name": "Lainnya",
         "parentSlug": null,
         "createsFolder": true
       }
@@ -428,6 +428,12 @@
         "parentSlug": "natal",
         "createsFolder": false,
         "wpId": 71
+      },
+      {
+        "slug": "galeri",
+        "name": "Warta Acara",
+        "parentSlug": null,
+        "createsFolder": false
       }
     ],
     "tags": [
@@ -442,6 +448,18 @@
       {
         "slug": "minggu-trinitatis",
         "name": "Minggu Trinitatis"
+      },
+      {
+        "slug": "konser-mini-hkbp-perawang",
+        "name": "konser-mini-hkbp-perawang"
+      },
+      {
+        "slug": "hkbp-perawang",
+        "name": "hkbp-perawang"
+      },
+      {
+        "slug": "panitia-konser",
+        "name": "panitia-konser"
       },
       {
         "slug": "ibadah-minggu",
