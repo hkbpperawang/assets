@@ -263,6 +263,42 @@
       {
         "slug": "kebaikan-tuhan",
         "name": "kebaikan-tuhan"
+      },
+      {
+        "slug": "gereja-hkbp",
+        "name": "gereja-hkbp"
+      },
+      {
+        "slug": "nama-nama-minggu",
+        "name": "nama-nama-minggu"
+      },
+      {
+        "slug": "pesta-peringatan",
+        "name": "pesta-peringatan"
+      },
+      {
+        "slug": "kalender-gerejawi",
+        "name": "kalender-gerejawi"
+      },
+      {
+        "slug": "almanak-hkbp",
+        "name": "almanak-hkbp"
+      },
+      {
+        "slug": "hamba-setia",
+        "name": "hamba-setia"
+      },
+      {
+        "slug": "kepercayaan",
+        "name": "kepercayaan"
+      },
+      {
+        "slug": "kesalehan",
+        "name": "kesalehan"
+      },
+      {
+        "slug": "hidup-yang-menghasilkan-buah",
+        "name": "hidup-yang-menghasilkan-buah"
       }
     ]
   },
@@ -400,6 +436,34 @@
       {
         "slug": "minggu-trinitatis",
         "name": "Minggu Trinitatis"
+      },
+      {
+        "slug": "ibadah-minggu",
+        "name": "ibadah-minggu"
+      },
+      {
+        "slug": "dung-trinitatis",
+        "name": "dung-trinitatis"
+      },
+      {
+        "slug": "btk",
+        "name": "btk"
+      },
+      {
+        "slug": "gereja-hkbp-perawang",
+        "name": "gereja-hkbp-perawang"
+      },
+      {
+        "slug": "trinitatis",
+        "name": "trinitatis"
+      },
+      {
+        "slug": "ibadah-minggu-ke-14",
+        "name": "ibadah-minggu-ke-14"
+      },
+      {
+        "slug": "setelah-trinitatis",
+        "name": "setelah-trinitatis"
       }
     ]
   },
@@ -446,6 +510,10 @@
     {
       "name": "Pani br. Manurung",
       "role": "Naposobulung HKBP Perawang"
+    },
+    {
+      "name": "Panitia Konser Mini 2025",
+      "role": "Panitia Konser Mini 2025"
     }
   ]
 }
