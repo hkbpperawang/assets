@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T19:18:36.021Z",
+  "generatedAt": "2026-11-16T23:53:08.504Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 106,
+  "totalPosts": 107,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -513,6 +513,44 @@
     ]
   },
   "posts": [
+    {
+      "id": 127377682,
+      "slug": "panitia-konser-mini-hkbp-perawang-2025",
+      "title": "Panitia Konser Mini HKBP Perawang 2025",
+      "date": "2026-11-17T06:40:00+07:00",
+      "createdAt": "2026-11-17T06:40:00+07:00",
+      "modified": "2026-11-17T06:40:00+07:00",
+      "status": "draft",
+      "featured": false,
+      "format": "gallery",
+      "section": "postingan",
+      "storageFolder": "bacaan",
+      "link": "https://www.hkbpperawang.org/bacaan/panitia-konser-mini-hkbp-perawang-2025",
+      "categorySlug": "bacaan",
+      "categories": [
+        86
+      ],
+      "categorySlugs": [
+        "bacaan"
+      ],
+      "categoryNames": [
+        "Bacaan"
+      ],
+      "tags": [],
+      "author": "HKBP Perawang",
+      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
+      "image": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg",
+      "excerpt": "Panitia Konser Mini HKBP Perawang 2025",
+      "seoTitle": "Panitia Konser Mini HKBP Perawang 2025",
+      "seoDesc": "Panitia Konser Mini HKBP Perawang 2025",
+      "seoTarget": "Panitia Konser Mini HKBP Perawang 2025",
+      "pdfUrl": null,
+      "driveId": null,
+      "embeds": [],
+      "sourcePath": "artikel/bacaan/Panitia Konser Mini HKBP Perawang 2025.md",
+      "rawMarkdown": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7995.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8007.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8013.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8015.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8017.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8020.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8022.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8025.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8030.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8036.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8038.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8043.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8049.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8052.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8054.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8059.jpg"
+    },
     {
       "id": 99322773,
       "slug": "nama-nama-minggu-dan-pesta-peringatan-di-gereja-hkbp",
