@@ -133,6 +133,12 @@
         "parentSlug": "kegiatan",
         "createsFolder": false,
         "wpId": 29
+      },
+      {
+        "slug": "galeri",
+        "name": "Galeri",
+        "parentSlug": null,
+        "createsFolder": true
       }
     ],
     "tags": [
@@ -510,10 +516,6 @@
     {
       "name": "Pani br. Manurung",
       "role": "Naposobulung HKBP Perawang"
-    },
-    {
-      "name": "Panitia Konser Mini 2025",
-      "role": "Panitia Konser Mini 2025"
     }
   ]
 }
