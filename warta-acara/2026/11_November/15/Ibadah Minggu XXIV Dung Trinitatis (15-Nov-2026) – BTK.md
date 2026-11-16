@@ -9,7 +9,7 @@ post_status: "publish"
 type: "post"
 format: "artikel"
 custom_fields:
-    featured_image_url: "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp"
+    featured_image_url: "https://cdn.hkbpperawang.org/assets/images/nama-nama-minggu-dan-pesta-peringatan-di-gereja-hkbp-opd3c1b885.webp"
     post_format: "artikel"
     seo_target: "Ibadah Minggu XXIV Dung Trinitatis, BTK, Gereja HKBP Perawang"
     site_seo_title: "Ibadah Minggu XXIV Dung Trinitatis (15-Nov-2026) - BTK"
