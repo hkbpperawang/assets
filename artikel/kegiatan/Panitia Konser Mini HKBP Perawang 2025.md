@@ -15,7 +15,7 @@ custom_fields:
     author: "Panitia Konser Mini 2025"
     author_role: "Panitia Konser Mini 2025"
     post_format: "gallery"
-    seo_target: "Panitia Konser Mini HKBP Perawang 2025"
+    seo_target: "Panitia Konser, konser mini, konser hkbp perawang, konser mini hkbp, konser mini hkbp perawang 2025, konser mini 2025"
     site_seo_title: "Panitia Konser Mini HKBP Perawang 2025"
     site_seo_desc: "Dokumentasi kegiatan dan susunan panitia Konser Mini HKBP Perawang tahun 2025. Simak keseruan persiapan pelayanan musik gereja kami."
 taxonomy:
