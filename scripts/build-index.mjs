@@ -141,6 +141,46 @@ const CATEGORY_ID_TO_URL_SLUG = {
   21: "informasi",
 };
 
+/** Kategori warta: postingan dengan salah satu ID ini masuk bagian Warta Acara (sama dengan situs). */
+const WARTA_CATEGORY_IDS = [15, 17, 18, 19, 23, 24, 25, 26, 27, 28, 32, 33, 69, 70, 71, 72, 73];
+
+/**
+ * Kategori buatan dashboard memakai `wpId` dari `pages/taxonomy.json` (88, 89, …; ID diberikan oleh
+ * CMS di www.hkbpperawang.org dan tidak pernah dipakai ulang). Aturannya harus sama dengan
+ * `buildCategoryRegistry()` dan `resolveAssetCategories()` di repo hkbp-perawang-digital
+ * (`src/lib/github-content/`), agar index dari skrip ini sama dengan index tulisan CMS.
+ */
+function buildCategoryLookup(taxonomyMeta) {
+  const idBySlug = { ...CATEGORY_SLUG_TO_ID };
+  const nameById = { ...CATEGORY_ID_TO_NAME };
+  const urlSlugById = { ...CATEGORY_ID_TO_URL_SLUG };
+  const customIds = new Set();
+  for (const section of ["postingan", "warta", "dokumen"]) {
+    for (const cat of taxonomyMeta?.[section]?.categories ?? []) {
+      const id = cat?.wpId;
+      if (!cat?.slug || CATEGORY_SLUG_TO_ID[cat.slug] !== undefined) continue;
+      // Jangan pernah menimpa ID WordPress.
+      if (!Number.isInteger(id) || id <= 0 || CATEGORY_ID_TO_NAME[id] !== undefined) continue;
+      if (idBySlug[cat.slug] !== undefined && idBySlug[cat.slug] !== id) continue;
+      idBySlug[cat.slug] = id;
+      nameById[id] ??= String(cat.name ?? "").trim() || cat.slug;
+      urlSlugById[id] ??= cat.slug;
+      customIds.add(id);
+    }
+  }
+  return { idBySlug, nameById, urlSlugById, customIds };
+}
+
+function readTaxonomyMeta() {
+  const taxonomySrc = path.join(ROOT_DIR, "pages", "taxonomy.json");
+  if (!fs.existsSync(taxonomySrc)) return null;
+  try {
+    return JSON.parse(fs.readFileSync(taxonomySrc, "utf8"));
+  } catch {
+    return null;
+  }
+}
+
 function slugify(input) {
   return String(input ?? "")
     .toLowerCase()
@@ -335,6 +375,8 @@ function buildPlainTextExcerpt(body, fallbackDesc) {
 }
 
 function buildContentIndex() {
+  const taxonomyMeta = readTaxonomyMeta();
+  const categoryLookup = buildCategoryLookup(taxonomyMeta);
   const contentDirs = ["warta_jemaat", "warta-acara", "artikel"];
   const files = [];
   for (const sub of contentDirs) {
@@ -410,11 +452,26 @@ function buildContentIndex() {
     const categoryNames = [];
     for (const cSlug of rawCatSlugs) {
       const normalizedSlug = slugify(cSlug);
-      const catId = CATEGORY_SLUG_TO_ID[normalizedSlug];
+      const catId = categoryLookup.idBySlug[normalizedSlug];
       if (catId && !categories.includes(catId)) {
         categories.push(catId);
-        const name = CATEGORY_ID_TO_NAME[catId];
+        const name = categoryLookup.nameById[catId];
         if (name) categoryNames.push(name);
+      }
+    }
+    // Warta/dokumen yang hanya memakai kategori buatan dashboard tetap di kategori dasarnya:
+    // Warta Acara (15) atau Dokumen (22), sehingga URL dan daftar di situs/aplikasi tidak berubah.
+    if (categories.some((c) => categoryLookup.customIds.has(c))) {
+      const isWarta = relPath.startsWith("warta_jemaat/") || relPath.startsWith("warta-acara/");
+      const base =
+        isWarta && !categories.some((c) => WARTA_CATEGORY_IDS.includes(c))
+          ? 15
+          : relPath.startsWith("artikel/dokumen/") && !categories.includes(22)
+            ? 22
+            : null;
+      if (base !== null) {
+        categories.unshift(base);
+        categoryNames.unshift(categoryLookup.nameById[base] ?? "");
       }
     }
     if (categories.length === 0) {
@@ -427,7 +484,7 @@ function buildContentIndex() {
     if (
       relPath.startsWith("warta_jemaat/") ||
       relPath.startsWith("warta-acara/") ||
-      categories.some((c) => [15, 17, 18, 19, 23, 24, 25, 26, 27, 28, 32, 33, 69, 70, 71, 72, 73].includes(c))
+      categories.some((c) => WARTA_CATEGORY_IDS.includes(c))
     ) {
       section = "warta";
     } else if (relPath.startsWith("artikel/dokumen/") || categories.includes(22)) {
@@ -450,7 +507,7 @@ function buildContentIndex() {
     const primaryCatSlug =
       categories.includes(15) || categories.includes(17) || categories.includes(18) || categories.includes(19)
         ? "warta-acara"
-        : (CATEGORY_ID_TO_URL_SLUG[categories[0]] ?? (rawCatSlugs[0] ? slugify(rawCatSlugs[0]) : "warta-acara"));
+        : (categoryLookup.urlSlugById[categories[0]] ?? (rawCatSlugs[0] ? slugify(rawCatSlugs[0]) : "warta-acara"));
 
     // Extract pdf_url="..." from body or custom_fields
     const pdfMatch = /pdf_url\s*=\s*["']([^"']+)["']/i.exec(body);
@@ -525,16 +582,6 @@ function buildContentIndex() {
   const outDir = path.join(ROOT_DIR, "dist");
   fs.mkdirSync(outDir, { recursive: true });
   const outPath = path.join(outDir, "content-index.json");
-
-  let taxonomyMeta = null;
-  const taxonomySrc = path.join(ROOT_DIR, "pages", "taxonomy.json");
-  if (fs.existsSync(taxonomySrc)) {
-    try {
-      taxonomyMeta = JSON.parse(fs.readFileSync(taxonomySrc, "utf8"));
-    } catch {
-      taxonomyMeta = null;
-    }
-  }
 
   const payload = {
     generatedAt: new Date().toISOString(),
