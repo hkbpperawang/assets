@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T23:56:20.875Z",
+  "generatedAt": "2026-11-17T00:46:39.507Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 107,
   "artikelFolders": [
@@ -513,48 +513,6 @@
     ]
   },
   "posts": [
-    {
-      "id": 127377682,
-      "slug": "panitia-konser-mini-hkbp-perawang-2025",
-      "title": "Panitia Konser Mini HKBP Perawang 2025",
-      "date": "2026-11-17T06:40:00+07:00",
-      "createdAt": "2026-11-17T06:40:00+07:00",
-      "modified": "2026-11-17T06:40:00+07:00",
-      "status": "draft",
-      "featured": false,
-      "format": "gallery",
-      "section": "warta",
-      "storageFolder": "galeri",
-      "link": "https://www.hkbpperawang.org/warta-acara/panitia-konser-mini-hkbp-perawang-2025",
-      "categorySlug": "warta-acara",
-      "categories": [
-        15
-      ],
-      "categorySlugs": [
-        "galeri"
-      ],
-      "categoryNames": [
-        "Warta Acara"
-      ],
-      "tags": [
-        "konser-mini-hkbp-perawang",
-        "hkbp-perawang",
-        "panitia-konser"
-      ],
-      "author": "Panitia Konser Mini 2025",
-      "authorRole": "Panitia Konser Mini 2025",
-      "image": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg",
-      "rawImage": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg",
-      "excerpt": "Lihat foto-foto panitia konser mini HKBP Perawang 2025, kegiatan yang diadakan oleh Gereja HKBP Perawang",
-      "seoTitle": "Panitia Konser Mini HKBP Perawang 2025",
-      "seoDesc": "Lihat foto-foto panitia konser mini HKBP Perawang 2025, kegiatan yang diadakan oleh Gereja HKBP Perawang",
-      "seoTarget": "konser mini HKBP Perawang 2025, panitia konser HKBP Perawang",
-      "pdfUrl": null,
-      "driveId": null,
-      "embeds": [],
-      "sourcePath": "artikel/galeri/Panitia Konser Mini HKBP Perawang 2025.md",
-      "rawMarkdown": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7995.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8007.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8013.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8015.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8017.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8020.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8022.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8025.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8030.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8036.JPG\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8038.JPG\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8043.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8049.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8052.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8054.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8059.jpg"
-    },
     {
       "id": 99322773,
       "slug": "nama-nama-minggu-dan-pesta-peringatan-di-gereja-hkbp",
@@ -1399,6 +1357,51 @@
       ],
       "sourcePath": "warta-acara/2026/10_Oktober/18/Ibadah Minggu XX Setelah Trinitatis (18-Okt-2026) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1waEx5710PVISv8u9o0KoJ4HDv7z5iR1r&usp=drive_fs\""
+    },
+    {
+      "id": 127377682,
+      "slug": "panitia-konser-mini-hkbp-perawang-2025",
+      "title": "Panitia Konser Mini HKBP Perawang 2025",
+      "date": "2026-10-17T06:40:00+07:00",
+      "createdAt": "2026-10-17T06:40:00+07:00",
+      "modified": "2026-10-17T06:40:00+07:00",
+      "status": "publish",
+      "featured": false,
+      "format": "gallery",
+      "section": "postingan",
+      "storageFolder": "kegiatan",
+      "link": "https://www.hkbpperawang.org/kegiatan/panitia-konser-mini-hkbp-perawang-2025",
+      "categorySlug": "kegiatan",
+      "categories": [
+        75
+      ],
+      "categorySlugs": [
+        "kegiatan",
+        "galeri"
+      ],
+      "categoryNames": [
+        "Kegiatan"
+      ],
+      "tags": [
+        "konser-mini-hkbp-perawang",
+        "hkbp-perawang",
+        "panitia-konser",
+        "konser-mini-2025",
+        "kegiatan-gereja"
+      ],
+      "author": "Panitia Konser Mini 2025",
+      "authorRole": "Panitia Konser Mini 2025",
+      "image": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg",
+      "excerpt": "Dokumentasi kegiatan dan susunan panitia Konser Mini HKBP Perawang tahun 2025. Simak keseruan persiapan pelayanan musik gereja kami.",
+      "seoTitle": "Panitia Konser Mini HKBP Perawang 2025",
+      "seoDesc": "Dokumentasi kegiatan dan susunan panitia Konser Mini HKBP Perawang tahun 2025. Simak keseruan persiapan pelayanan musik gereja kami.",
+      "seoTarget": "Panitia Konser Mini HKBP Perawang 2025",
+      "pdfUrl": null,
+      "driveId": null,
+      "embeds": [],
+      "sourcePath": "artikel/kegiatan/Panitia Konser Mini HKBP Perawang 2025.md",
+      "rawMarkdown": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7995.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8007.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8013.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8015.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8017.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8020.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8022.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8025.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8030.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8036.JPG\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8038.JPG\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8043.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8049.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8052.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8054.jpg\nhttps://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_8059.jpg"
     },
     {
       "id": 1969,
