@@ -138,7 +138,15 @@
         "slug": "lainnya",
         "name": "Lainnya",
         "parentSlug": null,
-        "createsFolder": true
+        "createsFolder": true,
+        "wpId": 88
+      },
+      {
+        "slug": "galeri",
+        "name": "Galeri",
+        "parentSlug": null,
+        "createsFolder": false,
+        "wpId": 89
       }
     ],
     "tags": [
@@ -305,6 +313,22 @@
       {
         "slug": "hidup-yang-menghasilkan-buah",
         "name": "hidup-yang-menghasilkan-buah"
+      },
+      {
+        "slug": "konser-mini-hkbp-perawang",
+        "name": "konser-mini-hkbp-perawang"
+      },
+      {
+        "slug": "panitia-konser",
+        "name": "panitia-konser"
+      },
+      {
+        "slug": "konser-mini-2025",
+        "name": "konser-mini-2025"
+      },
+      {
+        "slug": "kegiatan-gereja",
+        "name": "kegiatan-gereja"
       }
     ]
   },
@@ -428,12 +452,6 @@
         "parentSlug": "natal",
         "createsFolder": false,
         "wpId": 71
-      },
-      {
-        "slug": "galeri",
-        "name": "Warta Acara",
-        "parentSlug": null,
-        "createsFolder": false
       }
     ],
     "tags": [
@@ -504,19 +522,22 @@
         "slug": "aturan-gereja",
         "name": "Aturan & Peraturan",
         "parentSlug": "dokumen",
-        "createsFolder": false
+        "createsFolder": false,
+        "wpId": 90
       },
       {
         "slug": "konfessi",
         "name": "Konfessi & Ajaran",
         "parentSlug": "dokumen",
-        "createsFolder": false
+        "createsFolder": false,
+        "wpId": 91
       },
       {
         "slug": "penatalayanan",
         "name": "Penatalayanan & RPP",
         "parentSlug": "dokumen",
-        "createsFolder": false
+        "createsFolder": false,
+        "wpId": 92
       }
     ],
     "tags": [
@@ -535,5 +556,6 @@
       "name": "Pani br. Manurung",
       "role": "Naposobulung HKBP Perawang"
     }
-  ]
+  ],
+  "lastCategoryId": 92
 }
