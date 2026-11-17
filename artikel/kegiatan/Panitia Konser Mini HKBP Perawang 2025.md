@@ -11,7 +11,7 @@ format: "gallery"
 author: "Panitia Konser Mini 2025"
 author_role: "Panitia Konser Mini 2025"
 custom_fields:
-    featured_image_url: "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/compress/IMG_7987.jpg"
+    featured_image_url: "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/panitia-konser-mini-2025.webp"
     author: "Panitia Konser Mini 2025"
     author_role: "Panitia Konser Mini 2025"
     post_format: "gallery"
