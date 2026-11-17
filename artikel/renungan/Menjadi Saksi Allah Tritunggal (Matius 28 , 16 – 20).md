@@ -1,14 +1,20 @@
 ---
 id: 1486
-slug: "menjadi_saksi_allah_tritunggal"
+slug: "menjadi-saksi-allah-tritunggal-matius-28-16-20"
 title: "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20)"
-post_date: "2026-05-31 06:28:59"
-post_excerpt: "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20) Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? …"
+post_date: "2026-05-31 06:28:00"
+created_at: "2026-11-09 07:48:00"
+post_excerpt: ""
 post_status: "publish"
 type: "post"
+format: "artikel"
 author: "HKBP Perawang"
+author_role: "Kontributor & Pelayanan Media Jemaat HKBP Perawang"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/18/28/46/18284669f7839acef6bdc7ba961ff196.jpg"
+    author: "HKBP Perawang"
+    author_role: "Kontributor & Pelayanan Media Jemaat HKBP Perawang"
+    post_format: "artikel"
     seo_target: "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20)"
     site_seo_title: "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20)"
     site_seo_desc: "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20) Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? …"
