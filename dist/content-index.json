@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T00:46:39.507Z",
+  "generatedAt": "2026-11-17T02:10:26.135Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 107,
   "artikelFolders": [
@@ -196,6 +196,20 @@
           "parentSlug": "kegiatan",
           "createsFolder": false,
           "wpId": 29
+        },
+        {
+          "slug": "lainnya",
+          "name": "Lainnya",
+          "parentSlug": null,
+          "createsFolder": true,
+          "wpId": 88
+        },
+        {
+          "slug": "galeri",
+          "name": "Galeri",
+          "parentSlug": null,
+          "createsFolder": false,
+          "wpId": 89
         }
       ],
       "tags": [
@@ -326,6 +340,58 @@
         {
           "slug": "kebaikan-tuhan",
           "name": "kebaikan-tuhan"
+        },
+        {
+          "slug": "gereja-hkbp",
+          "name": "gereja-hkbp"
+        },
+        {
+          "slug": "nama-nama-minggu",
+          "name": "nama-nama-minggu"
+        },
+        {
+          "slug": "pesta-peringatan",
+          "name": "pesta-peringatan"
+        },
+        {
+          "slug": "kalender-gerejawi",
+          "name": "kalender-gerejawi"
+        },
+        {
+          "slug": "almanak-hkbp",
+          "name": "almanak-hkbp"
+        },
+        {
+          "slug": "hamba-setia",
+          "name": "hamba-setia"
+        },
+        {
+          "slug": "kepercayaan",
+          "name": "kepercayaan"
+        },
+        {
+          "slug": "kesalehan",
+          "name": "kesalehan"
+        },
+        {
+          "slug": "hidup-yang-menghasilkan-buah",
+          "name": "hidup-yang-menghasilkan-buah"
+        },
+        {
+          "slug": "konser-mini-hkbp-perawang",
+          "name": "konser-mini-hkbp-perawang"
+        },
+        {
+          "slug": "panitia-konser",
+          "name": "panitia-konser"
+        },
+        {
+          "slug": "konser-mini-2025",
+          "name": "konser-mini-2025"
+        },
+        {
+          "slug": "kegiatan-gereja",
+          "name": "kegiatan-gereja"
         }
       ]
     },
@@ -463,6 +529,46 @@
         {
           "slug": "minggu-trinitatis",
           "name": "Minggu Trinitatis"
+        },
+        {
+          "slug": "konser-mini-hkbp-perawang",
+          "name": "konser-mini-hkbp-perawang"
+        },
+        {
+          "slug": "hkbp-perawang",
+          "name": "hkbp-perawang"
+        },
+        {
+          "slug": "panitia-konser",
+          "name": "panitia-konser"
+        },
+        {
+          "slug": "ibadah-minggu",
+          "name": "ibadah-minggu"
+        },
+        {
+          "slug": "dung-trinitatis",
+          "name": "dung-trinitatis"
+        },
+        {
+          "slug": "btk",
+          "name": "btk"
+        },
+        {
+          "slug": "gereja-hkbp-perawang",
+          "name": "gereja-hkbp-perawang"
+        },
+        {
+          "slug": "trinitatis",
+          "name": "trinitatis"
+        },
+        {
+          "slug": "ibadah-minggu-ke-14",
+          "name": "ibadah-minggu-ke-14"
+        },
+        {
+          "slug": "setelah-trinitatis",
+          "name": "setelah-trinitatis"
         }
       ]
     },
@@ -479,19 +585,22 @@
           "slug": "aturan-gereja",
           "name": "Aturan & Peraturan",
           "parentSlug": "dokumen",
-          "createsFolder": false
+          "createsFolder": false,
+          "wpId": 90
         },
         {
           "slug": "konfessi",
           "name": "Konfessi & Ajaran",
           "parentSlug": "dokumen",
-          "createsFolder": false
+          "createsFolder": false,
+          "wpId": 91
         },
         {
           "slug": "penatalayanan",
           "name": "Penatalayanan & RPP",
           "parentSlug": "dokumen",
-          "createsFolder": false
+          "createsFolder": false,
+          "wpId": 92
         }
       ],
       "tags": [
@@ -510,7 +619,8 @@
         "name": "Pani br. Manurung",
         "role": "Naposobulung HKBP Perawang"
       }
-    ]
+    ],
+    "lastCategoryId": 92
   },
   "posts": [
     {
