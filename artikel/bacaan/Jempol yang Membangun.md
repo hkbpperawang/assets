@@ -52,8 +52,5 @@ Media sosial itu sendiri tidak jahat. Ia hanya alat — seperti pisau, bisa dipa
 2. Tahan satu kiriman yang tidak lolos tiga saringan di atas. Satu saja.
 3. Sebelum membagikan berita apa pun hari ini, cek dulu kebenarannya dari sumber yang jelas.
 
-**
-**
-
 **Doa:**
 Tuhan, ajar kami menjaga kata-kata kami — yang terucap dari mulut, maupun yang tertulis oleh jempol kami. Jadikan kata-kata kami kata yang membangun dan membawa kasih karunia bagi siapa pun yang membacanya, dan beri kami hikmat untuk diam pada saat diam itu lebih baik. Dalam nama Tuhan Yesus kami berdoa. Amin.
