@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T06:44:26.652Z",
+  "generatedAt": "2026-11-18T06:46:17.729Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 108,
+  "totalPosts": 109,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -624,6 +624,53 @@
     "lastCategoryId": 92
   },
   "posts": [
+    {
+      "id": 299946611,
+      "slug": "penutupan-partangiangan-weyk-2026",
+      "title": "Penutupan Partangiangan Weyk 2026",
+      "date": "2026-11-18T13:43:00+07:00",
+      "createdAt": "2026-11-18T13:43:00+07:00",
+      "modified": "2026-11-18T13:43:00+07:00",
+      "status": "publish",
+      "featured": false,
+      "format": "artikel",
+      "section": "warta",
+      "storageFolder": "2026/11_November/19-PenutupanPartangianganWeyk",
+      "link": "https://www.hkbpperawang.org/tata-acara/penutupan-partangiangan-weyk-2026",
+      "categorySlug": "tata-acara",
+      "categories": [
+        33,
+        70
+      ],
+      "categorySlugs": [
+        "tata-acara",
+        "b-batak-tata-acara"
+      ],
+      "categoryNames": [
+        "Tata Acara",
+        "B. Batak Tata Acara"
+      ],
+      "tags": [
+        "partangiangan-weyk",
+        "hkbp-perawang",
+        "kegiatan-gereja",
+        "weyk-2026"
+      ],
+      "author": "Tim Redaksi HKBP Perawang",
+      "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "excerpt": "Tata acara Penutupan Partangiangan Weyk 2026 di HKBP Perawang. Buka ini untuk melihat Tata Acara Berbahasa Batak",
+      "seoTitle": "Penutupan Partangiangan Weyk 2026 - HKBP Perawang",
+      "seoDesc": "Tata acara Penutupan Partangiangan Weyk 2026 di HKBP Perawang. Buka ini untuk melihat Tata Acara Berbahasa Batak",
+      "seoTarget": "Penutupan Partangiangan Weyk 2026",
+      "pdfUrl": "https://drive.google.com/open?id=1hZnptA4jK8VweV5vfpvkM6MVrMqFGE9C&usp=drive_fs",
+      "driveId": "1hZnptA4jK8VweV5vfpvkM6MVrMqFGE9C",
+      "embeds": [
+        "https://drive.google.com/file/d/1hZnptA4jK8VweV5vfpvkM6MVrMqFGE9C/preview"
+      ],
+      "sourcePath": "warta-acara/2026/11_November/19-PenutupanPartangianganWeyk/Penutupan Partangiangan Weyk 2026.md",
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1hZnptA4jK8VweV5vfpvkM6MVrMqFGE9C&usp=drive_fs\""
+    },
     {
       "id": 121714005,
       "slug": "jempol-yang-membangun",
