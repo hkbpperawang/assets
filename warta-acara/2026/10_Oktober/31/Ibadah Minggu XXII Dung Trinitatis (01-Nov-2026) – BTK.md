@@ -2,6 +2,7 @@
 id: 2060
 slug: "ibadah-minggu-xxii-setelah-trinitatis-01-nov-2026-btk"
 title: "Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) – BTK"
+worship_date: "2026-11-01"
 post_date: "2026-10-31 17:02:00"
 post_excerpt: ""
 post_status: "publish"

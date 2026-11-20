@@ -2,6 +2,7 @@
 id: 1970
 slug: "ibadah-minggu-xix-dung-trinitatis-11-okt-2026-btk"
 title: "Ibadah Minggu XIX Dung Trinitatis (11-Okt-2026) – BTK"
+worship_date: "2026-10-11"
 post_date: "2026-10-10 20:02:00"
 post_excerpt: ""
 post_status: "publish"

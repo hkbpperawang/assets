@@ -2,6 +2,7 @@
 id: 1942
 slug: "ibadah-minggu-xviii-setelah-trinitatis-04-okt-2026-btk"
 title: "Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) – BTK"
+worship_date: "2026-10-04"
 post_date: "2026-10-03 16:02:00"
 post_excerpt: ""
 post_status: "publish"

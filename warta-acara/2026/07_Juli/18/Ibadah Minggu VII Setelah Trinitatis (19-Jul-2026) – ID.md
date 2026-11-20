@@ -2,6 +2,7 @@
 id: 1875
 slug: "ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-id"
 title: "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID"
+worship_date: "2026-07-19"
 post_date: "2026-07-18 19:30:59"
 post_excerpt: ""
 post_status: "publish"

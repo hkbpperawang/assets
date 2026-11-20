@@ -2,6 +2,7 @@
 id: 1931
 slug: "ibadah-minggu-xvii-setelah-trinitatis-27-sep-2026-id"
 title: "Ibadah Minggu XVII Setelah Trinitatis (27-Sep-2026) – ID"
+worship_date: "2026-09-27"
 post_date: "2026-09-27 03:01:00"
 post_excerpt: ""
 post_status: "publish"

@@ -2,6 +2,7 @@
 id: 2045
 slug: "ibadah-minggu-xxi-setelah-trinitatis-25-okt-2026-id"
 title: "Ibadah Minggu XXI Setelah Trinitatis (25-Okt-2026) – ID"
+worship_date: "2026-10-25"
 post_date: "2026-10-25 03:01:00"
 post_excerpt: ""
 post_status: "publish"

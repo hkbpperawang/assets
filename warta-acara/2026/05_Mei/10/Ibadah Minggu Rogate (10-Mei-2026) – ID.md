@@ -2,6 +2,7 @@
 id: 1031
 slug: "ibadah-minggu-rogate-10-mei-2026-id"
 title: "Ibadah Minggu Rogate (10-Mei-2026) – ID"
+worship_date: "2026-05-10"
 post_date: "2026-05-10 14:31:10"
 post_excerpt: ""
 post_status: "publish"

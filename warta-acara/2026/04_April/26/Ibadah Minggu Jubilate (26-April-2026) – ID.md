@@ -2,6 +2,7 @@
 id: 1541
 slug: "ibadah-minggu-jubilate-26-april-2026-id"
 title: "Ibadah Minggu Jubilate (26-April-2026) – ID"
+worship_date: "2026-04-26"
 post_date: "2026-04-26 02:29:59"
 post_excerpt: ""
 post_status: "publish"

@@ -2,6 +2,7 @@
 id: 1906
 slug: "ibadah-minggu-xv-setelah-trinitatis-13-sep-2026-id"
 title: "Ibadah Minggu XV Setelah Trinitatis (13-Sep-2026) – ID"
+worship_date: "2026-09-13"
 post_date: "2026-09-13 03:01:00"
 post_excerpt: ""
 post_status: "publish"

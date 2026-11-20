@@ -2,6 +2,7 @@
 id: 1889
 slug: "ibadah-minggu-x-setelah-trinitatis-09-ags-2026-btk"
 title: "Ibadah Minggu X Dung Trinitatis (09-Ags-2026) – BTK"
+worship_date: "2026-08-09"
 post_date: "2026-08-09 03:31:01"
 post_excerpt: ""
 post_status: "publish"

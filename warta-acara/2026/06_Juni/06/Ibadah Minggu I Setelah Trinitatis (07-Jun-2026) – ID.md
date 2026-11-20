@@ -2,6 +2,7 @@
 id: 1572
 slug: "ibadah-minggu-i-setelah-trinitatis-07-jun-2026-id"
 title: "Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) – ID"
+worship_date: "2026-06-07"
 post_date: "2026-06-06 19:29:59"
 post_excerpt: ""
 post_status: "publish"

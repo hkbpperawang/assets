@@ -2,6 +2,7 @@
 id: 1883
 slug: "ibadah-minggu-ix-setelah-trinitatis-02-ags-2026-id"
 title: "Ibadah Minggu IX Setelah Trinitatis (02-Ags-2026) – ID"
+worship_date: "2026-08-02"
 post_date: "2026-08-01 20:31:01"
 post_excerpt: ""
 post_status: "publish"

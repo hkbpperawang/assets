@@ -2,6 +2,7 @@
 id: 2024
 slug: "ibadah-minggu-xx-dung-trinitatis-18-okt-2026-btk"
 title: "Ibadah Minggu XX Dung Trinitatis (18-Okt-2026) – BTK"
+worship_date: "2026-10-18"
 post_date: "2026-10-18 01:02:00"
 post_excerpt: ""
 post_status: "publish"

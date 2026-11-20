@@ -2,6 +2,7 @@
 id: 1902
 slug: "ibadah-minggu-xiv-dung-trinitatis-06-sep-2026-btk"
 title: "Ibadah Minggu XIV Dung Trinitatis (06-Sep-2026) – BTK"
+worship_date: "2026-09-06"
 post_date: "2026-09-06 03:02:00"
 post_excerpt: ""
 post_status: "publish"

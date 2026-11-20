@@ -2,6 +2,7 @@
 id: 1821
 slug: "ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-id"
 title: "Ibadah Minggu IV Setelah Trinitatis (28-Jun-2026) – ID"
+worship_date: "2026-06-28"
 post_date: "2026-06-27 19:30:59"
 post_excerpt: ""
 post_status: "publish"

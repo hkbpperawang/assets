@@ -2,6 +2,7 @@
 id: 1905
 slug: "ibadah-minggu-xv-dung-trinitatis-13-sep-2026-btk"
 title: "Ibadah Minggu XV Dung Trinitatis (13-Sep-2026) – BTK"
+worship_date: "2026-09-13"
 post_date: "2026-09-13 03:02:00"
 post_excerpt: ""
 post_status: "publish"

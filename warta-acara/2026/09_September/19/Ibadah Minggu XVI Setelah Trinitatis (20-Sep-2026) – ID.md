@@ -2,6 +2,7 @@
 id: 1907
 slug: "ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-id"
 title: "Ibadah Minggu XVI Setelah Trinitatis (20-Sep-2026) – ID"
+worship_date: "2026-09-20"
 post_date: "2026-09-19 22:01:00"
 post_excerpt: ""
 post_status: "publish"

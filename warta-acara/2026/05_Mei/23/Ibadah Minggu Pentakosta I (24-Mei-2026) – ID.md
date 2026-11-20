@@ -2,6 +2,7 @@
 id: 1178
 slug: "ibadah-minggu-pentakosta-i-24-mei-2026-id"
 title: "Ibadah Minggu Pentakosta I (24-Mei-2026) – ID"
+worship_date: "2026-05-24"
 post_date: "2026-05-23 21:10:12"
 post_excerpt: ""
 post_status: "publish"

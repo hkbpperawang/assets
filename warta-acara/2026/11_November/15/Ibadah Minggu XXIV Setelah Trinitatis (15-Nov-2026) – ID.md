@@ -2,6 +2,7 @@
 id: 412588665
 slug: "ibadah-minggu-xxiv-setelah-trinitatis-15-nov-2026-id"
 title: "Ibadah Minggu XXIV Setelah Trinitatis (15-Nov-2026) – ID"
+worship_date: "2026-11-15"
 post_date: "2026-11-14 23:02:00"
 created_at: "2026-11-14 23:02:00"
 post_excerpt: ""

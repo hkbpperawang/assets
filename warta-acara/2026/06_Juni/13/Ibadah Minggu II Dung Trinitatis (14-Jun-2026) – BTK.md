@@ -2,6 +2,7 @@
 id: 1745
 slug: "ibadah-minggu-ii-setelah-trinitatis-14-jun-2026-btk"
 title: "Ibadah Minggu II Dung Trinitatis (14-Jun-2026) – BTK"
+worship_date: "2026-06-14"
 post_date: "2026-06-13 19:30:59"
 post_excerpt: ""
 post_status: "publish"

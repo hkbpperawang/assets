@@ -2,6 +2,7 @@
 id: 1540
 slug: "ibadah-minggu-jubilate-26-april-2026-btk"
 title: "Ibadah Minggu Jubilate (26-April-2026) – BTK"
+worship_date: "2026-04-26"
 post_date: "2026-04-26 02:29:59"
 post_excerpt: ""
 post_status: "publish"

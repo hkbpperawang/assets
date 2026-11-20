@@ -2,6 +2,7 @@
 id: 412246734
 slug: "ibadah-minggu-xiv-dung-trinitatis-21-sep-2025-btk"
 title: "Ibadah Minggu XIV Dung Trinitatis (21-Sep-2025) – BTK"
+worship_date: "2025-09-21"
 post_date: "2025-09-21 20:46:00"
 created_at: "2025-09-21 20:46:00"
 post_excerpt: ""

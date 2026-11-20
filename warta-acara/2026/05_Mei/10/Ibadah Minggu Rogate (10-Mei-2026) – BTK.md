@@ -2,6 +2,7 @@
 id: 1035
 slug: "ibadah-minggu-rogate-10-mei-2026-btk"
 title: "Ibadah Minggu Rogate (10-Mei-2026) – BTK"
+worship_date: "2026-05-10"
 post_date: "2026-05-10 14:32:39"
 post_excerpt: ""
 post_status: "publish"

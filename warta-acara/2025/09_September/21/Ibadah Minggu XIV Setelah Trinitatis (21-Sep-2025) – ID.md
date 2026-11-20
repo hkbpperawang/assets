@@ -2,6 +2,7 @@
 id: 413677336
 slug: "ibadah-minggu-xiv-setelah-trinitatis-21-sep-2025-id"
 title: "Ibadah Minggu XIV Setelah Trinitatis (21-Sep-2025) – ID"
+worship_date: "2025-09-21"
 post_date: "2025-09-21 20:45:00"
 created_at: "2025-09-21 20:45:00"
 post_excerpt: ""

@@ -2,6 +2,7 @@
 id: 1545
 slug: "ibadah-minggu-misericordias-domini-19-april-2026-id"
 title: "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – ID"
+worship_date: "2026-04-19"
 post_date: "2026-04-19 02:29:59"
 post_excerpt: ""
 post_status: "publish"

@@ -2,6 +2,7 @@
 id: 1288
 slug: "ibadah-minggu-trinitatis-31-mei-2026-btk"
 title: "Ibadah Minggu Trinitatis (31-Mei-2026) – BTK"
+worship_date: "2026-05-31"
 post_date: "2026-05-31 01:55:00"
 created_at: "2026-11-09 15:02:00"
 post_excerpt: ""

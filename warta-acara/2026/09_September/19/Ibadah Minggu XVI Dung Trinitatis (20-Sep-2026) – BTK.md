@@ -2,6 +2,7 @@
 id: 1924
 slug: "ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-btk"
 title: "Ibadah Minggu XVI Dung Trinitatis (20-Sep-2026) – BTK"
+worship_date: "2026-09-20"
 post_date: "2026-09-19 22:02:00"
 post_excerpt: ""
 post_status: "publish"
