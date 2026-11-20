@@ -7,6 +7,7 @@ created_at: "2026-11-09 15:22:00"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/4d/d4/88/4dd4888ec4d38d7ad08b62601de27e64.jpg"
     seo_target: "Hidup menurut kehendak Allah (1 Tessalonik 2 : 8 – 12)"

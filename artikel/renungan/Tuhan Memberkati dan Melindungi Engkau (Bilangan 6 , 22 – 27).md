@@ -7,6 +7,7 @@ post_excerpt: "Banyak orang zaman sekarang percaya bahwa hidup ditentukan oleh h
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://cdn.hkbpperawang.org/assets/uploads/jesus-with-his-disciples.webp"
     seo_target: "Tuhan Memberkati dan Melindungi Engkau (Bilangan 6 : 22 – 27)"

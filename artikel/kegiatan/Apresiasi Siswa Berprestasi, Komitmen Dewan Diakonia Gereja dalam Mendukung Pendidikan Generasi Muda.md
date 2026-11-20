@@ -7,6 +7,7 @@ post_excerpt: "Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istime
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://cdn.hkbpperawang.org/assets/uploads/prestasi2026_01.webp"
     seo_target: "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda"

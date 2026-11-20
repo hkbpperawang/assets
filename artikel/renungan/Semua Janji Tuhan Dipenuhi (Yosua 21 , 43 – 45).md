@@ -7,6 +7,7 @@ post_excerpt: "Semua Janji Tuhan Dipenuhi (Yosua 21 : 43 – 45) Ada satu pertan
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/e1/50/ef/e150ef84ba76825e881b986812866f4f.jpg"
     seo_target: "Semua Janji Tuhan Dipenuhi (Yosua 21 : 43 – 45)"

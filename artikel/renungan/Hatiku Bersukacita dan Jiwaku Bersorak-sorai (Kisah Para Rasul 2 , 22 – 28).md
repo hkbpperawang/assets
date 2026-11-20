@@ -7,6 +7,7 @@ post_excerpt: "Hatiku Bersukacita dan Jiwaku Bersorak-sorai (Kisah Para Rasul 2 
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/52/34/14/52341437c8fa4cdc3e5b8fc9fd9cfd59.jpg"
     seo_target: "Hatiku Bersukacita dan Jiwaku Bersorak-sorai (Kisah Para Rasul 2 : 22 – 28)"

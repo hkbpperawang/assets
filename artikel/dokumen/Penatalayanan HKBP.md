@@ -7,6 +7,7 @@ post_excerpt: ""
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp"
     seo_target: "Penatalayanan HKBP"

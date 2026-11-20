@@ -7,6 +7,7 @@ post_excerpt: "Segala Perkara dapat ku tanggung di dalam Tuhan (Filippi 4 : 10 â
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/bf/5a/89/bf5a895210079572ff6dbef130338559.jpg"
     seo_target: "Segala Perkara dapat ku tanggung di dalam Tuhan (Filippi 4 : 10 â€“ 19)"

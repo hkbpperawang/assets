@@ -7,6 +7,7 @@ post_excerpt: "Mengarahkan Hati dan Jiwa untuk Mencari Tuhan ( 1 Tawarikh 22 : 1
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/03/83/37/0383375e7ac2f5747ff79723ae6e77ea.jpg"
     seo_target: "Mengarahkan Hati dan Jiwa untuk Mencari Tuhan ( 1 Tawarikh 22 : 14 – 19 )"

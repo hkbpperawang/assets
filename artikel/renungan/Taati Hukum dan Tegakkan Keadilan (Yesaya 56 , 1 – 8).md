@@ -10,10 +10,12 @@ type: "post"
 format: "artikel"
 featured: true
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/92/72/1f/92721f55821427dd01b4cb1a8f204e3a.jpg"
     featured: "true"
     author: "HKBP Perawang"
+    author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
     post_format: "artikel"
     seo_target: "Taati Hukum dan Tegakkan Keadilan (Yesaya 56 : 1 – 8)"
     site_seo_title: "Taati Hukum dan Tegakkan Keadilan (Yesaya 56 : 1 – 8)"

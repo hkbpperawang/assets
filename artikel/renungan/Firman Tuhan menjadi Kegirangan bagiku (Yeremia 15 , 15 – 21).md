@@ -7,6 +7,7 @@ post_excerpt: "Firman Tuhan menjadi Kegirangan bagiku (Yeremia 15 : 15 – 21) A
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/61/1a/b7/611ab7d51a4decaaccf0d1dbcb712a29.jpg"
     seo_target: "Firman Tuhan menjadi Kegirangan bagiku (Yeremia 15 : 15 – 21)"

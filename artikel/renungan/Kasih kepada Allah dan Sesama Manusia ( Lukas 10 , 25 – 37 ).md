@@ -7,6 +7,7 @@ post_excerpt: "Kasih kepada Allah dan Sesama Manusia (Lukas 10 : 25 – 37) Masa
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/69/0b/f5/690bf50c4f006a143e9d3aa631651cfb.jpg"
     seo_target: "Kasih kepada Allah dan Sesama Manusia ( Lukas 10 : 25 – 37 )"

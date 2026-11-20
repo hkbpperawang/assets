@@ -7,6 +7,7 @@ post_excerpt: "Dunia dan segala isinya adalah milik Tuhan ( Mazmur 50 : 7 – 15
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/cb/28/08/cb28089609fa511026d79030d7ded77c.jpg"
     seo_target: "Dunia dan segala isinya adalah milik Tuhan ( Mazmur 50 : 7 – 15 )"

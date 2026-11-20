@@ -7,6 +7,7 @@ post_excerpt: "Aku Menyanyi Bagi Tuhan (Keluaran 15 : 1 – 14) Dalam Keluaran 1
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/5c/7b/0d/5c7b0d6482daf74b62672ba0ca60cf72.jpg"
     seo_target: "Aku Menyanyi Bagi Tuhan (Keluaran 15 : 1 – 14)"

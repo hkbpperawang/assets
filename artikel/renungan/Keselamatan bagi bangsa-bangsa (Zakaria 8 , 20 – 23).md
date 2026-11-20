@@ -7,6 +7,7 @@ post_excerpt: "Keselamatan bagi bangsa-bangsa (Zakaria 8 : 20 – 23) Allah tida
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/78/47/ff/7847ffa457b67b3a2d8f0592cbfcaa20.jpg"
     seo_target: "Keselamatan bagi bangsa-bangsa (Zakaria 8 : 20 – 23)"

@@ -408,7 +408,6 @@ function buildContentIndex() {
     if (relPath.toLowerCase().endsWith("readme.md")) continue;
 
     const rawMd = fs.readFileSync(absPath, "utf8");
-    const stat = fs.statSync(absPath);
     const { frontmatter, body } = parseFrontmatterBlock(rawMd);
 
     const rawStatus = String(frontmatter.post_status || frontmatter.status || "publish").toLowerCase();
@@ -430,9 +429,7 @@ function buildContentIndex() {
     const dateIso = normalizeIsoWib(frontmatter.post_date || frontmatter.date);
     const createdIso = frontmatter.created_at
       ? normalizeIsoWib(frontmatter.created_at)
-      : stat.birthtime && !Number.isNaN(stat.birthtime.getTime()) && stat.birthtime.getFullYear() > 1980
-        ? stat.birthtime.toISOString()
-        : dateIso;
+      : dateIso;
     const modifiedIso = normalizeIsoWib(
       frontmatter.modified || frontmatter.post_date || frontmatter.date,
     );
@@ -532,6 +529,12 @@ function buildContentIndex() {
     if (!author) {
       author = "Tim Redaksi HKBP Perawang";
     }
+    const authorRole =
+      String(frontmatter.author_role || frontmatter.custom_fields?.author_role || "").trim() ||
+      undefined;
+    const authorImg =
+      String(frontmatter.author_img || frontmatter.custom_fields?.author_img || "").trim() ||
+      undefined;
 
     const rawFeaturedImage =
       frontmatter.custom_fields?.featured_image_url || frontmatter.image || "";
@@ -562,6 +565,8 @@ function buildContentIndex() {
       categoryNames,
       tags: frontmatter.taxonomy?.post_tag ?? [],
       author,
+      ...(authorRole ? { authorRole } : {}),
+      ...(authorImg ? { authorImg } : {}),
       image,
       rawImage: rawFeaturedImage || null,
       excerpt,
