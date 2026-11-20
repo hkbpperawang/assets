@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:07:03.440Z",
+  "generatedAt": "2026-11-20T08:07:39.402Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 111,
   "artikelFolders": [
@@ -5379,7 +5379,7 @@
       "featured": false,
       "format": "artikel",
       "section": "warta",
-      "storageFolder": "2026/12_Desember",
+      "storageFolder": "2025/09_September/21",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiv-setelah-trinitatis-21-sep-2025-id",
       "categorySlug": "warta-acara",
       "categories": [
@@ -5414,7 +5414,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1K861PUSLqpKCmL33_KUpqNicZzJObO6F/preview"
       ],
-      "sourcePath": "warta-acara/2026/12_Desember/Ibadah Minggu XIV Setelah Trinitatis (21-Sep-2025) – ID.md",
+      "sourcePath": "warta-acara/2025/09_September/21/Ibadah Minggu XIV Setelah Trinitatis (21-Sep-2025) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1K861PUSLqpKCmL33_KUpqNicZzJObO6F&usp=drive_fs\""
     }
   ]
