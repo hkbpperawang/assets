@@ -2,8 +2,10 @@
 id: 299946611
 slug: "penutupan-partangiangan-weyk-2026"
 title: "Penutupan Partangiangan Weyk 2026"
+worship_date: "2026-11-19"
 post_date: "2026-11-18 13:43:00"
 created_at: "2026-11-18 13:43:00"
+modified: "2026-11-20 17:21:43"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
