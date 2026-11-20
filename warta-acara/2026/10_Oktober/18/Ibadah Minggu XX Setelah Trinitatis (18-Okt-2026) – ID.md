@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu XX Setelah Trinitatis (18-Okt-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1waEx5710PVISv8u9o0KoJ4HDv7z5iR1r&usp=drive_fs"

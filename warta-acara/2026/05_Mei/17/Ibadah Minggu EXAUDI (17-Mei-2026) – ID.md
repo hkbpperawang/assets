@@ -16,9 +16,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu EXAUDI (17-Mei-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=19_AwrabhtIJHHA3km-GO9qHICI6JBFw2&usp=drive_fs"

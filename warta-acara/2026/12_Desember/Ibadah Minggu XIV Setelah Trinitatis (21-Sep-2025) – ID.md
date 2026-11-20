@@ -18,7 +18,7 @@ taxonomy:
     category:
         - warta-acara
         - ibadah-minggu
-        - b-indonesia
+            - b-indonesia
     post_tag:
         - ibadah-minggu-ke-14
         - setelah-trinitatis

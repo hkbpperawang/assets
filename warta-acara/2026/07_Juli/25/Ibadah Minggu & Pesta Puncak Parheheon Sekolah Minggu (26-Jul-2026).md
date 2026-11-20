@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu & Pesta Puncak Parheheon Sekolah Minggu (26-Jul-2026)"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=17qQmFetWAvQ_WCZgYGiI1D4OJn-X0XGT&usp=drive_fs"

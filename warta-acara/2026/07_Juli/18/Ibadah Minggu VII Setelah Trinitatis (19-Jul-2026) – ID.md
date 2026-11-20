@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=15pa_n3bpyDREGkMKix5YEVsOSXL0qxB8&usp=drive_fs"

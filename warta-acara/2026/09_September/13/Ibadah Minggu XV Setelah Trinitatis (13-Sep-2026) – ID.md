@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu XV Setelah Trinitatis (13-Sep-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1doydR9GiLo_cxhVDvFqt1qZCXMPHdJdQ&usp=drive_fs"

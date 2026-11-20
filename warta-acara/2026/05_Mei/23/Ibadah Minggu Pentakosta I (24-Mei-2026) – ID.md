@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu Pentakosta I (24-Mei-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1c9sK6KrNwsxxmJaRn_hUpsmf05kPuW-O&usp=drive_fs"

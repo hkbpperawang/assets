@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu IV Setelah Trinitatis (28-Jun-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1zMc8V-qfVnAJc59hp15ZSM47ZQjN34KO&usp=drive_fs"
