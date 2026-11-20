@@ -7,6 +7,7 @@ post_excerpt: "Bergembira di dalam Tuhan (Habakuk 3 : 10 – 19) Dimanakah kita 
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/62/ce/04/62ce04391636afcddd8016bf822ede55.jpg"
     seo_target: "Bergembira di dalam Tuhan (Habakuk 3 : 10 – 19)"

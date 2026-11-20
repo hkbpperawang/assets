@@ -532,6 +532,12 @@ function buildContentIndex() {
     if (!author) {
       author = "Tim Redaksi HKBP Perawang";
     }
+    const authorRole =
+      String(frontmatter.author_role || frontmatter.custom_fields?.author_role || "").trim() ||
+      undefined;
+    const authorImg =
+      String(frontmatter.author_img || frontmatter.custom_fields?.author_img || "").trim() ||
+      undefined;
 
     const rawFeaturedImage =
       frontmatter.custom_fields?.featured_image_url || frontmatter.image || "";
@@ -562,6 +568,8 @@ function buildContentIndex() {
       categoryNames,
       tags: frontmatter.taxonomy?.post_tag ?? [],
       author,
+      ...(authorRole ? { authorRole } : {}),
+      ...(authorImg ? { authorImg } : {}),
       image,
       rawImage: rawFeaturedImage || null,
       excerpt,

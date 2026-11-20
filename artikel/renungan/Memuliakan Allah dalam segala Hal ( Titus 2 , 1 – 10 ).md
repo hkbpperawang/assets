@@ -10,10 +10,12 @@ type: "post"
 format: "artikel"
 featured: true
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/34/5b/93/345b93d6ac72e4be6cc5d7e9e33285b6.jpg"
     featured: "true"
     author: "HKBP Perawang"
+    author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
     post_format: "artikel"
     seo_target: "Memuliakan Allah dalam segala Hal ( Titus 2 : 1 – 10 )"
     site_seo_title: "Memuliakan Allah dalam segala Hal ( Titus 2 : 1 – 10 )"

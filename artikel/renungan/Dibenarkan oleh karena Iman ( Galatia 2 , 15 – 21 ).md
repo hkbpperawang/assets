@@ -7,6 +7,7 @@ post_excerpt: "Dibenarkan oleh karena Iman (Galatia 2 : 15 – 21) Salah satu pe
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/2c/23/01/2c23015ff11370df484dbcc9d56be832.jpg"
     seo_target: "Dibenarkan oleh karena Iman ( Galatia 2 : 15 – 21 )"

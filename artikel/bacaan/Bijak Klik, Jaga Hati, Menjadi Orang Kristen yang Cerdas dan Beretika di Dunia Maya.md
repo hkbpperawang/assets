@@ -10,10 +10,12 @@ type: "post"
 format: "artikel"
 featured: true
 author: "Tim Multimedia"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/7c/77/7b/7c777bb8c46cb1584969be9afe36d362.jpg"
     featured: "true"
     author: "Tim Multimedia"
+    author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
     post_format: "artikel"
     seo_target: "menjadi orang Kristen yang cerdas dan beretika di dunia digital, jaga keamanan data pribadi, etika…"
     site_seo_title: "Bijak Klik, Jaga Hati: Menjadi Orang Kristen yang Cerdas…"

@@ -11,11 +11,13 @@ format: "artikel"
 featured: true
 author: "Tim Multimedia"
 author_role: "Kontributor & Pelayanan Media Jemaat HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/c7/9f/1b/c79f1b055c2432c8a82a92f452021b19.jpg"
     featured: "true"
     author: "Tim Multimedia"
     author_role: "Kontributor & Pelayanan Media Jemaat HKBP Perawang"
+    author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
     post_format: "artikel"
     seo_target: "AI, jemaat, cerdas, bijak, integritas, kejujuran"
     site_seo_title: "Menjadi Jemaat yang Cerdas dan Bijak dalam Menggunakan AI"

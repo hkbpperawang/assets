@@ -7,6 +7,7 @@ post_excerpt: "Saling Menolong (3 Yohannes 1 : 5 – 8) Sejak kecil kita diajark
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/00/4e/5c/004e5c637715a3653df91cf0bce19254.jpg"
     seo_target: "Saling Menolong (3 Yohannes 1 : 5 – 8)"

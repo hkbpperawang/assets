@@ -554,7 +554,8 @@
   "authorPresets": [
     {
       "name": "Pani br. Manurung",
-      "role": "Naposobulung HKBP Perawang"
+      "role": "Naposobulung HKBP Perawang",
+      "avatar": "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
     }
   ],
   "lastCategoryId": 92

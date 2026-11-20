@@ -7,6 +7,7 @@ post_excerpt: "Teguh Berpegang pada Kebenaran ( Efesus 4 : 7 – 16 ) Suara Siap
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/f2/a1/99/f2a199f4510c8358ff4ccc800c37eb13.jpg"
     seo_target: "Teguh Berpegang pada Kebenaran ( Efesus 4 : 7 – 16 )"

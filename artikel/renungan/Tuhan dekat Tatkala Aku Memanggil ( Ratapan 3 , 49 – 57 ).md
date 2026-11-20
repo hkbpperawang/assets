@@ -7,6 +7,7 @@ post_excerpt: "Tuhan dekat Tatkala Aku Memanggil ( Ratapan 3 : 49 – 57 ) Sebel
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/07/77/36/077736490e90dafef39f3ea7375c7f54.jpg"
     seo_target: "Tuhan dekat Tatkala Aku Memanggil ( Ratapan 3 : 49 – 57 )"

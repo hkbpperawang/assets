@@ -7,6 +7,7 @@ post_excerpt: "Karya Allah bagi orang pilihanNya ( Roma 8 : 26 – 30) ) Manusia
 post_status: "publish"
 type: "post"
 author: "HKBP Perawang"
+author_img: "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
 custom_fields:
     featured_image_url: "https://i.pinimg.com/1200x/35/3b/ca/353bca6fb4fa7db13149b86c694d8e1d.jpg"
     seo_target: "Karya Allah bagi orang pilihanNya (Roma 8 : 26 – 30)"
