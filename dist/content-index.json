@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:06:48.412Z",
+  "generatedAt": "2026-11-20T08:07:03.440Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 111,
   "artikelFolders": [
@@ -5329,7 +5329,7 @@
       "featured": false,
       "format": "artikel",
       "section": "warta",
-      "storageFolder": "2026/12_Desember",
+      "storageFolder": "2025/09_September/21",
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiv-dung-trinitatis-21-sep-2025-btk",
       "categorySlug": "warta-acara",
       "categories": [
@@ -5365,7 +5365,7 @@
       "embeds": [
         "https://drive.google.com/file/d/1YaEUiAgCbUpy3Z8AyT4AYrktJsFl4u4F/preview"
       ],
-      "sourcePath": "warta-acara/2026/12_Desember/Ibadah Minggu XIV Dung Trinitatis (21-Sep-2025) – BTK.md",
+      "sourcePath": "warta-acara/2025/09_September/21/Ibadah Minggu XIV Dung Trinitatis (21-Sep-2025) – BTK.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1YaEUiAgCbUpy3Z8AyT4AYrktJsFl4u4F&usp=drive_fs\""
     },
     {
