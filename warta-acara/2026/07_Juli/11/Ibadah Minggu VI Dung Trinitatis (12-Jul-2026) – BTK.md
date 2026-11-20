@@ -2,6 +2,7 @@
 id: 1842
 slug: "ibadah-minggu-vi-dung-trinitatis-12-jul-2026-btk"
 title: "Ibadah Minggu VI Dung Trinitatis (12-Jul-2026) – BTK"
+worship_date: "2026-07-12"
 post_date: "2026-07-11 19:31:59"
 post_excerpt: ""
 post_status: "publish"

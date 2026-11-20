@@ -2,6 +2,7 @@
 id: 483
 slug: "ibadah-minggu-exaudi-17-mei-2026-btk"
 title: "Ibadah Minggu EXAUDI (17-Mei-2026) – BTK"
+worship_date: "2026-05-17"
 post_date: "2026-05-17 16:36:00"
 created_at: "2026-11-09 15:02:00"
 post_excerpt: ""

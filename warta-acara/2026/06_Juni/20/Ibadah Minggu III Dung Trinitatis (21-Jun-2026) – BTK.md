@@ -2,6 +2,7 @@
 id: 1776
 slug: "ibadah-minggu-iii-setelah-trinitatis-21-jun-2026-btk"
 title: "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – BTK"
+worship_date: "2026-06-21"
 post_date: "2026-06-20 19:31:59"
 post_excerpt: ""
 post_status: "publish"

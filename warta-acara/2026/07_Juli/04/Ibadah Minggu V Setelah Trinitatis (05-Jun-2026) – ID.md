@@ -2,6 +2,7 @@
 id: 1833
 slug: "ibadah-minggu-v-setelah-trinitatis-05-jul-2026-id"
 title: "Ibadah Minggu V Setelah Trinitatis (05-Jun-2026) – ID"
+worship_date: "2026-07-05"
 post_date: "2026-07-04 19:30:59"
 post_excerpt: ""
 post_status: "publish"

@@ -2,6 +2,7 @@
 id: 1899
 slug: "ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-btk"
 title: "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK"
+worship_date: "2026-08-30"
 post_date: "2026-08-29 21:02:00"
 post_excerpt: ""
 post_status: "publish"

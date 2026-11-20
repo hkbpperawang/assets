@@ -2,6 +2,7 @@
 id: 1820
 slug: "ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-btk"
 title: "Ibadah Minggu IV Dung Trinitatis (28-Jun-2026) – BTK"
+worship_date: "2026-06-28"
 post_date: "2026-06-27 19:31:59"
 post_excerpt: ""
 post_status: "publish"

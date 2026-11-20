@@ -2,6 +2,7 @@
 id: 1874
 slug: "ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-btk"
 title: "Ibadah Minggu VII Dung Trinitatis (19-Jul-2026) – BTK"
+worship_date: "2026-07-19"
 post_date: "2026-07-18 19:31:01"
 post_excerpt: ""
 post_status: "publish"

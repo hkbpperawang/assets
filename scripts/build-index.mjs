@@ -426,6 +426,10 @@ function buildContentIndex() {
     const title = String(frontmatter.title || path.basename(absPath, ".md")).trim();
     const slug = String(frontmatter.slug || slugify(title)).trim();
     const id = frontmatter.id ? Number(frontmatter.id) : deterministicNumericId(slug);
+    const worshipDate = String(frontmatter.worship_date || "").trim() || undefined;
+    const rawWorshipShowDay = String(frontmatter.worship_show_day ?? "").trim();
+    const worshipShowDay =
+      worshipDate && /^(?:false|0|no)$/i.test(rawWorshipShowDay) ? false : undefined;
     const dateIso = normalizeIsoWib(frontmatter.post_date || frontmatter.date);
     const createdIso = frontmatter.created_at
       ? normalizeIsoWib(frontmatter.created_at)
@@ -550,6 +554,8 @@ function buildContentIndex() {
       id,
       slug,
       title,
+      ...(worshipDate ? { worshipDate } : {}),
+      ...(worshipShowDay === false ? { worshipShowDay: false } : {}),
       date: dateIso,
       createdAt: createdIso,
       modified: modifiedIso,

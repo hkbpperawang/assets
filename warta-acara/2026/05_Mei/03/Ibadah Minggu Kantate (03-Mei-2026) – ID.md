@@ -2,6 +2,7 @@
 id: 1534
 slug: "ibadah-minggu-kantate-03-mei-2026-id"
 title: "Ibadah Minggu Kantate (03-Mei-2026) – ID"
+worship_date: "2026-05-03"
 post_date: "2026-05-03 02:28:59"
 post_excerpt: ""
 post_status: "publish"

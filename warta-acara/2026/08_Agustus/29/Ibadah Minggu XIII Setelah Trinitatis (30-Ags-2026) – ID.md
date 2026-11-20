@@ -2,6 +2,7 @@
 id: 1900
 slug: "ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-id"
 title: "Ibadah Minggu XIII Setelah Trinitatis (30-Ags-2026) – ID"
+worship_date: "2026-08-30"
 post_date: "2026-08-29 21:01:00"
 post_excerpt: ""
 post_status: "publish"

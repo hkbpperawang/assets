@@ -2,6 +2,7 @@
 id: 1832
 slug: "ibadah-minggu-v-dung-trinitatis-05-jul-2026-btk"
 title: "Ibadah Minggu V Dung Trinitatis (05-Jul-2026) – BTK"
+worship_date: "2026-07-05"
 post_date: "2026-07-04 19:31:59"
 post_excerpt: ""
 post_status: "publish"

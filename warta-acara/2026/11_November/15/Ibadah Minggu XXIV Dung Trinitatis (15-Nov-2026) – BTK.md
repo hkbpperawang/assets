@@ -2,6 +2,7 @@
 id: 465791717
 slug: "ibadah-minggu-xxiv-dung-trinitatis-15-nov-2026-btk"
 title: "Ibadah Minggu XXIV Dung Trinitatis (15-Nov-2026) – BTK"
+worship_date: "2026-11-15"
 post_date: "2026-11-14 23:06:00"
 created_at: "2026-11-14 23:06:00"
 post_excerpt: ""

@@ -2,6 +2,7 @@
 id: 479
 slug: "ibadah-minggu-exaudi-17-mei-2026-id"
 title: "Ibadah Minggu EXAUDI (17-Mei-2026) – ID"
+worship_date: "2026-05-17"
 post_date: "2026-05-17 16:32:00"
 created_at: "2026-11-09 15:02:00"
 post_excerpt: ""
