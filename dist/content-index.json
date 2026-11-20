@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:21:45.648Z",
+  "generatedAt": "2026-11-20T10:23:04.109Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 111,
   "artikelFolders": [
@@ -400,6 +400,18 @@
         {
           "slug": "kegiatan-gereja",
           "name": "kegiatan-gereja"
+        },
+        {
+          "slug": "renungan-harian",
+          "name": "renungan-harian"
+        },
+        {
+          "slug": "efesus-4-29",
+          "name": "efesus-4-29"
+        },
+        {
+          "slug": "etika-media-sosial",
+          "name": "etika-media-sosial"
         }
       ]
     },
@@ -491,7 +503,7 @@
         },
         {
           "slug": "b-indonesia-tata-acara",
-          "name": "B. Indonesia Tata Acara",
+          "name": "B. Indonesia",
           "parentSlug": "tata-acara",
           "createsFolder": false,
           "wpId": 69
@@ -577,6 +589,34 @@
         {
           "slug": "setelah-trinitatis",
           "name": "setelah-trinitatis"
+        },
+        {
+          "slug": "pasahaton",
+          "name": "pasahaton"
+        },
+        {
+          "slug": "parhobas",
+          "name": "parhobas"
+        },
+        {
+          "slug": "sintua",
+          "name": "sintua"
+        },
+        {
+          "slug": "pelayanan-gereja",
+          "name": "pelayanan-gereja"
+        },
+        {
+          "slug": "partangiangan-weyk",
+          "name": "partangiangan-weyk"
+        },
+        {
+          "slug": "kegiatan-gereja",
+          "name": "kegiatan-gereja"
+        },
+        {
+          "slug": "weyk-2026",
+          "name": "weyk-2026"
         }
       ]
     },
