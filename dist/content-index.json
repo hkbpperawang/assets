@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:04:58.279Z",
+  "generatedAt": "2026-11-20T08:05:15.878Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 111,
   "artikelFolders": [
@@ -640,7 +640,7 @@
       "featured": false,
       "format": "artikel",
       "section": "warta",
-      "storageFolder": "2026/12_Desember",
+      "storageFolder": "2026/11_November/21-Khusus",
       "link": "https://www.hkbpperawang.org/tata-acara/acara-pasahaton-baju-parhobas-sintua-21-nov-2026",
       "categorySlug": "tata-acara",
       "categories": [
@@ -671,7 +671,7 @@
       "embeds": [
         "https://drive.google.com/file/d/161-n8AuFZ9owEVl_ZNPTsaAxxEOQfOL7/preview"
       ],
-      "sourcePath": "warta-acara/2026/12_Desember/Acara Pasahaton Baju Parhobas Sintua (21-Nov-2026).md",
+      "sourcePath": "warta-acara/2026/11_November/21-Khusus/Acara Pasahaton Baju Parhobas Sintua (21-Nov-2026).md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=161-n8AuFZ9owEVl_ZNPTsaAxxEOQfOL7&usp=drive_fs\""
     },
     {
