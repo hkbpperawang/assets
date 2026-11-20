@@ -56,6 +56,8 @@ Bukankah itu sangat manusiawi? Kadang suntuk tidak datang saat kita jauh dari Tu
 
 *Elia di bawah pohon arar — Tuhan menjumpai hamba-Nya bukan dengan teguran keras, melainkan dengan roti, air, dan istirahat. (1 Raja-raja 19)*
 
+![Ketika Hati Terasa Suntuk, Tuhan Tetap Hadir di Tengah Sunyi](https://cdn.hkbpperawang.org/assets/uploads/2026/ketika-hati-terasa-suntuk-tuhan-tetap-hadir-di-tengah-sunyi-umwkda5e0d.webp)
+
 ### Tuhan tidak memarahi orang yang lelah
 
 Perhatikan apa yang Tuhan lakukan. Ia tidak langsung memberi Elia khotbah panjang. Ia tidak berkata, "Baru kemarin Aku memberi kemenangan, kenapa sekarang kamu lemah?"
@@ -119,5 +121,3 @@ Ia teringat perkataan opungnya dulu: *"Kalau hatimu penat, jangan lari dari Tuha
 *Tuhan, hari ini hatiku terasa suntuk dan lelah. Aku tidak selalu mengerti jalan-Mu, tetapi aku mau percaya Engkau ada di perahuku, Engkau dekat saat hatiku patah, dan suara-Mu yang lembut masih memanggilku. Tenangkanlah hatiku, pulihkan kekuatanku, dan ajar aku berharap lagi kepada-Mu. Amin.*
 
 Besok pagi, matahari akan terbit lagi di Perawang — sama seperti kasih setia Tuhan yang tidak pernah habis. Dan Daniel, dengan langkah yang masih pelan tetapi hati yang sedikit lebih ringan, akan membuka jendelanya sekali lagi. Bukan karena semua masalah selesai, melainkan karena ia tahu: ia tidak pernah benar-benar sendirian.
-
-![Ketika Hati Terasa Suntuk, Tuhan Tetap Hadir di Tengah Sunyi](https://cdn.hkbpperawang.org/assets/uploads/2026/ketika-hati-terasa-suntuk-tuhan-tetap-hadir-di-tengah-sunyi-umwkda5e0d.webp)
