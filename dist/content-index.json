@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T05:25:35.493Z",
+  "generatedAt": "2026-11-20T06:32:45.227Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 110,
+  "totalPosts": 111,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -628,6 +628,45 @@
     "lastCategoryId": 92
   },
   "posts": [
+    {
+      "id": 290120215,
+      "slug": "acara-pasahaton-baju-parhobas-sintua-21-nov-2026",
+      "title": "Acara Pasahaton Baju Parhobas Sintua (21-Nov-2026)",
+      "date": "2026-11-20T13:31:00+07:00",
+      "createdAt": "2026-11-20T13:31:00+07:00",
+      "modified": "2026-11-20T13:31:00+07:00",
+      "status": "draft",
+      "featured": false,
+      "format": "artikel",
+      "section": "warta",
+      "storageFolder": "2026/12_Desember",
+      "link": "https://www.hkbpperawang.org/tata-acara/acara-pasahaton-baju-parhobas-sintua-21-nov-2026",
+      "categorySlug": "tata-acara",
+      "categories": [
+        33
+      ],
+      "categorySlugs": [
+        "tata-acara"
+      ],
+      "categoryNames": [
+        "Tata Acara"
+      ],
+      "tags": [],
+      "author": "Tim Redaksi HKBP Perawang",
+      "image": null,
+      "rawImage": null,
+      "excerpt": "Acara Pasahaton Baju Parhobas Sintua (21-Nov-2026)",
+      "seoTitle": "Acara Pasahaton Baju Parhobas Sintua (21-Nov-2026)",
+      "seoDesc": "Acara Pasahaton Baju Parhobas Sintua (21-Nov-2026)",
+      "seoTarget": "Acara Pasahaton Baju Parhobas Sintua (21-Nov-2026)",
+      "pdfUrl": "https://drive.google.com/open?id=161-n8AuFZ9owEVl_ZNPTsaAxxEOQfOL7&usp=drive_fs",
+      "driveId": "161-n8AuFZ9owEVl_ZNPTsaAxxEOQfOL7",
+      "embeds": [
+        "https://drive.google.com/file/d/161-n8AuFZ9owEVl_ZNPTsaAxxEOQfOL7/preview"
+      ],
+      "sourcePath": "warta-acara/2026/12_Desember/Acara Pasahaton Baju Parhobas Sintua (21-Nov-2026).md",
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=161-n8AuFZ9owEVl_ZNPTsaAxxEOQfOL7&usp=drive_fs\""
+    },
     {
       "id": 819314677,
       "slug": "ketika-hati-terasa-suntuk-tuhan-tetap-hadir-di-tengah-sunyi",
