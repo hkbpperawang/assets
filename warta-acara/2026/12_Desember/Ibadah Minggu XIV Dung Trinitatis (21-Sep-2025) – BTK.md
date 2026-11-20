@@ -18,7 +18,7 @@ taxonomy:
     category:
         - warta-acara
         - ibadah-minggu
-        - b-batak
+            - b-batak
     post_tag:
         - ibadah-minggu
         - dung-trinitatis

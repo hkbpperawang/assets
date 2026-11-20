@@ -16,9 +16,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu XXIII Setelah Trinitatis (08-Nov-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1hom5xzaayrYPQYPpnIA5cwQRnWdTmNYR&usp=drive_fs"

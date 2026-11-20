@@ -17,7 +17,7 @@ custom_fields:
 taxonomy:
     category:
         - tata-acara
-        - b-batak-tata-acara
+            - b-batak-tata-acara
     post_tag:
         - partangiangan-weyk
         - hkbp-perawang

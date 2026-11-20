@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu XX Dung Trinitatis (18-Okt-2026) – BTK"
 taxonomy:
     category:
-        - b-batak
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-batak
 ---
 
 pdf_url="https://drive.google.com/open?id=1Hp4q2xHRuUfAh0mAdnh5WWkgXdr64BJT&usp=drive_fs"

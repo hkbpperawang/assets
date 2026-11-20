@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1iQqaOlQ6mobLgWEwms2FiP61cs7YL6V1&usp=drive_fs"

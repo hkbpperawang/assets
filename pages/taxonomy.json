@@ -344,21 +344,21 @@
       {
         "slug": "ibadah-minggu",
         "name": "Ibadah Minggu",
-        "parentSlug": "warta-acara",
+        "parentSlug": null,
         "createsFolder": false,
         "wpId": 17
       },
       {
         "slug": "b-indonesia",
         "name": "B. Indonesia",
-        "parentSlug": "warta-acara",
+        "parentSlug": "ibadah-minggu",
         "createsFolder": false,
         "wpId": 18
       },
       {
         "slug": "b-batak",
         "name": "B. Batak",
-        "parentSlug": "warta-acara",
+        "parentSlug": "ibadah-minggu",
         "createsFolder": false,
         "wpId": 19
       },

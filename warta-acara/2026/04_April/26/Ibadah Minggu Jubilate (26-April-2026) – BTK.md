@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu Jubilate (26-April-2026) – BTK"
 taxonomy:
     category:
-        - b-batak
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-batak
 ---
 
 pdf_url="https://drive.google.com/open?id=1-Fd-h2LjSi46YMKuD65ySvcTN_iz7Zny&usp=drive_fs"

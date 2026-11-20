@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu Rogate (10-Mei-2026) – BTK"
 taxonomy:
     category:
-        - b-batak
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-batak
 ---
 
 pdf_url="https://drive.google.com/open?id=1-4D3mdY-ahH8gRhdrLBWORYJzcoUb9oz&usp=drive_fs"

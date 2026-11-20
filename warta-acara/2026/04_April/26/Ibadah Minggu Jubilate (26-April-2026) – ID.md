@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu Jubilate (26-April-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1S51WW1STuE37K37OElRZjGmdToVecmcd&usp=drive_fs"

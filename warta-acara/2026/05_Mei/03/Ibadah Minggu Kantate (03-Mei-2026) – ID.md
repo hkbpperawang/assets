@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu Kantate (03-Mei-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1NVyo8knEjlKFmfJ6rdvmj4upGolI_c1G&usp=drive_fs"

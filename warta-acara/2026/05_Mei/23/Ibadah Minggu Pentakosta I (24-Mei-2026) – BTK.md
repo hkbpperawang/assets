@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu Pentakosta I (24-Mei-2026) – BTK"
 taxonomy:
     category:
-        - b-batak
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-batak
 ---
 
 pdf_url="https://drive.google.com/open?id=1ankcKIzEOZRqqgb5LHsUYjmO6mpqGXGr&usp=drive_fs"

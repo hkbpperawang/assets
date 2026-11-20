@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – BTK"
 taxonomy:
     category:
-        - b-batak
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-batak
 ---
 
 pdf_url="https://drive.google.com/open?id=1aTYZtWiO7U9mMexfb29_waKF1oK4huA_&usp=drive_fs"

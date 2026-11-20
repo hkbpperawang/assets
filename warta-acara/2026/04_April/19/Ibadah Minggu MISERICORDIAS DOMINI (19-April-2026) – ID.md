@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1qareNi7mnZ1uHwnSiO35kaQ2aiUbMXja&usp=drive_fs"

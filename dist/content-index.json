@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-11-18T06:46:17.729Z",
+  "generatedAt": "2026-11-20T00:36:30.750Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 109,
   "artikelFolders": [
     "bacaan",
     "berita",
     "cerita-pendek",
+    "galeri",
     "informasi",
     "karya-tulis",
     "kegiatan",
+    "lainnya",
     "pelayanan",
     "puisi",
     "renungan",
@@ -59,6 +61,7 @@
     "2026/10_Oktober/31",
     "2026/11_November",
     "2026/11_November/08",
+    "2026/11_November/15",
     "2026/11_November/19-PenutupanPartangianganWeyk",
     "2026/12_Desember"
   ],
@@ -408,21 +411,21 @@
         {
           "slug": "ibadah-minggu",
           "name": "Ibadah Minggu",
-          "parentSlug": "warta-acara",
+          "parentSlug": null,
           "createsFolder": false,
           "wpId": 17
         },
         {
           "slug": "b-indonesia",
           "name": "B. Indonesia",
-          "parentSlug": "warta-acara",
+          "parentSlug": "ibadah-minggu",
           "createsFolder": false,
           "wpId": 18
         },
         {
           "slug": "b-batak",
           "name": "B. Batak",
-          "parentSlug": "warta-acara",
+          "parentSlug": "ibadah-minggu",
           "createsFolder": false,
           "wpId": 19
         },
@@ -704,10 +707,9 @@
         "hkbp-perawang"
       ],
       "author": "Tim Multimedia",
-      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/images/covers/2026/jempol-yang-membangun-gdg815cd0f.webp",
       "rawImage": "https://cdn.hkbpperawang.org/assets/images/covers/2026/jempol-yang-membangun-gdg815cd0f.webp",
-      "excerpt": "Efesus 4:29 \"Janganlah ada perkataan kotor keluar dari mulutmu, tetapi pakailah perkataan yang baik untuk membangun, di mana perlu, supaya mereka yang mendengarnya, beroleh kasih karunia.\"",
+      "excerpt": "Renungan Efesus 4:29 tentang menjaga kata-kata di media sosial. Gunakan jempol Anda untuk membangun dan membawa kasih karunia, bukan meruntuhkan.",
       "seoTitle": "Jempol yang Membangun: Bijak Bermedia Sosial | HKBP Perawang",
       "seoDesc": "Renungan Efesus 4:29 tentang menjaga kata-kata di media sosial. Gunakan jempol Anda untuk membangun dan membawa kasih karunia, bukan meruntuhkan.",
       "seoTarget": "bijak bermedia sosial menurut Alkitab",
@@ -748,10 +750,9 @@
         "almanak-hkbp"
       ],
       "author": "HKBP Perawang",
-      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/images/nama-nama-minggu-dan-pesta-peringatan-di-gereja-hkbp-opd3c1b885.webp",
       "rawImage": "https://cdn.hkbpperawang.org/assets/images/nama-nama-minggu-dan-pesta-peringatan-di-gereja-hkbp-opd3c1b885.webp",
-      "excerpt": "Formula liturgi setiap Minggu harus disesuaikan dengan tahun gerejawi. HKBP memiliki kalender gerejawi yang digunakan bersama, yaitu Almanak HKBP.",
+      "excerpt": "Lihat daftar nama-nama minggu dan pesta peringatan di Gereja HKBP beserta keterangan dan nas Alkitab",
       "seoTitle": "Nama-Nama Minggu dan Pesta Peringatan di Gereja HKBP",
       "seoDesc": "Lihat daftar nama-nama minggu dan pesta peringatan di Gereja HKBP beserta keterangan dan nas Alkitab",
       "seoTarget": "Gereja HKBP, nama-nama minggu, pesta peringatan, kalender gerejawi, Almanak HKBP",
@@ -792,10 +793,9 @@
         "hidup-yang-menghasilkan-buah"
       ],
       "author": "HKBP Perawang",
-      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/a3/7d/dc/a37ddce6a277833b33d99082f41caf8b.jpg",
       "rawImage": "https://i.pinimg.com/1200x/a3/7d/dc/a37ddce6a277833b33d99082f41caf8b.jpg",
-      "excerpt": "Jemaat yang dikasihi Tuhan, ada ironi dalam kehidupan orang percaya: kita begitu bersemangat meminta Tuhan menambahkan berkat, tetapi sering kali tidak sungguh-sungguh mengerjakan apa yang sudah dipercayakan-Nya. Kita me",
+      "excerpt": "Jelajahi makna kehidupan setia sebagai hamba yang dipercayakan Tuhan, dan bagaimana itu dapat mengubah hidup kita.",
       "seoTitle": "Hamba Yang Baik Dan Setia (Lukas 19:11-27) - Gereja HKBP…",
       "seoDesc": "Jelajahi makna kehidupan setia sebagai hamba yang dipercayakan Tuhan, dan bagaimana itu dapat mengubah hidup kita.",
       "seoTarget": "hamba setia, kepercayaan, kesalehan, iman, hidup yang menghasilkan buah",
@@ -1012,19 +1012,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxiii-setelah-trinitatis-08-nov-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "Tim Redaksi HKBP Perawang",
@@ -1057,19 +1057,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxiii-setelah-trinitatis-08-nov-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "Tim Redaksi HKBP Perawang",
@@ -1213,7 +1213,7 @@
       "slug": "ibadah-minggu-xxii-setelah-trinitatis-01-nov-2026-btk",
       "title": "Ibadah Minggu XXII Dung Trinitatis (01-Nov-2026) – BTK",
       "date": "2026-10-31T17:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.583Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-10-31T17:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1223,19 +1223,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxii-setelah-trinitatis-01-nov-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1258,7 +1258,7 @@
       "slug": "ibadah-minggu-xxii-setelah-trinitatis-01-nov-2026-id",
       "title": "Ibadah Minggu XXII Setelah Trinitatis (01-Nov-2026) – ID",
       "date": "2026-10-31T17:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.584Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-10-31T17:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1268,19 +1268,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxii-setelah-trinitatis-01-nov-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1345,7 +1345,7 @@
       "slug": "ibadah-minggu-xxi-dung-trinitatis-25-okt-2026-btk",
       "title": "Ibadah Minggu XXI Dung Trinitatis (25-Okt-2026) – BTK",
       "date": "2026-10-25T03:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.582Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-10-25T03:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1355,19 +1355,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxi-dung-trinitatis-25-okt-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1390,7 +1390,7 @@
       "slug": "ibadah-minggu-xxi-setelah-trinitatis-25-okt-2026-id",
       "title": "Ibadah Minggu XXI Setelah Trinitatis (25-Okt-2026) – ID",
       "date": "2026-10-25T03:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.582Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-10-25T03:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1400,19 +1400,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxi-setelah-trinitatis-25-okt-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1477,7 +1477,7 @@
       "slug": "ibadah-minggu-xx-dung-trinitatis-18-okt-2026-btk",
       "title": "Ibadah Minggu XX Dung Trinitatis (18-Okt-2026) – BTK",
       "date": "2026-10-18T01:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.580Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-10-18T01:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1487,19 +1487,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xx-dung-trinitatis-18-okt-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1522,7 +1522,7 @@
       "slug": "ibadah-minggu-xx-dung-trinitatis-18-okt-2026-id",
       "title": "Ibadah Minggu XX Setelah Trinitatis (18-Okt-2026) – ID",
       "date": "2026-10-18T01:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.581Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-10-18T01:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1532,19 +1532,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xx-dung-trinitatis-18-okt-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1596,7 +1596,6 @@
         "kegiatan-gereja"
       ],
       "author": "Panitia Konser Mini 2025",
-      "authorRole": "Panitia Konser Mini 2025",
       "image": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/panitia-konser-mini-2025.webp",
       "rawImage": "https://cdn.hkbpperawang.org/assets/images/Panitia+Konser+Mini+2025/panitia-konser-mini-2025.webp",
       "excerpt": "Dokumentasi kegiatan dan susunan panitia Konser Mini HKBP Perawang tahun 2025. Simak keseruan persiapan pelayanan musik gereja kami.",
@@ -1651,7 +1650,7 @@
       "slug": "ibadah-minggu-xix-dung-trinitatis-11-okt-2026-btk",
       "title": "Ibadah Minggu XIX Dung Trinitatis (11-Okt-2026) – BTK",
       "date": "2026-10-10T20:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-10-10T20:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1661,19 +1660,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xix-dung-trinitatis-11-okt-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1696,7 +1695,7 @@
       "slug": "ibadah-minggu-xix-dung-trinitatis-11-okt-2026-id",
       "title": "Ibadah Minggu XIX Setelah Trinitatis (11-Okt-2026) – ID",
       "date": "2026-10-10T20:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-10-10T20:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1706,19 +1705,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xix-dung-trinitatis-11-okt-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1741,7 +1740,7 @@
       "slug": "ibadah-minggu-xviii-setelah-trinitatis-04-okt-2026-btk",
       "title": "Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) – BTK",
       "date": "2026-10-03T16:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-10-03T16:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1751,19 +1750,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xviii-setelah-trinitatis-04-okt-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1860,7 +1859,7 @@
       "slug": "ibadah-minggu-xvii-setelah-trinitatis-27-sep-2026-btk",
       "title": "Ibadah Minggu XVII Dung Trinitatis (27-Sep-2026) – BTK",
       "date": "2026-09-27T03:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-09-27T03:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1870,19 +1869,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xvii-setelah-trinitatis-27-sep-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1905,7 +1904,7 @@
       "slug": "ibadah-minggu-xvii-setelah-trinitatis-27-sep-2026-id",
       "title": "Ibadah Minggu XVII Setelah Trinitatis (27-Sep-2026) – ID",
       "date": "2026-09-27T03:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-09-27T03:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1915,19 +1914,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xvii-setelah-trinitatis-27-sep-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -1987,7 +1986,7 @@
       "slug": "ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-btk",
       "title": "Ibadah Minggu XVI Dung Trinitatis (20-Sep-2026) – BTK",
       "date": "2026-09-19T22:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-09-19T22:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -1997,19 +1996,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2032,7 +2031,7 @@
       "slug": "ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-id",
       "title": "Ibadah Minggu XVI Setelah Trinitatis (20-Sep-2026) – ID",
       "date": "2026-09-19T22:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-09-19T22:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -2042,19 +2041,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xvi-setelah-trinitatis-20-sep-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2120,7 +2119,7 @@
       "slug": "ibadah-minggu-xv-dung-trinitatis-13-sep-2026-btk",
       "title": "Ibadah Minggu XV Dung Trinitatis (13-Sep-2026) – BTK",
       "date": "2026-09-13T03:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-09-13T03:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -2130,19 +2129,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xv-dung-trinitatis-13-sep-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2165,7 +2164,7 @@
       "slug": "ibadah-minggu-xv-setelah-trinitatis-13-sep-2026-id",
       "title": "Ibadah Minggu XV Setelah Trinitatis (13-Sep-2026) – ID",
       "date": "2026-09-13T03:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.491Z",
       "modified": "2026-09-13T03:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -2175,19 +2174,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xv-setelah-trinitatis-13-sep-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2247,7 +2246,7 @@
       "slug": "ibadah-minggu-xiv-dung-trinitatis-06-sep-2026-btk",
       "title": "Ibadah Minggu XIV Dung Trinitatis (06-Sep-2026) – BTK",
       "date": "2026-09-06T03:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.565Z",
+      "createdAt": "2026-11-20T00:35:59.490Z",
       "modified": "2026-09-06T03:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -2257,19 +2256,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiv-dung-trinitatis-06-sep-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2292,7 +2291,7 @@
       "slug": "ibadah-minggu-xiv-setelah-trinitatis-06-sep-2026-id",
       "title": "Ibadah Minggu XIV Setelah Trinitatis (06-Sep-2026) – ID",
       "date": "2026-09-06T03:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.572Z",
+      "createdAt": "2026-11-20T00:35:59.490Z",
       "modified": "2026-09-06T03:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -2302,19 +2301,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiv-setelah-trinitatis-06-sep-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2374,7 +2373,7 @@
       "slug": "ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-btk",
       "title": "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK",
       "date": "2026-08-29T21:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.565Z",
+      "createdAt": "2026-11-20T00:35:59.490Z",
       "modified": "2026-08-29T21:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -2384,19 +2383,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2419,7 +2418,7 @@
       "slug": "ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-id",
       "title": "Ibadah Minggu XIII Setelah Trinitatis (30-Ags-2026) – ID",
       "date": "2026-08-29T21:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.565Z",
+      "createdAt": "2026-11-20T00:35:59.490Z",
       "modified": "2026-08-29T21:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -2429,19 +2428,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xiii-setelah-trinitatis-30-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2501,7 +2500,7 @@
       "slug": "ibadah-minggu-xii-setelah-trinitatis-23-ags-2026-btk",
       "title": "Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK",
       "date": "2026-08-22T21:02:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.565Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-08-22T21:02:00+07:00",
       "status": "publish",
       "featured": false,
@@ -2511,19 +2510,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xii-setelah-trinitatis-23-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2546,7 +2545,7 @@
       "slug": "ibadah-minggu-xii-setelah-trinitatis-23-ags-2026-id",
       "title": "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID",
       "date": "2026-08-22T21:01:00+07:00",
-      "createdAt": "2026-11-09T15:02:46.565Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-08-22T21:01:00+07:00",
       "status": "publish",
       "featured": false,
@@ -2556,19 +2555,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xii-setelah-trinitatis-23-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2628,7 +2627,7 @@
       "slug": "ibadah-minggu-xi-setelah-trinitatis-16-ags-2026-btk",
       "title": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
       "date": "2026-08-15T20:02:01+07:00",
-      "createdAt": "2026-11-09T15:02:46.564Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-08-15T20:02:01+07:00",
       "status": "publish",
       "featured": false,
@@ -2638,19 +2637,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xi-setelah-trinitatis-16-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2673,7 +2672,7 @@
       "slug": "ibadah-minggu-xi-setelah-trinitatis-16-ags-2026-id",
       "title": "Ibadah Minggu XI Setelah Trinitatis (16-Ags-2026) – ID",
       "date": "2026-08-15T20:01:01+07:00",
-      "createdAt": "2026-11-09T15:02:46.565Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-08-15T20:01:01+07:00",
       "status": "publish",
       "featured": false,
@@ -2683,19 +2682,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xi-setelah-trinitatis-16-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2718,7 +2717,7 @@
       "slug": "ibadah-minggu-x-setelah-trinitatis-09-ags-2026-btk",
       "title": "Ibadah Minggu X Dung Trinitatis (09-Ags-2026) – BTK",
       "date": "2026-08-09T03:31:01+07:00",
-      "createdAt": "2026-11-09T15:02:46.561Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-08-09T03:31:01+07:00",
       "status": "publish",
       "featured": false,
@@ -2728,19 +2727,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-x-setelah-trinitatis-09-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2763,7 +2762,7 @@
       "slug": "ibadah-minggu-x-setelah-trinitatis-09-ags-2026-id",
       "title": "Ibadah Minggu X Setelah Trinitatis (09-Ags-2026) – ID",
       "date": "2026-08-09T03:30:01+07:00",
-      "createdAt": "2026-11-09T15:02:46.562Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-08-09T03:30:01+07:00",
       "status": "publish",
       "featured": false,
@@ -2773,19 +2772,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-x-setelah-trinitatis-09-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2845,7 +2844,7 @@
       "slug": "ibadah-minggu-ix-dung-trinitatis-02-ags-2026-btk",
       "title": "Ibadah Minggu IX Dung Trinitatis (02-Ags-2026) – BTK",
       "date": "2026-08-01T20:32:01+07:00",
-      "createdAt": "2026-11-09T15:02:46.556Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-08-01T20:32:01+07:00",
       "status": "publish",
       "featured": false,
@@ -2855,19 +2854,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-ix-dung-trinitatis-02-ags-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -2890,7 +2889,7 @@
       "slug": "ibadah-minggu-ix-setelah-trinitatis-02-ags-2026-id",
       "title": "Ibadah Minggu IX Setelah Trinitatis (02-Ags-2026) – ID",
       "date": "2026-08-01T20:31:01+07:00",
-      "createdAt": "2026-11-09T15:02:46.557Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-08-01T20:31:01+07:00",
       "status": "publish",
       "featured": false,
@@ -2900,19 +2899,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-ix-setelah-trinitatis-02-ags-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3009,7 +3008,7 @@
       "slug": "ibadah-minggu-viii-setelah-trinitatis-26-jul-2026-id",
       "title": "Ibadah Minggu & Pesta Puncak Parheheon Sekolah Minggu (26-Jul-2026)",
       "date": "2026-07-25T15:32:01+07:00",
-      "createdAt": "2026-11-09T15:02:46.554Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-07-25T15:32:01+07:00",
       "status": "publish",
       "featured": false,
@@ -3019,19 +3018,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-viii-setelah-trinitatis-26-jul-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3054,7 +3053,7 @@
       "slug": "ibadah-minggu-viii-setelah-trinitatis-26-jul-2026-btk",
       "title": "Ibadah Minggu VIII Dung Trinitatis (26-Jul-2026) – BTK",
       "date": "2026-07-25T15:31:01+07:00",
-      "createdAt": "2026-11-09T15:02:46.555Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-07-25T15:31:01+07:00",
       "status": "publish",
       "featured": false,
@@ -3064,19 +3063,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-viii-setelah-trinitatis-26-jul-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3099,7 +3098,7 @@
       "slug": "ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-btk",
       "title": "Ibadah Minggu VII Dung Trinitatis (19-Jul-2026) – BTK",
       "date": "2026-07-18T19:31:01+07:00",
-      "createdAt": "2026-11-09T15:02:46.552Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-07-18T19:31:01+07:00",
       "status": "publish",
       "featured": false,
@@ -3109,19 +3108,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3144,7 +3143,7 @@
       "slug": "ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-id",
       "title": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
       "date": "2026-07-18T19:30:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.553Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-07-18T19:30:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3154,19 +3153,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-vii-setelah-trinitatis-19-jul-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3226,7 +3225,7 @@
       "slug": "ibadah-minggu-vi-dung-trinitatis-12-jul-2026-btk",
       "title": "Ibadah Minggu VI Dung Trinitatis (12-Jul-2026) – BTK",
       "date": "2026-07-11T19:31:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.550Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-07-11T19:31:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3236,19 +3235,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-vi-dung-trinitatis-12-jul-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3271,7 +3270,7 @@
       "slug": "ibadah-minggu-vi-setelah-trinitatis-12-jul-2026-id",
       "title": "Ibadah Minggu VII Setelah Trinitatis (19-Jul-2026) – ID",
       "date": "2026-07-11T19:30:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.551Z",
+      "createdAt": "2026-11-20T00:35:59.484Z",
       "modified": "2026-07-11T19:30:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3281,19 +3280,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-vi-setelah-trinitatis-12-jul-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3353,7 +3352,7 @@
       "slug": "ibadah-minggu-v-dung-trinitatis-05-jul-2026-btk",
       "title": "Ibadah Minggu V Dung Trinitatis (05-Jul-2026) – BTK",
       "date": "2026-07-04T19:31:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.547Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-07-04T19:31:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3363,19 +3362,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-v-dung-trinitatis-05-jul-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3398,7 +3397,7 @@
       "slug": "ibadah-minggu-v-setelah-trinitatis-05-jul-2026-id",
       "title": "Ibadah Minggu V Setelah Trinitatis (05-Jun-2026) – ID",
       "date": "2026-07-04T19:30:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.548Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-07-04T19:30:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3408,19 +3407,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-v-setelah-trinitatis-05-jul-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3480,7 +3479,7 @@
       "slug": "ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-btk",
       "title": "Ibadah Minggu IV Dung Trinitatis (28-Jun-2026) – BTK",
       "date": "2026-06-27T19:31:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.542Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-06-27T19:31:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3490,19 +3489,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3525,7 +3524,7 @@
       "slug": "ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-id",
       "title": "Ibadah Minggu IV Setelah Trinitatis (28-Jun-2026) – ID",
       "date": "2026-06-27T19:30:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.542Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-06-27T19:30:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3535,19 +3534,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-iv-setelah-trinitatis-28-jun-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3590,10 +3589,9 @@
       ],
       "tags": [],
       "author": "HKBP Perawang",
-      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/5a/c1/21/5ac121ab2910b7d1ba53219eb33e47bb.jpg",
       "rawImage": "https://i.pinimg.com/1200x/5a/c1/21/5ac121ab2910b7d1ba53219eb33e47bb.jpg",
-      "excerpt": "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 – 7)",
+      "excerpt": "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 – 7) Setiap manusia tentu membutuhkan kasih. Namun kita perlu menyadari …",
       "seoTitle": "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 – 7)",
       "seoDesc": "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 – 7) Setiap manusia tentu membutuhkan kasih. Namun kita perlu menyadari …",
       "seoTarget": "Kasih yang Mengembirakan dan Menguatkan (Filemon 1 : 4 – 7)",
@@ -3608,7 +3606,7 @@
       "slug": "ibadah-minggu-iii-setelah-trinitatis-21-jun-2026-btk",
       "title": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – BTK",
       "date": "2026-06-20T19:31:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.542Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-06-20T19:31:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3618,19 +3616,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-iii-setelah-trinitatis-21-jun-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3653,7 +3651,7 @@
       "slug": "ibadah-minggu-iii-setelah-trinitatis-21-jun-2026-id",
       "title": "Ibadah Minggu III Dung Trinitatis (21-Jun-2026) – ID",
       "date": "2026-06-20T19:31:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.542Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-06-20T19:31:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3663,19 +3661,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-iii-setelah-trinitatis-21-jun-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3772,7 +3770,7 @@
       "slug": "ibadah-minggu-ii-setelah-trinitatis-14-jun-2026-btk",
       "title": "Ibadah Minggu II Dung Trinitatis (14-Jun-2026) – BTK",
       "date": "2026-06-13T19:30:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.540Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-06-13T19:30:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3782,19 +3780,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-ii-setelah-trinitatis-14-jun-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3817,7 +3815,7 @@
       "slug": "ibadah-minggu-ii-setelah-trinitatis-14-jun-2026-id",
       "title": "Ibadah Minggu II Setelah Trinitatis (14-Jun-2026) – ID",
       "date": "2026-06-13T19:29:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.540Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-06-13T19:29:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3827,19 +3825,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-ii-setelah-trinitatis-14-jun-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3862,7 +3860,7 @@
       "slug": "ibadah-minggu-i-setelah-trinitatis-07-jun-2026-btk",
       "title": "Ibadah Minggu I Dung Trinitatis (07-Jun-2026) – BTK",
       "date": "2026-06-06T19:31:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.538Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-06-06T19:31:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3872,19 +3870,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-i-setelah-trinitatis-07-jun-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -3907,7 +3905,7 @@
       "slug": "ibadah-minggu-i-setelah-trinitatis-07-jun-2026-id",
       "title": "Ibadah Minggu I Setelah Trinitatis (07-Jun-2026) – ID",
       "date": "2026-06-06T19:29:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.540Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-06-06T19:29:59+07:00",
       "status": "publish",
       "featured": false,
@@ -3917,19 +3915,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-i-setelah-trinitatis-07-jun-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4009,10 +4007,9 @@
       ],
       "tags": [],
       "author": "HKBP Perawang",
-      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "image": "https://i.pinimg.com/1200x/18/28/46/18284669f7839acef6bdc7ba961ff196.jpg",
       "rawImage": "https://i.pinimg.com/1200x/18/28/46/18284669f7839acef6bdc7ba961ff196.jpg",
-      "excerpt": "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20)",
+      "excerpt": "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20) Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? …",
       "seoTitle": "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20)",
       "seoDesc": "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20) Kita ingin mengikuti Tuhan, tetapi hati penuh pertanyaan. Kenapa demikian? …",
       "seoTarget": "Menjadi Saksi Allah Tritunggal (Matius 28 : 16 – 20)",
@@ -4037,19 +4034,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-trinitatis-31-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "Tim Redaksi HKBP Perawang",
@@ -4082,19 +4079,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-trinitatis-31-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "Tim Redaksi HKBP Perawang",
@@ -4154,7 +4151,7 @@
       "slug": "ibadah-minggu-pentakosta-i-24-mei-2026-btk",
       "title": "Ibadah Minggu Pentakosta I (24-Mei-2026) – BTK",
       "date": "2026-05-23T21:10:42+07:00",
-      "createdAt": "2026-11-09T15:02:46.533Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-05-23T21:10:42+07:00",
       "status": "publish",
       "featured": false,
@@ -4164,19 +4161,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-pentakosta-i-24-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4199,7 +4196,7 @@
       "slug": "ibadah-minggu-pentakosta-i-24-mei-2026-id",
       "title": "Ibadah Minggu Pentakosta I (24-Mei-2026) – ID",
       "date": "2026-05-23T21:10:12+07:00",
-      "createdAt": "2026-11-09T15:02:46.533Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-05-23T21:10:12+07:00",
       "status": "publish",
       "featured": false,
@@ -4209,19 +4206,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-pentakosta-i-24-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4449,19 +4446,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-exaudi-17-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "Tim Redaksi HKBP Perawang",
@@ -4494,19 +4491,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-exaudi-17-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "Tim Redaksi HKBP Perawang",
@@ -4566,7 +4563,7 @@
       "slug": "ibadah-minggu-rogate-10-mei-2026-btk",
       "title": "Ibadah Minggu Rogate (10-Mei-2026) – BTK",
       "date": "2026-05-10T14:32:39+07:00",
-      "createdAt": "2026-11-09T15:02:46.528Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-05-10T14:32:39+07:00",
       "status": "publish",
       "featured": false,
@@ -4576,19 +4573,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-rogate-10-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4611,7 +4608,7 @@
       "slug": "ibadah-minggu-rogate-10-mei-2026-id",
       "title": "Ibadah Minggu Rogate (10-Mei-2026) – ID",
       "date": "2026-05-10T14:31:10+07:00",
-      "createdAt": "2026-11-09T15:02:46.529Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-05-10T14:31:10+07:00",
       "status": "publish",
       "featured": false,
@@ -4621,19 +4618,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-rogate-10-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4693,7 +4690,7 @@
       "slug": "ibadah-minggu-kantate-03-mei-2026-btk",
       "title": "Ibadah Minggu Kantate (03-Mei-2026) – BTK",
       "date": "2026-05-03T02:29:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.526Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-05-03T02:29:59+07:00",
       "status": "publish",
       "featured": false,
@@ -4703,19 +4700,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-kantate-03-mei-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4738,7 +4735,7 @@
       "slug": "ibadah-minggu-kantate-03-mei-2026-id",
       "title": "Ibadah Minggu Kantate (03-Mei-2026) – ID",
       "date": "2026-05-03T02:28:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.527Z",
+      "createdAt": "2026-11-20T00:35:59.475Z",
       "modified": "2026-05-03T02:28:59+07:00",
       "status": "publish",
       "featured": false,
@@ -4748,19 +4745,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-kantate-03-mei-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4820,7 +4817,7 @@
       "slug": "ibadah-minggu-jubilate-26-april-2026-btk",
       "title": "Ibadah Minggu Jubilate (26-April-2026) – BTK",
       "date": "2026-04-26T02:29:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.523Z",
+      "createdAt": "2026-11-20T00:35:59.473Z",
       "modified": "2026-04-26T02:29:59+07:00",
       "status": "publish",
       "featured": false,
@@ -4830,19 +4827,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-jubilate-26-april-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4865,7 +4862,7 @@
       "slug": "ibadah-minggu-jubilate-26-april-2026-id",
       "title": "Ibadah Minggu Jubilate (26-April-2026) – ID",
       "date": "2026-04-26T02:29:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.524Z",
+      "createdAt": "2026-11-20T00:35:59.473Z",
       "modified": "2026-04-26T02:29:59+07:00",
       "status": "publish",
       "featured": false,
@@ -4875,19 +4872,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-jubilate-26-april-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4947,7 +4944,7 @@
       "slug": "ibadah-minggu-misericordias-domini-19-april-2026-btk",
       "title": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – BTK",
       "date": "2026-04-19T02:30:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.519Z",
+      "createdAt": "2026-11-20T00:35:59.473Z",
       "modified": "2026-04-19T02:30:59+07:00",
       "status": "publish",
       "featured": false,
@@ -4957,19 +4954,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-misericordias-domini-19-april-2026-btk",
       "categorySlug": "warta-acara",
       "categories": [
-        19,
+        15,
         17,
-        15
+        19
       ],
       "categorySlugs": [
-        "b-batak",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-batak"
       ],
       "categoryNames": [
-        "B. Batak",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Batak"
       ],
       "tags": [],
       "author": "HKBP Perawang",
@@ -4992,7 +4989,7 @@
       "slug": "ibadah-minggu-misericordias-domini-19-april-2026-id",
       "title": "Ibadah Minggu MISERICORDIAS DOMINI (19-April-2026) – ID",
       "date": "2026-04-19T02:29:59+07:00",
-      "createdAt": "2026-11-09T15:02:46.520Z",
+      "createdAt": "2026-11-20T00:35:59.473Z",
       "modified": "2026-04-19T02:29:59+07:00",
       "status": "publish",
       "featured": false,
@@ -5002,19 +4999,19 @@
       "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-misericordias-domini-19-april-2026-id",
       "categorySlug": "warta-acara",
       "categories": [
-        18,
+        15,
         17,
-        15
+        18
       ],
       "categorySlugs": [
-        "b-indonesia",
+        "warta-acara",
         "ibadah-minggu",
-        "warta-acara"
+        "b-indonesia"
       ],
       "categoryNames": [
-        "B. Indonesia",
+        "Warta Acara",
         "Ibadah Minggu",
-        "Warta Acara"
+        "B. Indonesia"
       ],
       "tags": [],
       "author": "HKBP Perawang",

@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu XVIII Dung Trinitatis + Pesta Gotilon (04-Okt-2026) – BTK"
 taxonomy:
     category:
-        - b-batak
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-batak
 ---
 
 pdf_url="https://drive.google.com/open?id=13u_zI9NF3bTDM6rJUri_qzjyXatRpwd5&usp=drive_fs"

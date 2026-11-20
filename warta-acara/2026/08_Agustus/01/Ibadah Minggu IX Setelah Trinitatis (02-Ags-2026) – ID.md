@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu IX Setelah Trinitatis (02-Ags-2026) – ID"
 taxonomy:
     category:
-        - b-indonesia
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-indonesia
 ---
 
 pdf_url="https://drive.google.com/open?id=1SxysdW3Vrp0bDmHE8yTJxLqQSaaMOMYX&usp=drive_fs"

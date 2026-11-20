@@ -14,9 +14,9 @@ custom_fields:
     site_seo_desc: "Ibadah Minggu XIV Dung Trinitatis (06-Sep-2026) – BTK"
 taxonomy:
     category:
-        - b-batak
-        - ibadah-minggu
         - warta-acara
+        - ibadah-minggu
+            - b-batak
 ---
 
 pdf_url="https://drive.google.com/open?id=1ZB8xr70VJ5-hzAoJdjRQJABFuVeqN5hw&usp=drive_fs"
