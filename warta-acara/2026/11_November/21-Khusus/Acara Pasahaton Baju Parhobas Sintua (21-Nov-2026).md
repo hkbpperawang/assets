@@ -2,9 +2,10 @@
 id: 290120215
 slug: "acara-pasahaton-baju-parhobas-sintua-21-nov-2026"
 title: "Acara Pasahaton Baju Parhobas Sintua (21-Nov-2026)"
-worship_date: "2026-11-21"
+worship_date: "2026-11-21 10:00"
 post_date: "2026-11-20 13:31:00"
 created_at: "2026-11-20 13:31:00"
+modified: "2026-11-20 17:20:33"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
