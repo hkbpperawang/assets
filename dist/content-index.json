@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T13:53:01.240Z",
+  "generatedAt": "2026-11-21T13:54:28.747Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 111,
+  "totalPosts": 112,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -673,6 +673,58 @@
     "lastCategoryId": 92
   },
   "posts": [
+    {
+      "id": 840248948,
+      "slug": "ibadah-minggu-xxv-setelah-trinitatis",
+      "title": "Ibadah Minggu XXV Setelah Trinitatis",
+      "worshipDate": "2026-11-22",
+      "worshipShowDay": false,
+      "date": "2026-11-21T20:51:00+07:00",
+      "createdAt": "2026-11-21T20:54:26+07:00",
+      "modified": "2026-11-21T20:54:26+07:00",
+      "status": "publish",
+      "featured": false,
+      "format": "artikel",
+      "section": "warta",
+      "storageFolder": "2026/11_November/22",
+      "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxv-setelah-trinitatis",
+      "categorySlug": "warta-acara",
+      "categories": [
+        15,
+        17,
+        18
+      ],
+      "categorySlugs": [
+        "warta-acara",
+        "ibadah-minggu",
+        "b-indonesia"
+      ],
+      "categoryNames": [
+        "Warta Acara",
+        "Ibadah Minggu",
+        "B. Indonesia"
+      ],
+      "tags": [
+        "ibadah-minggu",
+        "hkbp-perawang",
+        "trinitatis",
+        "renungan-kristen"
+      ],
+      "author": "Tim Redaksi HKBP Perawang",
+      "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "excerpt": "Ikuti dan renungkan khotbah Ibadah Minggu XXV Setelah Trinitatis di HKBP Perawang. Temukan berkat firman Tuhan untuk menguatkan iman Anda.",
+      "seoTitle": "Ibadah Minggu XXV Setelah Trinitatis - HKBP Perawang",
+      "seoDesc": "Ikuti dan renungkan khotbah Ibadah Minggu XXV Setelah Trinitatis di HKBP Perawang. Temukan berkat firman Tuhan untuk menguatkan iman Anda.",
+      "seoTarget": "Ibadah Minggu XXV Setelah Trinitatis HKBP Perawang",
+      "pdfUrl": "https://drive.google.com/open?id=1J8tr58EmJ2iE0HUE6800DSFf-1JnC2-x&usp=drive_fs",
+      "driveId": "1J8tr58EmJ2iE0HUE6800DSFf-1JnC2-x",
+      "embeds": [
+        "https://drive.google.com/file/d/1J8tr58EmJ2iE0HUE6800DSFf-1JnC2-x/preview"
+      ],
+      "sourcePath": "warta-acara/2026/11_November/22/Ibadah Minggu XXV Setelah Trinitatis.md",
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1J8tr58EmJ2iE0HUE6800DSFf-1JnC2-x&usp=drive_fs\""
+    },
     {
       "id": 290120215,
       "slug": "acara-pasahaton-baju-parhobas-sintua-21-nov-2026",
