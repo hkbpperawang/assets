@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T13:54:28.747Z",
+  "generatedAt": "2026-11-21T13:58:23.908Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 112,
+  "totalPosts": 113,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -673,6 +673,60 @@
     "lastCategoryId": 92
   },
   "posts": [
+    {
+      "id": 809387157,
+      "slug": "ibadah-minggu-xxv-dung-trinitatis-22-11-26-btk",
+      "title": "Ibadah Minggu XXV Dung Trinitatis",
+      "worshipDate": "2026-11-22",
+      "worshipShowDay": false,
+      "date": "2026-11-21T20:55:00+07:00",
+      "createdAt": "2026-11-21T20:58:21+07:00",
+      "modified": "2026-11-21T20:58:21+07:00",
+      "status": "publish",
+      "featured": false,
+      "format": "artikel",
+      "section": "warta",
+      "storageFolder": "2026/11_November/22",
+      "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-xxv-dung-trinitatis-22-11-26-btk",
+      "categorySlug": "warta-acara",
+      "categories": [
+        15,
+        17,
+        19
+      ],
+      "categorySlugs": [
+        "warta-acara",
+        "ibadah-minggu",
+        "b-batak"
+      ],
+      "categoryNames": [
+        "Warta Acara",
+        "Ibadah Minggu",
+        "B. Batak"
+      ],
+      "tags": [
+        "ibadah-minggu",
+        "hkbp-perawang",
+        "trinitatis",
+        "renungan-kristen",
+        "dung-trinitatis",
+        "pelayanan-gereja"
+      ],
+      "author": "Tim Redaksi HKBP Perawang",
+      "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "excerpt": "Ikuti dan renungkan pelayanan Ibadah Minggu XXV Dung Trinitatis di HKBP Perawang. Temukan inspirasi firman Tuhan untuk menguatkan iman Anda.",
+      "seoTitle": "Ibadah Minggu XXV Dung Trinitatis - HKBP Perawang",
+      "seoDesc": "Ikuti dan renungkan pelayanan Ibadah Minggu XXV Dung Trinitatis di HKBP Perawang. Temukan inspirasi firman Tuhan untuk menguatkan iman Anda.",
+      "seoTarget": "Ibadah Minggu XXV Dung Trinitatis HKBP Perawang",
+      "pdfUrl": "https://drive.google.com/open?id=1KtZc5oWUV2GwUIR6NscMrI7rMRd9VFzm&usp=drive_fs",
+      "driveId": "1KtZc5oWUV2GwUIR6NscMrI7rMRd9VFzm",
+      "embeds": [
+        "https://drive.google.com/file/d/1KtZc5oWUV2GwUIR6NscMrI7rMRd9VFzm/preview"
+      ],
+      "sourcePath": "warta-acara/2026/11_November/22/Ibadah Minggu XXV Dung Trinitatis.md",
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1KtZc5oWUV2GwUIR6NscMrI7rMRd9VFzm&usp=drive_fs\""
+    },
     {
       "id": 840248948,
       "slug": "ibadah-minggu-xxv-setelah-trinitatis",
