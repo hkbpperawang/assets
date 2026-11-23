@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:20:51.876Z",
+  "generatedAt": "2026-11-23T19:49:48.695Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 116,
   "artikelFolders": [
@@ -692,7 +692,8 @@
       {
         "name": "Tim Multimedia",
         "role": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
-        "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp"
+        "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp",
+        "verified": true
       },
       {
         "name": "HKBP Perawang",
