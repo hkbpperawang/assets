@@ -341,6 +341,22 @@
       {
         "slug": "etika-media-sosial",
         "name": "etika-media-sosial"
+      },
+      {
+        "slug": "renungan-hkbp",
+        "name": "renungan-hkbp"
+      },
+      {
+        "slug": "maleaki-3",
+        "name": "maleaki-3"
+      },
+      {
+        "slug": "kesetiaan-iman",
+        "name": "kesetiaan-iman"
+      },
+      {
+        "slug": "orang-benar",
+        "name": "orang-benar"
       }
     ]
   },
@@ -546,6 +562,10 @@
       {
         "slug": "weyk-2026",
         "name": "weyk-2026"
+      },
+      {
+        "slug": "renungan-kristen",
+        "name": "renungan-kristen"
       }
     ]
   },
@@ -596,6 +616,11 @@
       "name": "Pani br. Manurung",
       "role": "Naposobulung HKBP Perawang",
       "avatar": "https://cdn.hkbpperawang.org/assets/images/blank-profile-picture-66sgf03960.webp"
+    },
+    {
+      "name": "Tim Multimedia",
+      "role": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
+      "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp"
     }
   ],
   "lastCategoryId": 92
