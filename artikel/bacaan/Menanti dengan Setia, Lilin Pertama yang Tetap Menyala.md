@@ -4,7 +4,7 @@ slug: "menanti-dengan-setia-lilin-pertama-yang-tetap-menyala"
 title: "Menanti dengan Setia: Lilin Pertama yang Tetap Menyala"
 post_date: "2026-11-23 19:36:00"
 created_at: "2026-11-23 19:43:43"
-modified: "2026-11-23 19:43:43"
+modified: "2026-11-23 19:44:55"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
@@ -27,7 +27,7 @@ taxonomy:
         - renungan
 ---
 
-> Cerita di bawah ini hanya fiktif, tanpa melibatkan, menyinggung, maupun mewakilkan pihak manapun.
+> Catatan: Cerita di bawah ini hanya fiktif, tanpa melibatkan, menyinggung, maupun mewakilkan pihak manapun.
 
 *Sebuah cerita tentang masa Advent, lilin yang dinyalakan pelan-pelan, dan janji Tuhan yang datang tepat pada waktu-Nya — tidak pernah terlalu cepat, tidak pernah terlambat.*
 
