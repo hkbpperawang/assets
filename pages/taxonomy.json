@@ -621,12 +621,15 @@
       "name": "Tim Multimedia",
       "role": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp",
+      "badge": "verified",
       "verified": true
     },
     {
       "name": "HKBP Perawang",
       "role": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
-      "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/logo-hkbp-ks0j976124.webp"
+      "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/logo-hkbp-ks0j976124.webp",
+      "badge": "verified",
+      "verified": true
     }
   ],
   "lastCategoryId": 92
