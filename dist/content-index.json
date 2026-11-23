@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T20:08:58.867Z",
+  "generatedAt": "2026-11-23T20:32:12.447Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 116,
   "artikelFolders": [
@@ -693,12 +693,15 @@
         "name": "Tim Multimedia",
         "role": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
         "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp",
+        "badge": "verified",
         "verified": true
       },
       {
         "name": "HKBP Perawang",
         "role": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
-        "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/logo-hkbp-ks0j976124.webp"
+        "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/logo-hkbp-ks0j976124.webp",
+        "badge": "verified",
+        "verified": true
       }
     ],
     "lastCategoryId": 92
