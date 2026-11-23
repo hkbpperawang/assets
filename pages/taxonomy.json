@@ -620,7 +620,8 @@
     {
       "name": "Tim Multimedia",
       "role": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
-      "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp"
+      "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp",
+      "verified": true
     },
     {
       "name": "HKBP Perawang",
