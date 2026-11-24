@@ -4,7 +4,7 @@ slug: "kumpulan-puisi-natal-terang-itu-telah-datang"
 title: "Kumpulan Puisi Natal: Terang Itu Telah Datang"
 post_date: "2026-11-24 16:34:00"
 created_at: "2026-11-24 16:41:11"
-modified: "2026-11-24 16:41:58"
+modified: "2026-11-24 16:42:25"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
@@ -26,7 +26,7 @@ taxonomy:
         - tips
 ---
 
-*Tujuh puisi Natal ini cocok untuk dibacakan di ibadah, perayaan Natal sekolah minggu, naposo, keluarga, maupun lingkungan. Silakan dipakai, disesuaikan, atau dijadikan inspirasi untuk menulis puisi Natal Anda sendiri.*
+*Tujuh puisi Natal ini cocok untuk dibacakan di ibadah, perayaan Natal sekolah minggu, naposo, keluarga, maupun lingkungan. Silakan dipakai, disesuaikan, atau dijadikan inspirasi untuk menulis puisi Natal.*
 
 > "Jangan takut, sebab sesungguhnya aku memberitakan kepadamu kesukaan besar untuk seluruh bangsa: Hari ini telah lahir bagimu Juruselamat, yaitu Kristus, Tuhan, di kota Daud."
 > **— Lukas 2:10-11**
