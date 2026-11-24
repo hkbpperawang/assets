@@ -364,6 +364,30 @@
       {
         "slug": "orang-benar",
         "name": "orang-benar"
+      },
+      {
+        "slug": "jouma",
+        "name": "jouma"
+      },
+      {
+        "slug": "multimedia",
+        "name": "multimedia"
+      },
+      {
+        "slug": "proyektor",
+        "name": "proyektor"
+      },
+      {
+        "slug": "pelayanan",
+        "name": "pelayanan"
+      },
+      {
+        "slug": "jouma-hkbp",
+        "name": "jouma-hkbp"
+      },
+      {
+        "slug": "seksi-ama",
+        "name": "seksi-ama"
       }
     ]
   },
@@ -638,6 +662,11 @@
       "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/logo-hkbp-ks0j976124.webp",
       "badge": "verified",
       "verified": true
+    },
+    {
+      "name": "NHKBP Perawang",
+      "role": "Naposobulung HKBP Perawang",
+      "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/ibadah-padang-naposobulung-hkbp-perawang-2023-pslo4957aa.webp"
     }
   ],
   "lastCategoryId": 93
