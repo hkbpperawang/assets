@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:47:59.225Z",
+  "generatedAt": "2026-11-24T10:13:01.210Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 117,
   "artikelFolders": [
@@ -12,6 +12,7 @@
     "kegiatan",
     "lainnya",
     "pelayanan",
+    "podcast",
     "puisi",
     "renungan",
     "tips",
@@ -219,6 +220,13 @@
           "parentSlug": null,
           "createsFolder": false,
           "wpId": 89
+        },
+        {
+          "slug": "podcast",
+          "name": "Podcast",
+          "parentSlug": null,
+          "createsFolder": true,
+          "wpId": 93
         }
       ],
       "tags": [
@@ -705,7 +713,7 @@
         "verified": true
       }
     ],
-    "lastCategoryId": 92
+    "lastCategoryId": 93
   },
   "posts": [
     {
