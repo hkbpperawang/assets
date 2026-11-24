@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T10:13:01.210Z",
+  "generatedAt": "2026-11-24T10:14:02.348Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 117,
+  "totalPosts": 118,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -5838,6 +5838,48 @@
       ],
       "sourcePath": "warta-acara/2025/09_September/21/Ibadah Minggu XIV Setelah Trinitatis (21-Sep-2025) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1K861PUSLqpKCmL33_KUpqNicZzJObO6F&usp=drive_fs\""
+    },
+    {
+      "id": 728229013,
+      "slug": "jouma-01-2023-tanya-tanya-seksi-ama-t-simangunsong-hkbp-perawang-ressort-perawang",
+      "title": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
+      "date": "2023-05-23T17:11:00+07:00",
+      "createdAt": "2026-11-24T17:13:59+07:00",
+      "modified": "2026-11-24T17:13:59+07:00",
+      "status": "publish",
+      "featured": false,
+      "format": "video",
+      "section": "postingan",
+      "storageFolder": "youtube",
+      "link": "https://www.hkbpperawang.org/youtube/jouma-01-2023-tanya-tanya-seksi-ama-t-simangunsong-hkbp-perawang-ressort-perawang",
+      "categorySlug": "youtube",
+      "categories": [
+        30,
+        93
+      ],
+      "categorySlugs": [
+        "youtube",
+        "podcast"
+      ],
+      "categoryNames": [
+        "YouTube",
+        "Podcast"
+      ],
+      "tags": [],
+      "author": "Tim Multimedia",
+      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
+      "authorImg": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp",
+      "image": "https://i.ytimg.com/vi/YyktZsVH5mg/hqdefault.jpg",
+      "rawImage": "https://i.ytimg.com/vi/YyktZsVH5mg/hqdefault.jpg",
+      "excerpt": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
+      "seoTitle": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
+      "seoDesc": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
+      "seoTarget": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
+      "pdfUrl": null,
+      "driveId": null,
+      "embeds": [],
+      "sourcePath": "artikel/youtube/Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang.md",
+      "rawMarkdown": "https://www.youtube.com/watch?v=YyktZsVH5mg"
     }
   ]
 }
