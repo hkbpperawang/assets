@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T10:14:02.348Z",
+  "generatedAt": "2026-11-24T10:15:23.192Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 118,
+  "totalPosts": 119,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -5838,6 +5838,54 @@
       ],
       "sourcePath": "warta-acara/2025/09_September/21/Ibadah Minggu XIV Setelah Trinitatis (21-Sep-2025) – ID.md",
       "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1K861PUSLqpKCmL33_KUpqNicZzJObO6F&usp=drive_fs\""
+    },
+    {
+      "id": 765993501,
+      "slug": "jouma-02-2023-tanya-tanya-tim-multimedia-proyektor-revalina-br-aritonang-dony-pangaribuan",
+      "title": "Jouma 02 (2023) - Tanya-tanya Tim Multimedia Proyektor (Revalina br. Aritonang & Dony Pangaribuan)",
+      "date": "2023-10-17T17:14:00+07:00",
+      "createdAt": "2026-11-24T17:15:20+07:00",
+      "modified": "2026-11-24T17:15:20+07:00",
+      "status": "publish",
+      "featured": false,
+      "format": "video",
+      "section": "postingan",
+      "storageFolder": "podcast",
+      "link": "https://www.hkbpperawang.org/podcast/jouma-02-2023-tanya-tanya-tim-multimedia-proyektor-revalina-br-aritonang-dony-pangaribuan",
+      "categorySlug": "podcast",
+      "categories": [
+        93,
+        30
+      ],
+      "categorySlugs": [
+        "podcast",
+        "youtube"
+      ],
+      "categoryNames": [
+        "Podcast",
+        "YouTube"
+      ],
+      "tags": [
+        "jouma",
+        "multimedia",
+        "hkbp-perawang",
+        "proyektor",
+        "pelayanan"
+      ],
+      "author": "Tim Multimedia",
+      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
+      "authorImg": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp",
+      "image": "https://i.ytimg.com/vi/P-2f-uNF7rY/hqdefault.jpg",
+      "rawImage": "https://i.ytimg.com/vi/P-2f-uNF7rY/hqdefault.jpg",
+      "excerpt": "Simak diskusi seru Jouma 02 bersama Revalina br. Aritonang & Dony Pangaribuan mengenai peran tim multimedia proyektor di HKBP Perawang.",
+      "seoTitle": "Jouma 02: Tanya Jawab Tim Multimedia Proyektor HKBP",
+      "seoDesc": "Simak diskusi seru Jouma 02 bersama Revalina br. Aritonang & Dony Pangaribuan mengenai peran tim multimedia proyektor di HKBP Perawang.",
+      "seoTarget": "Tim Multimedia Proyektor HKBP",
+      "pdfUrl": null,
+      "driveId": null,
+      "embeds": [],
+      "sourcePath": "artikel/podcast/Jouma 02 (2023) - Tanya-tanya Tim Multimedia Proyektor (Revalina br. Aritonang & Dony Pangaribuan).md",
+      "rawMarkdown": "https://www.youtube.com/watch?v=P-2f-uNF7rY"
     },
     {
       "id": 728229013,
