@@ -388,6 +388,18 @@
       {
         "slug": "seksi-ama",
         "name": "seksi-ama"
+      },
+      {
+        "slug": "naposobulung",
+        "name": "naposobulung"
+      },
+      {
+        "slug": "ibadah-padang",
+        "name": "ibadah-padang"
+      },
+      {
+        "slug": "kegiatan-pemuda",
+        "name": "kegiatan-pemuda"
       }
     ]
   },
@@ -666,7 +678,9 @@
     {
       "name": "NHKBP Perawang",
       "role": "Naposobulung HKBP Perawang",
-      "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/ibadah-padang-naposobulung-hkbp-perawang-2023-pslo4957aa.webp"
+      "avatar": "https://cdn.hkbpperawang.org/assets/images/logo/ibadah-padang-naposobulung-hkbp-perawang-2023-pslo4957aa.webp",
+      "badge": "verified",
+      "verified": true
     }
   ],
   "lastCategoryId": 93
