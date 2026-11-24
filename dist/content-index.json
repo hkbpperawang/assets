@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:15:23.192Z",
+  "generatedAt": "2026-11-24T10:16:35.520Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 119,
   "artikelFolders": [
@@ -5893,7 +5893,7 @@
       "title": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
       "date": "2023-05-23T17:11:00+07:00",
       "createdAt": "2026-11-24T17:13:59+07:00",
-      "modified": "2026-11-24T17:13:59+07:00",
+      "modified": "2026-11-24T17:16:32+07:00",
       "status": "publish",
       "featured": false,
       "format": "video",
@@ -5913,16 +5913,21 @@
         "YouTube",
         "Podcast"
       ],
-      "tags": [],
+      "tags": [
+        "hkbp-perawang",
+        "jouma-hkbp",
+        "seksi-ama",
+        "ressort-perawang"
+      ],
       "author": "Tim Multimedia",
       "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "authorImg": "https://cdn.hkbpperawang.org/assets/images/logo/pp-mulmed-2-bb269ac391.webp",
       "image": "https://i.ytimg.com/vi/YyktZsVH5mg/hqdefault.jpg",
       "rawImage": "https://i.ytimg.com/vi/YyktZsVH5mg/hqdefault.jpg",
-      "excerpt": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
-      "seoTitle": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
-      "seoDesc": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
-      "seoTarget": "Jouma 01 (2023) - Tanya-tanya Seksi Ama (T. Simangunsong) HKBP Perawang Ressort Perawang",
+      "excerpt": "Simak video Jouma 01 (2023) sesi Tanya-tanya Seksi Ama oleh T. Simangunsong di HKBP Perawang Ressort Perawang. Klik untuk menonton selengkapnya.",
+      "seoTitle": "Jouma 01 (2023) - Tanya-tanya Seksi Ama | HKBP Perawang",
+      "seoDesc": "Simak video Jouma 01 (2023) sesi Tanya-tanya Seksi Ama oleh T. Simangunsong di HKBP Perawang Ressort Perawang. Klik untuk menonton selengkapnya.",
+      "seoTarget": "Jouma 01 HKBP Perawang",
       "pdfUrl": null,
       "driveId": null,
       "embeds": [],
