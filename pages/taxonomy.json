@@ -147,6 +147,13 @@
         "parentSlug": null,
         "createsFolder": false,
         "wpId": 89
+      },
+      {
+        "slug": "podcast",
+        "name": "Podcast",
+        "parentSlug": null,
+        "createsFolder": true,
+        "wpId": 93
       }
     ],
     "tags": [
@@ -633,5 +640,5 @@
       "verified": true
     }
   ],
-  "lastCategoryId": 92
+  "lastCategoryId": 93
 }
