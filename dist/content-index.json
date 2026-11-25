@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T18:57:13.439Z",
+  "generatedAt": "2026-11-25T20:52:04.572Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 121,
   "artikelFolders": [
@@ -473,6 +473,10 @@
         {
           "slug": "kegiatan-pemuda",
           "name": "kegiatan-pemuda"
+        },
+        {
+          "slug": "bersyukur",
+          "name": "bersyukur"
         }
       ]
     },
