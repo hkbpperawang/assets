@@ -4,7 +4,7 @@ slug: "rumah-yang-dibuka"
 title: "Rumah yang Dibuka"
 post_date: "2026-11-28 00:54:00"
 created_at: "2026-11-28 00:59:34"
-modified: "2026-11-28 01:01:32"
+modified: "2026-11-28 01:01:55"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
@@ -89,7 +89,7 @@ Sediakan waktu yang tenang setiap hari selama Adven — sepuluh menit membaca fi
 
 ## Sebuah Janji untuk Rumah yang Terbuka
 
-Marta tidak tahu apakah Nadia akan betah di kamarnya yang kecil. Tetapi ia tahu, ketika malam tiba dan lampu kamar itu menyala, rumahnya terasa lebih hidup. Ada orang yang berdoa di dalamnya, ada orang yang tidur nyenyak di dalamnya. Rumah yang tadinya menyimpan koper tua, kini menyimpan seorang tamu.
+Yuli tidak tahu apakah Nadia akan betah di kamarnya yang kecil. Tetapi ia tahu, ketika malam tiba dan lampu kamar itu menyala, rumahnya terasa lebih hidup. Ada orang yang berdoa di dalamnya, ada orang yang tidur nyenyak di dalamnya. Rumah yang tadinya menyimpan koper tua, kini menyimpan seorang tamu.
 
 Dan ada janji yang lebih besar lagi bagi setiap rumah yang mau membuka pintunya — janji dari Tuhan Yesus sendiri:
 
