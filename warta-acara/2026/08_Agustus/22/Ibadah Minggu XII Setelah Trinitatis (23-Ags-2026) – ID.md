@@ -4,12 +4,15 @@ slug: "ibadah-minggu-xii-setelah-trinitatis-23-ags-2026-id"
 title: "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID"
 worship_date: "2026-08-23"
 post_date: "2026-08-22 21:01:00"
+created_at: "2026-08-22 21:01:00"
+modified: "2026-11-28 12:53:01"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
-author: "HKBP Perawang"
+format: "artikel"
 custom_fields:
     featured_image_url: "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp"
+    post_format: "artikel"
     seo_target: "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID"
     site_seo_title: "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID"
     site_seo_desc: "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID"
@@ -20,4 +23,4 @@ taxonomy:
             - b-indonesia
 ---
 
-pdf_url="https://drive.google.com/open?id=1KHzpFh4UY1KYGTwBOzQa-QD3jiTc9WRN&usp=drive_fs"
+pdf_url="https://drive.google.com/open?id=1Z0dgBq6OszAG1w-tkSBlZhZX_mWAaNK0&usp=drive_fs"
