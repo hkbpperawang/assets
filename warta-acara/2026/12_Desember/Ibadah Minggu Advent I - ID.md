@@ -5,7 +5,7 @@ title: "Ibadah Minggu Advent I - ID"
 worship_date: "2026-11-29"
 post_date: "2026-11-28 22:08:00"
 created_at: "2026-11-28 22:08:47"
-modified: "2026-11-28 22:10:38"
+modified: "2026-11-28 22:12:05"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
@@ -20,7 +20,7 @@ taxonomy:
     category:
         - warta-acara
         - ibadah-minggu
-            - b-batak
+            - b-indonesia
     post_tag:
         - ibadah
         - advent
