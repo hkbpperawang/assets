@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T15:12:07.839Z",
+  "generatedAt": "2026-11-28T15:16:37.208Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 125,
   "artikelFolders": [
@@ -768,9 +768,10 @@
       "slug": "ibadah-minggu-advent-i-btk",
       "title": "Ibadah Minggu Advent I - BTK",
       "worshipDate": "2026-11-29",
+      "worshipShowDay": false,
       "date": "2026-11-28T22:10:00+07:00",
       "createdAt": "2026-11-28T22:11:40+07:00",
-      "modified": "2026-11-28T22:11:40+07:00",
+      "modified": "2026-11-28T22:16:34+07:00",
       "status": "publish",
       "featured": false,
       "format": "artikel",
