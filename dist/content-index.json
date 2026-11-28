@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:48:34.641Z",
+  "generatedAt": "2026-11-28T05:50:57.584Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 123,
   "artikelFolders": [
@@ -3036,7 +3036,7 @@
       "worshipDate": "2026-08-30",
       "date": "2026-08-29T21:02:00+07:00",
       "createdAt": "2026-08-29T21:02:00+07:00",
-      "modified": "2026-08-29T21:02:00+07:00",
+      "modified": "2026-11-28T12:50:54+07:00",
       "status": "publish",
       "featured": false,
       "format": "artikel",
@@ -3060,20 +3060,21 @@
         "B. Batak"
       ],
       "tags": [],
-      "author": "HKBP Perawang",
+      "author": "Tim Redaksi HKBP Perawang",
+      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK",
       "seoTitle": "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK",
       "seoDesc": "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK",
       "seoTarget": "Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK",
-      "pdfUrl": "https://drive.google.com/open?id=1gBrotgXiDcDzWmNPjxtlM7NsHbIgijK6&usp=drive_fs",
-      "driveId": "1gBrotgXiDcDzWmNPjxtlM7NsHbIgijK6",
+      "pdfUrl": "https://drive.google.com/open?id=1j7Zs7ZXe3jgSgfwkR91G-cD6lcQe9JLt&usp=drive_fs",
+      "driveId": "1j7Zs7ZXe3jgSgfwkR91G-cD6lcQe9JLt",
       "embeds": [
-        "https://drive.google.com/file/d/1gBrotgXiDcDzWmNPjxtlM7NsHbIgijK6/preview"
+        "https://drive.google.com/file/d/1j7Zs7ZXe3jgSgfwkR91G-cD6lcQe9JLt/preview"
       ],
       "sourcePath": "warta-acara/2026/08_Agustus/29/Ibadah Minggu XIII Dung Trinitatis (30-Ags-2026) – BTK.md",
-      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1gBrotgXiDcDzWmNPjxtlM7NsHbIgijK6&usp=drive_fs\""
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1j7Zs7ZXe3jgSgfwkR91G-cD6lcQe9JLt&usp=drive_fs\""
     },
     {
       "id": 1900,
