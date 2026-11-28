@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:52:13.664Z",
+  "generatedAt": "2026-11-28T05:53:03.669Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 123,
   "artikelFolders": [
@@ -3215,7 +3215,7 @@
       "worshipDate": "2026-08-23",
       "date": "2026-08-22T21:01:00+07:00",
       "createdAt": "2026-08-22T21:01:00+07:00",
-      "modified": "2026-08-22T21:01:00+07:00",
+      "modified": "2026-11-28T12:53:01+07:00",
       "status": "publish",
       "featured": false,
       "format": "artikel",
@@ -3239,20 +3239,21 @@
         "B. Indonesia"
       ],
       "tags": [],
-      "author": "HKBP Perawang",
+      "author": "Tim Redaksi HKBP Perawang",
+      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID",
       "seoTitle": "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID",
       "seoDesc": "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID",
       "seoTarget": "Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID",
-      "pdfUrl": "https://drive.google.com/open?id=1KHzpFh4UY1KYGTwBOzQa-QD3jiTc9WRN&usp=drive_fs",
-      "driveId": "1KHzpFh4UY1KYGTwBOzQa-QD3jiTc9WRN",
+      "pdfUrl": "https://drive.google.com/open?id=1Z0dgBq6OszAG1w-tkSBlZhZX_mWAaNK0&usp=drive_fs",
+      "driveId": "1Z0dgBq6OszAG1w-tkSBlZhZX_mWAaNK0",
       "embeds": [
-        "https://drive.google.com/file/d/1KHzpFh4UY1KYGTwBOzQa-QD3jiTc9WRN/preview"
+        "https://drive.google.com/file/d/1Z0dgBq6OszAG1w-tkSBlZhZX_mWAaNK0/preview"
       ],
       "sourcePath": "warta-acara/2026/08_Agustus/22/Ibadah Minggu XII Setelah Trinitatis (23-Ags-2026) – ID.md",
-      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1KHzpFh4UY1KYGTwBOzQa-QD3jiTc9WRN&usp=drive_fs\""
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1Z0dgBq6OszAG1w-tkSBlZhZX_mWAaNK0&usp=drive_fs\""
     },
     {
       "id": 1891,
