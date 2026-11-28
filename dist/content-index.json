@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:53:03.669Z",
+  "generatedAt": "2026-11-28T05:53:59.280Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 123,
   "artikelFolders": [
@@ -3298,9 +3298,9 @@
       "slug": "ibadah-minggu-xi-setelah-trinitatis-16-ags-2026-btk",
       "title": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
       "worshipDate": "2026-08-16",
-      "date": "2026-08-15T20:02:01+07:00",
+      "date": "2026-08-15T20:02:00+07:00",
       "createdAt": "2026-08-15T20:02:01+07:00",
-      "modified": "2026-08-15T20:02:01+07:00",
+      "modified": "2026-11-28T12:53:56+07:00",
       "status": "publish",
       "featured": false,
       "format": "artikel",
@@ -3324,20 +3324,21 @@
         "B. Batak"
       ],
       "tags": [],
-      "author": "HKBP Perawang",
+      "author": "Tim Redaksi HKBP Perawang",
+      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
       "seoTitle": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
       "seoDesc": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
       "seoTarget": "Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK",
-      "pdfUrl": "https://drive.google.com/open?id=1nwohgR1iqhqr9r0CWO51-HUcuyuoZPDW&usp=drive_fs",
-      "driveId": "1nwohgR1iqhqr9r0CWO51-HUcuyuoZPDW",
+      "pdfUrl": "https://drive.google.com/open?id=1hf8mu1ERmh9IljwYUR7crqGOPf5r2fjm&usp=drive_fs",
+      "driveId": "1hf8mu1ERmh9IljwYUR7crqGOPf5r2fjm",
       "embeds": [
-        "https://drive.google.com/file/d/1nwohgR1iqhqr9r0CWO51-HUcuyuoZPDW/preview"
+        "https://drive.google.com/file/d/1hf8mu1ERmh9IljwYUR7crqGOPf5r2fjm/preview"
       ],
       "sourcePath": "warta-acara/2026/08_Agustus/15/Ibadah Minggu XI Dung Trinitatis (16-Ags-2026) – BTK.md",
-      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1nwohgR1iqhqr9r0CWO51-HUcuyuoZPDW&usp=drive_fs\""
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1hf8mu1ERmh9IljwYUR7crqGOPf5r2fjm&usp=drive_fs\""
     },
     {
       "id": 1893,
