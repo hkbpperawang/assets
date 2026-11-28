@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-28T05:56:57.703Z",
+  "generatedAt": "2026-11-28T15:08:50.027Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 123,
+  "totalPosts": 124,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -763,6 +763,60 @@
     "lastCategoryId": 93
   },
   "posts": [
+    {
+      "id": 167155059,
+      "slug": "ibadah-minggu-advent-i",
+      "title": "Ibadah Minggu Advent I",
+      "worshipDate": "2026-11-29",
+      "worshipShowDay": false,
+      "date": "2026-11-28T22:06:00+07:00",
+      "createdAt": "2026-11-28T22:08:47+07:00",
+      "modified": "2026-11-28T22:08:47+07:00",
+      "status": "publish",
+      "featured": false,
+      "format": "artikel",
+      "section": "warta",
+      "storageFolder": "2026/12_Desember",
+      "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-advent-i",
+      "categorySlug": "warta-acara",
+      "categories": [
+        15,
+        17,
+        19
+      ],
+      "categorySlugs": [
+        "warta-acara",
+        "ibadah-minggu",
+        "b-batak"
+      ],
+      "categoryNames": [
+        "Warta Acara",
+        "Ibadah Minggu",
+        "B. Batak"
+      ],
+      "tags": [
+        "ibadah-advent",
+        "minggu-advent",
+        "hkbp-perawang",
+        "advent",
+        "ibadah-natal"
+      ],
+      "author": "Tim Redaksi HKBP Perawang",
+      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
+      "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "excerpt": "Ikuti Ibadah Minggu Advent I di HKBP Perawang, momen penuh harapan dan persiapan menyambut Natal.",
+      "seoTitle": "Ibadah Minggu Advent I di HKBP Perawang",
+      "seoDesc": "Ikuti Ibadah Minggu Advent I di HKBP Perawang, momen penuh harapan dan persiapan menyambut Natal.",
+      "seoTarget": "Ibadah Minggu Advent I HKBP Perawang",
+      "pdfUrl": "https://drive.google.com/open?id=1m0XNU4iK0xuwpQ2oXBfPzGSdbw5BiX_a&usp=drive_fs",
+      "driveId": "1m0XNU4iK0xuwpQ2oXBfPzGSdbw5BiX_a",
+      "embeds": [
+        "https://drive.google.com/file/d/1m0XNU4iK0xuwpQ2oXBfPzGSdbw5BiX_a/preview"
+      ],
+      "sourcePath": "warta-acara/2026/12_Desember/Ibadah Minggu Advent I.md",
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1m0XNU4iK0xuwpQ2oXBfPzGSdbw5BiX_a&usp=drive_fs\""
+    },
     {
       "id": 135711797,
       "slug": "rumah-yang-dibuka",
