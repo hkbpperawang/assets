@@ -4,7 +4,7 @@ slug: "apresiasi-siswa-berprestasi-komitmen-dewan-diakonia-gereja-dalam-mendukun
 title: "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda"
 post_date: "2026-07-15 17:48:00"
 created_at: "2026-07-15 17:48:00"
-modified: "2026-11-28 12:41:07"
+modified: "2026-11-28 12:41:27"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
@@ -18,12 +18,18 @@ custom_fields:
     author_role: "Kontributor & Pelayanan Media Jemaat HKBP Perawang"
     author_img: "https://cdn.hkbpperawang.org/assets/images/logo/logo-hkbp-ks0j976124.webp"
     post_format: "artikel"
-    seo_target: "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda"
-    site_seo_title: "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda"
-    site_seo_desc: "Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istimewa bagi seluruh jemaat. Tepat setelah penyampaian khotbah di shift …"
+    seo_target: "apresiasi siswa berprestasi gereja hkpb perawang"
+    site_seo_title: "Apresiasi Siswa Berprestasi HKBP Perawang 2026"
+    site_seo_desc: "Gereja HKBP Perawang beri penghargaan siswa berprestasi sebagai dukungan pendidikan generasi muda dan motivasi akademis."
 taxonomy:
     category:
         - kegiatan
+    post_tag:
+        - siswa-berprestasi
+        - gereja-hkpb
+        - pendidikan-generasi-muda
+        - dewan-diakonia
+        - penghargaan-akademis
 ---
 
 Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istimewa bagi seluruh jemaat. Tepat setelah penyampaian khotbah di shift ke II selesai, Gereja menyelenggarakan kegiatan tahunan pemberian penghargaan bagi Anak Jemaat yang berprestasi di bidang akademis. Kegiatan ini diinisiasi dan diselenggarakan oleh Dewan Diakonia Gereja sebagai bentuk kepedulian nyata terhadap masa depan pendidikan generasi muda.
