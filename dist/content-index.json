@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:41:10.034Z",
+  "generatedAt": "2026-11-28T05:41:29.831Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 123,
   "artikelFolders": [
@@ -3869,7 +3869,7 @@
       "title": "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda",
       "date": "2026-07-15T17:48:00+07:00",
       "createdAt": "2026-07-15T17:48:00+07:00",
-      "modified": "2026-11-28T12:41:07+07:00",
+      "modified": "2026-11-28T12:41:27+07:00",
       "status": "publish",
       "featured": false,
       "format": "artikel",
@@ -3886,16 +3886,22 @@
       "categoryNames": [
         "Kegiatan"
       ],
-      "tags": [],
+      "tags": [
+        "siswa-berprestasi",
+        "gereja-hkpb",
+        "pendidikan-generasi-muda",
+        "dewan-diakonia",
+        "penghargaan-akademis"
+      ],
       "author": "HKBP Perawang",
       "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "authorImg": "https://cdn.hkbpperawang.org/assets/images/logo/logo-hkbp-ks0j976124.webp",
       "image": "https://cdn.hkbpperawang.org/assets/images/covers/2026/apresiasi-siswa-berprestasi-komitmen-dewan-diakonia-gereja-dalam-mendukung-pendi-c26ie9cc42.webp",
       "rawImage": "https://cdn.hkbpperawang.org/assets/images/covers/2026/apresiasi-siswa-berprestasi-komitmen-dewan-diakonia-gereja-dalam-mendukung-pendi-c26ie9cc42.webp",
       "excerpt": "Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istimewa bagi seluruh jemaat. Tepat setelah penyampaian khotbah di shift ke II selesai, Gereja menyelenggarakan kegiatan tahunan pemberian penghargaan bagi Anak ",
-      "seoTitle": "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda",
-      "seoDesc": "Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istimewa bagi seluruh jemaat. Tepat setelah penyampaian khotbah di shift …",
-      "seoTarget": "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda",
+      "seoTitle": "Apresiasi Siswa Berprestasi HKBP Perawang 2026",
+      "seoDesc": "Gereja HKBP Perawang beri penghargaan siswa berprestasi sebagai dukungan pendidikan generasi muda dan motivasi akademis.",
+      "seoTarget": "apresiasi siswa berprestasi gereja hkpb perawang",
       "pdfUrl": null,
       "driveId": null,
       "embeds": [],
