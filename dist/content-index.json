@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-28T15:10:43.626Z",
+  "generatedAt": "2026-11-28T15:11:43.636Z",
   "repo": "hkbpperawang/assets",
-  "totalPosts": 124,
+  "totalPosts": 125,
   "artikelFolders": [
     "bacaan",
     "berita",
@@ -763,6 +763,59 @@
     "lastCategoryId": 93
   },
   "posts": [
+    {
+      "id": 807568333,
+      "slug": "ibadah-minggu-advent-i-btk",
+      "title": "Ibadah Minggu Advent I - BTK",
+      "worshipDate": "2026-11-29",
+      "date": "2026-11-28T22:10:00+07:00",
+      "createdAt": "2026-11-28T22:11:40+07:00",
+      "modified": "2026-11-28T22:11:40+07:00",
+      "status": "publish",
+      "featured": false,
+      "format": "artikel",
+      "section": "warta",
+      "storageFolder": "2026/12_Desember",
+      "link": "https://www.hkbpperawang.org/warta-acara/ibadah-minggu-advent-i-btk",
+      "categorySlug": "warta-acara",
+      "categories": [
+        15,
+        17,
+        19
+      ],
+      "categorySlugs": [
+        "warta-acara",
+        "ibadah-minggu",
+        "b-batak"
+      ],
+      "categoryNames": [
+        "Warta Acara",
+        "Ibadah Minggu",
+        "B. Batak"
+      ],
+      "tags": [
+        "ibadah",
+        "minggu-advent",
+        "hkpb-perawang",
+        "advent",
+        "gereja"
+      ],
+      "author": "Tim Redaksi HKBP Perawang",
+      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
+      "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
+      "excerpt": "Ikuti Ibadah Minggu Advent I di HKBP Perawang, momen penuh harapan dan persiapan menyambut Natal.",
+      "seoTitle": "Ibadah Minggu Advent I di HKBP Perawang",
+      "seoDesc": "Ikuti Ibadah Minggu Advent I di HKBP Perawang, momen penuh harapan dan persiapan menyambut Natal.",
+      "seoTarget": "ibadah minggu advent hkpb perawang",
+      "pdfUrl": "https://drive.google.com/open?id=1zPGm_kvyCDIVpRtRPbHxytG9mJAoAvLL&usp=drive_fs",
+      "driveId": "1zPGm_kvyCDIVpRtRPbHxytG9mJAoAvLL",
+      "embeds": [
+        "https://drive.google.com/file/d/1zPGm_kvyCDIVpRtRPbHxytG9mJAoAvLL/preview"
+      ],
+      "sourcePath": "warta-acara/2026/12_Desember/Ibadah Minggu Advent I - BTK.md",
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1zPGm_kvyCDIVpRtRPbHxytG9mJAoAvLL&usp=drive_fs\""
+    },
     {
       "id": 167155059,
       "slug": "ibadah-minggu-advent-i",
