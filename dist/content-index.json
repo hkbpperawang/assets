@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T15:08:50.027Z",
+  "generatedAt": "2026-11-28T15:09:53.486Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 124,
   "artikelFolders": [
@@ -768,10 +768,9 @@
       "slug": "ibadah-minggu-advent-i",
       "title": "Ibadah Minggu Advent I",
       "worshipDate": "2026-11-29",
-      "worshipShowDay": false,
-      "date": "2026-11-28T22:06:00+07:00",
+      "date": "2026-11-28T22:08:00+07:00",
       "createdAt": "2026-11-28T22:08:47+07:00",
-      "modified": "2026-11-28T22:08:47+07:00",
+      "modified": "2026-11-28T22:09:50+07:00",
       "status": "publish",
       "featured": false,
       "format": "artikel",
@@ -795,11 +794,11 @@
         "B. Batak"
       ],
       "tags": [
-        "ibadah-advent",
+        "ibadah",
+        "advent",
         "minggu-advent",
         "hkbp-perawang",
-        "advent",
-        "ibadah-natal"
+        "natal"
       ],
       "author": "Tim Redaksi HKBP Perawang",
       "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
@@ -809,13 +808,13 @@
       "seoTitle": "Ibadah Minggu Advent I di HKBP Perawang",
       "seoDesc": "Ikuti Ibadah Minggu Advent I di HKBP Perawang, momen penuh harapan dan persiapan menyambut Natal.",
       "seoTarget": "Ibadah Minggu Advent I HKBP Perawang",
-      "pdfUrl": "https://drive.google.com/open?id=1m0XNU4iK0xuwpQ2oXBfPzGSdbw5BiX_a&usp=drive_fs",
-      "driveId": "1m0XNU4iK0xuwpQ2oXBfPzGSdbw5BiX_a",
+      "pdfUrl": "https://drive.google.com/open?id=1zPGm_kvyCDIVpRtRPbHxytG9mJAoAvLL&usp=drive_fs",
+      "driveId": "1zPGm_kvyCDIVpRtRPbHxytG9mJAoAvLL",
       "embeds": [
-        "https://drive.google.com/file/d/1m0XNU4iK0xuwpQ2oXBfPzGSdbw5BiX_a/preview"
+        "https://drive.google.com/file/d/1zPGm_kvyCDIVpRtRPbHxytG9mJAoAvLL/preview"
       ],
       "sourcePath": "warta-acara/2026/12_Desember/Ibadah Minggu Advent I.md",
-      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1m0XNU4iK0xuwpQ2oXBfPzGSdbw5BiX_a&usp=drive_fs\""
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1zPGm_kvyCDIVpRtRPbHxytG9mJAoAvLL&usp=drive_fs\""
     },
     {
       "id": 135711797,
