@@ -3,9 +3,10 @@ id: 807568333
 slug: "ibadah-minggu-advent-i-btk"
 title: "Ibadah Minggu Advent I - BTK"
 worship_date: "2026-11-29"
+worship_show_day: false
 post_date: "2026-11-28 22:10:00"
 created_at: "2026-11-28 22:11:40"
-modified: "2026-11-28 22:11:40"
+modified: "2026-11-28 22:16:34"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
