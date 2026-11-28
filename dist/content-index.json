@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:51:36.327Z",
+  "generatedAt": "2026-11-28T05:52:13.664Z",
   "repo": "hkbpperawang/assets",
   "totalPosts": 123,
   "artikelFolders": [
@@ -3168,7 +3168,7 @@
       "worshipDate": "2026-08-23",
       "date": "2026-08-22T21:02:00+07:00",
       "createdAt": "2026-08-22T21:02:00+07:00",
-      "modified": "2026-08-22T21:02:00+07:00",
+      "modified": "2026-11-28T12:52:11+07:00",
       "status": "publish",
       "featured": false,
       "format": "artikel",
@@ -3192,20 +3192,21 @@
         "B. Batak"
       ],
       "tags": [],
-      "author": "HKBP Perawang",
+      "author": "Tim Redaksi HKBP Perawang",
+      "authorRole": "Kontributor & Pelayanan Media Jemaat HKBP Perawang",
       "image": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "rawImage": "https://cdn.hkbpperawang.org/assets/uploads/logo-hkbp.webp",
       "excerpt": "Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK",
       "seoTitle": "Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK",
       "seoDesc": "Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK",
       "seoTarget": "Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK",
-      "pdfUrl": "https://drive.google.com/open?id=1td7_8GLAVBzonsTN5TF300z_v6TiE45S&usp=drive_fs",
-      "driveId": "1td7_8GLAVBzonsTN5TF300z_v6TiE45S",
+      "pdfUrl": "https://drive.google.com/open?id=1x1SvQqA6gvH8iWLBrpkzMLTkHiNiS2L4&usp=drive_fs",
+      "driveId": "1x1SvQqA6gvH8iWLBrpkzMLTkHiNiS2L4",
       "embeds": [
-        "https://drive.google.com/file/d/1td7_8GLAVBzonsTN5TF300z_v6TiE45S/preview"
+        "https://drive.google.com/file/d/1x1SvQqA6gvH8iWLBrpkzMLTkHiNiS2L4/preview"
       ],
       "sourcePath": "warta-acara/2026/08_Agustus/22/Ibadah Minggu XII Dung Trinitatis (23-Ags-2026) – BTK.md",
-      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1td7_8GLAVBzonsTN5TF300z_v6TiE45S&usp=drive_fs\""
+      "rawMarkdown": "pdf_url=\"https://drive.google.com/open?id=1x1SvQqA6gvH8iWLBrpkzMLTkHiNiS2L4&usp=drive_fs\""
     },
     {
       "id": 1896,
