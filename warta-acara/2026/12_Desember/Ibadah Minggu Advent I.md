@@ -3,10 +3,9 @@ id: 167155059
 slug: "ibadah-minggu-advent-i"
 title: "Ibadah Minggu Advent I"
 worship_date: "2026-11-29"
-worship_show_day: false
-post_date: "2026-11-28 22:06:00"
+post_date: "2026-11-28 22:08:00"
 created_at: "2026-11-28 22:08:47"
-modified: "2026-11-28 22:08:47"
+modified: "2026-11-28 22:09:50"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
@@ -23,11 +22,11 @@ taxonomy:
         - ibadah-minggu
             - b-batak
     post_tag:
-        - ibadah-advent
+        - ibadah
+        - advent
         - minggu-advent
         - hkbp-perawang
-        - advent
-        - ibadah-natal
+        - natal
 ---
 
-pdf_url="https://drive.google.com/open?id=1m0XNU4iK0xuwpQ2oXBfPzGSdbw5BiX_a&usp=drive_fs"
+pdf_url="https://drive.google.com/open?id=1zPGm_kvyCDIVpRtRPbHxytG9mJAoAvLL&usp=drive_fs"
