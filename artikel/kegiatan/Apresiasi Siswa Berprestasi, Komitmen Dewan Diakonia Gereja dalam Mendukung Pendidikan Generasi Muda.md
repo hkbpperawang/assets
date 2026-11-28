@@ -4,7 +4,7 @@ slug: "apresiasi-siswa-berprestasi-komitmen-dewan-diakonia-gereja-dalam-mendukun
 title: "Apresiasi Siswa Berprestasi: Komitmen Dewan Diakonia Gereja dalam Mendukung Pendidikan Generasi Muda"
 post_date: "2026-07-15 17:48:00"
 created_at: "2026-07-15 17:48:00"
-modified: "2026-11-28 12:41:27"
+modified: "2026-11-28 12:41:44"
 post_excerpt: ""
 post_status: "publish"
 type: "post"
@@ -36,7 +36,7 @@ Ibadah Minggu pada tanggal 12 Juli 2026 menjadi momen yang istimewa bagi seluruh
 
 Kegiatan tahunan ini berjalan dengan baik di bawah koordinasi dan kepemimpinan Ketua Dewan Diakonia, St. R. Harianja. Melalui program ini, Gereja berharap dapat memberikan motivasi tambahan bagi anak-anak jemaat untuk terus mengembangkan potensi akademis mereka.
 
-Penyerahan Penghargaan dan Bentuk Apresiasi.
+## Penyerahan Penghargaan dan Bentuk Apresiasi.
 
 Bentuk apresiasi yang diberikan berupa uang pembinaan dan piagam penghargaan. Penyerahan penghargaan dilakukan secara langsung oleh Pdt. Eko Marbun, S.Th, dengan didampingi oleh Sintua **St. B. br. Simaremare** dan anggota dewan diakonia yang hadir, antara lain **St. G. Situmorang** dan **R. Napitupulu.**
 
